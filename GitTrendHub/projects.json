@@ -11,14 +11,14 @@
       },
       {
         "url_path": "ggerganov/llama.cpp",
-        "last_stars": 96460,
+        "last_stars": 96462,
         "last_desc": "LLM inference in C/C++",
         "last_lang": "C++",
         "last_forks": 15208
       },
       {
         "url_path": "vllm-project/vllm",
-        "last_stars": 71794,
+        "last_stars": 71796,
         "last_desc": "A high-throughput and memory-efficient inference and serving engine for LLMs",
         "last_lang": "Python",
         "last_forks": 13896
@@ -37,10 +37,10 @@
     "repos": [
       {
         "url_path": "openclaw/openclaw",
-        "last_stars": 253528,
+        "last_stars": 253548,
         "last_desc": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. \ud83e\udd9e ",
         "last_lang": "TypeScript",
-        "last_forks": 48696
+        "last_forks": 48698
       },
       {
         "url_path": "Significant-Gravitas/AutoGPT",
@@ -51,14 +51,14 @@
       },
       {
         "url_path": "joaomdmoura/crewAI",
-        "last_stars": 45048,
+        "last_stars": 45049,
         "last_desc": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
         "last_lang": "Python",
         "last_forks": 6045
       },
       {
         "url_path": "browser-use/browser-use",
-        "last_stars": 79472,
+        "last_stars": 79473,
         "last_desc": "\ud83c\udf10 Make websites accessible for AI agents. Automate tasks online with ease.",
         "last_lang": "Python",
         "last_forks": 9397
@@ -70,7 +70,7 @@
     "repos": [
       {
         "url_path": "paul-gauthier/aider",
-        "last_stars": 41166,
+        "last_stars": 41167,
         "last_desc": "aider is AI pair programming in your terminal",
         "last_lang": "Python",
         "last_forks": 3937
@@ -84,10 +84,10 @@
       },
       {
         "url_path": "anthropics/claude-code",
-        "last_stars": 73172,
+        "last_stars": 73174,
         "last_desc": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
         "last_lang": "Shell",
-        "last_forks": 5799
+        "last_forks": 5800
       }
     ]
   },
@@ -129,7 +129,7 @@
       },
       {
         "url_path": "langchain-ai/langchain",
-        "last_stars": 128068,
+        "last_stars": 128069,
         "last_desc": "The agent engineering platform",
         "last_lang": "Python",
         "last_forks": 21038
