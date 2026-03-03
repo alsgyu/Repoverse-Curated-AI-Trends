@@ -30,8 +30,12 @@
 - [🤖 AI & Machine Learning](#ai)
 - [🌐 Modern Web Development](#web)
 - [⚡️ Productivity & Tools](#productivity)
+- [♾️ DevOps & Cloud Native](#devops)
+- [🛡️ Cybersecurity & Pentesting](#security)
+- [📱 Mobile Development](#mobile)
 - [🗄️ Databases & Infrastructure](#databases)
-- [📝 Data & Contributions](#-data--contributions)
+- [🤝 How to Contribute](#how-to-contribute)
+- [📝 Data Summary](#-data--contributions)
 
 <br />
 
@@ -39,15 +43,53 @@
 
 ---
 
-## 📝 Data & Contributions
+<h2 id="how-to-contribute">🤝 Join the Community & Contribute</h2>
+
+We are looking for passionate contributors to help keep this dashboard the #1 resource for GitHub trends! 🚀
+
+<details>
+<summary><b>🔥 How to Recommend a Trending Repo? (Click to Expand)</b></summary>
+<br>
+
+If you've found a repository that is blowing up or is a hidden gem, we want to know!
+1. **Open `GitTrendHub/projects.json`**.
+2. Find the relevant category (or suggest a new one).
+3. Add the repository in this format:
+   ```json
+   { "url_path": "OWNER/REPO", "last_stars": 0 }
+   ```
+4. Submit a **Pull Request** titled `Recommend: OWNER/REPO`.
+</details>
+
+<details>
+<summary><b>🛠️ How to Contribute to the Tooling? (Click to Expand)</b></summary>
+<br>
+
+Want to improve our custom SVG generator or README layouts?
+1. **Fork** this repository.
+2. Clone it locally: `git clone https://github.com/YOUR_USERNAME/GitTrendHub.git`
+3. Modify `GitTrendHub/update_readme.py` or the template.
+4. Run locally to verify: `python3 GitTrendHub/update_readme.py`
+5. Submit a **Pull Request** explaining your enhancements!
+</details>
+
+<details>
+<summary><b>📊 Guideline for "Trending" Status</b></summary>
+<br>
+
+To maintain high quality, we generally look for repos that:
+- Have gained **>100 stars** in the last week.
+- Are actively maintained (recent commits).
+- Provide clear value to the developer community.
+</details>
+
+<br />
+
+---
+
+## 📝 Data Summary
 
 Data is retrieved using the GitHub REST API and GitHub Actions. Historical data charts are seamlessly generated via [Star-History](https://star-history.com/).
-
-### Want your project mapped here?
-Contributions are incredibly welcome! To add a new project or category:
-1. `Fork` this repository.
-2. Add your favorite `OWNER/REPO` to the `projects.json` file.
-3. Open a `Pull Request`! Our automated workflow will pick it up on the next run.
 
 <div align="right">
   <i>✨ Last Generated: {{ timestamp }}</i>

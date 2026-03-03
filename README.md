@@ -36,8 +36,12 @@
 - [🤖 AI & Machine Learning](#ai)
 - [🌐 Modern Web Development](#web)
 - [⚡️ Productivity & Tools](#productivity)
+- [♾️ DevOps & Cloud Native](#devops)
+- [🛡️ Cybersecurity & Pentesting](#security)
+- [📱 Mobile Development](#mobile)
 - [🗄️ Databases & Infrastructure](#databases)
-- [📝 Data & Contributions](#-data--contributions)
+- [🤝 How to Contribute](#how-to-contribute)
+- [📝 Data Summary](#-data--contributions)
 
 <br />
 
@@ -434,6 +438,201 @@
 
 ---
 
+<h2 id='devops'>♾️ DevOps & Cloud Native</h2>
+
+
+<table width="100%">
+  <tr>
+    <td width="60%" style="vertical-align: top;">
+      <h3><a href="https://github.com/kubernetes/kubernetes">kubernetes</a></h3>
+      <p>Production-Grade Container Scheduling and Management</p>
+      <img src="GitTrendHub/assets/kubernetes_kubernetes.svg" alt="kubernetes stats" width="400">
+    </td>
+    <td width="40%" style="vertical-align: top; text-align: center;">
+      <a href="https://star-history.com/#kubernetes/kubernetes&Date">
+        <img src="https://api.star-history.com/svg?repos=kubernetes/kubernetes&type=Date" alt="Star History" width="100%">
+      </a>
+    </td>
+  </tr>
+</table>
+
+<p align="right"><a href="#table-of-contents">🔼 Back to Top</a></p>
+
+
+<table width="100%">
+  <tr>
+    <td width="60%" style="vertical-align: top;">
+      <h3><a href="https://github.com/prometheus/prometheus">prometheus</a></h3>
+      <p>The Prometheus monitoring system and time series database.</p>
+      <img src="GitTrendHub/assets/prometheus_prometheus.svg" alt="prometheus stats" width="400">
+    </td>
+    <td width="40%" style="vertical-align: top; text-align: center;">
+      <a href="https://star-history.com/#prometheus/prometheus&Date">
+        <img src="https://api.star-history.com/svg?repos=prometheus/prometheus&type=Date" alt="Star History" width="100%">
+      </a>
+    </td>
+  </tr>
+</table>
+
+<p align="right"><a href="#table-of-contents">🔼 Back to Top</a></p>
+
+
+<table width="100%">
+  <tr>
+    <td width="60%" style="vertical-align: top;">
+      <h3><a href="https://github.com/hashicorp/terraform">terraform</a></h3>
+      <p>Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available ...</p>
+      <img src="GitTrendHub/assets/hashicorp_terraform.svg" alt="terraform stats" width="400">
+    </td>
+    <td width="40%" style="vertical-align: top; text-align: center;">
+      <a href="https://star-history.com/#hashicorp/terraform&Date">
+        <img src="https://api.star-history.com/svg?repos=hashicorp/terraform&type=Date" alt="Star History" width="100%">
+      </a>
+    </td>
+  </tr>
+</table>
+
+<p align="right"><a href="#table-of-contents">🔼 Back to Top</a></p>
+
+
+<table width="100%">
+  <tr>
+    <td width="60%" style="vertical-align: top;">
+      <h3><a href="https://github.com/docker/compose">compose</a></h3>
+      <p>Define and run multi-container applications with Docker</p>
+      <img src="GitTrendHub/assets/docker_compose.svg" alt="compose stats" width="400">
+    </td>
+    <td width="40%" style="vertical-align: top; text-align: center;">
+      <a href="https://star-history.com/#docker/compose&Date">
+        <img src="https://api.star-history.com/svg?repos=docker/compose&type=Date" alt="Star History" width="100%">
+      </a>
+    </td>
+  </tr>
+</table>
+
+<p align="right"><a href="#table-of-contents">🔼 Back to Top</a></p>
+
+
+---
+
+<h2 id='security'>🛡️ Cybersecurity & Pentesting</h2>
+
+
+<table width="100%">
+  <tr>
+    <td width="60%" style="vertical-align: top;">
+      <h3><a href="https://github.com/swisskyrepo/PayloadsAllTheThings">PayloadsAllTheThings</a></h3>
+      <p>A list of useful payloads and bypass for Web Application Security and Pentest/CTF</p>
+      <img src="GitTrendHub/assets/swisskyrepo_PayloadsAllTheThings.svg" alt="PayloadsAllTheThings stats" width="400">
+    </td>
+    <td width="40%" style="vertical-align: top; text-align: center;">
+      <a href="https://star-history.com/#swisskyrepo/PayloadsAllTheThings&Date">
+        <img src="https://api.star-history.com/svg?repos=swisskyrepo/PayloadsAllTheThings&type=Date" alt="Star History" width="100%">
+      </a>
+    </td>
+  </tr>
+</table>
+
+<p align="right"><a href="#table-of-contents">🔼 Back to Top</a></p>
+
+
+<table width="100%">
+  <tr>
+    <td width="60%" style="vertical-align: top;">
+      <h3><a href="https://github.com/sqlmapproject/sqlmap">sqlmap</a></h3>
+      <p>Automatic SQL injection and database takeover tool</p>
+      <img src="GitTrendHub/assets/sqlmapproject_sqlmap.svg" alt="sqlmap stats" width="400">
+    </td>
+    <td width="40%" style="vertical-align: top; text-align: center;">
+      <a href="https://star-history.com/#sqlmapproject/sqlmap&Date">
+        <img src="https://api.star-history.com/svg?repos=sqlmapproject/sqlmap&type=Date" alt="Star History" width="100%">
+      </a>
+    </td>
+  </tr>
+</table>
+
+<p align="right"><a href="#table-of-contents">🔼 Back to Top</a></p>
+
+
+<table width="100%">
+  <tr>
+    <td width="60%" style="vertical-align: top;">
+      <h3><a href="https://github.com/offensive-security/exploitdb">exploitdb</a></h3>
+      <p>The legacy Exploit Database repository - New repo located at https://gitlab.com/exploit-database/exploitdb</p>
+      <img src="GitTrendHub/assets/offensive-security_exploitdb.svg" alt="exploitdb stats" width="400">
+    </td>
+    <td width="40%" style="vertical-align: top; text-align: center;">
+      <a href="https://star-history.com/#offensive-security/exploitdb&Date">
+        <img src="https://api.star-history.com/svg?repos=offensive-security/exploitdb&type=Date" alt="Star History" width="100%">
+      </a>
+    </td>
+  </tr>
+</table>
+
+<p align="right"><a href="#table-of-contents">🔼 Back to Top</a></p>
+
+
+---
+
+<h2 id='mobile'>📱 Mobile Development</h2>
+
+
+<table width="100%">
+  <tr>
+    <td width="60%" style="vertical-align: top;">
+      <h3><a href="https://github.com/flutter/flutter">flutter</a></h3>
+      <p>Flutter makes it easy and fast to build beautiful apps for mobile and beyond</p>
+      <img src="GitTrendHub/assets/flutter_flutter.svg" alt="flutter stats" width="400">
+    </td>
+    <td width="40%" style="vertical-align: top; text-align: center;">
+      <a href="https://star-history.com/#flutter/flutter&Date">
+        <img src="https://api.star-history.com/svg?repos=flutter/flutter&type=Date" alt="Star History" width="100%">
+      </a>
+    </td>
+  </tr>
+</table>
+
+<p align="right"><a href="#table-of-contents">🔼 Back to Top</a></p>
+
+
+<table width="100%">
+  <tr>
+    <td width="60%" style="vertical-align: top;">
+      <h3><a href="https://github.com/facebook/react-native">react-native</a></h3>
+      <p>A framework for building native applications using React</p>
+      <img src="GitTrendHub/assets/facebook_react-native.svg" alt="react-native stats" width="400">
+    </td>
+    <td width="40%" style="vertical-align: top; text-align: center;">
+      <a href="https://star-history.com/#facebook/react-native&Date">
+        <img src="https://api.star-history.com/svg?repos=facebook/react-native&type=Date" alt="Star History" width="100%">
+      </a>
+    </td>
+  </tr>
+</table>
+
+<p align="right"><a href="#table-of-contents">🔼 Back to Top</a></p>
+
+
+<table width="100%">
+  <tr>
+    <td width="60%" style="vertical-align: top;">
+      <h3><a href="https://github.com/ionic-team/ionic-framework">ionic-framework</a></h3>
+      <p>A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CS...</p>
+      <img src="GitTrendHub/assets/ionic-team_ionic-framework.svg" alt="ionic-framework stats" width="400">
+    </td>
+    <td width="40%" style="vertical-align: top; text-align: center;">
+      <a href="https://star-history.com/#ionic-team/ionic-framework&Date">
+        <img src="https://api.star-history.com/svg?repos=ionic-team/ionic-framework&type=Date" alt="Star History" width="100%">
+      </a>
+    </td>
+  </tr>
+</table>
+
+<p align="right"><a href="#table-of-contents">🔼 Back to Top</a></p>
+
+
+---
+
 <h2 id='databases'>🗄️ Databases & Infrastructure</h2>
 
 
@@ -496,16 +695,54 @@
 
 ---
 
-## 📝 Data & Contributions
+<h2 id="how-to-contribute">🤝 Join the Community & Contribute</h2>
+
+We are looking for passionate contributors to help keep this dashboard the #1 resource for GitHub trends! 🚀
+
+<details>
+<summary><b>🔥 How to Recommend a Trending Repo? (Click to Expand)</b></summary>
+<br>
+
+If you've found a repository that is blowing up or is a hidden gem, we want to know!
+1. **Open `GitTrendHub/projects.json`**.
+2. Find the relevant category (or suggest a new one).
+3. Add the repository in this format:
+   ```json
+   { "url_path": "OWNER/REPO", "last_stars": 0 }
+   ```
+4. Submit a **Pull Request** titled `Recommend: OWNER/REPO`.
+</details>
+
+<details>
+<summary><b>🛠️ How to Contribute to the Tooling? (Click to Expand)</b></summary>
+<br>
+
+Want to improve our custom SVG generator or README layouts?
+1. **Fork** this repository.
+2. Clone it locally: `git clone https://github.com/YOUR_USERNAME/GitTrendHub.git`
+3. Modify `GitTrendHub/update_readme.py` or the template.
+4. Run locally to verify: `python3 GitTrendHub/update_readme.py`
+5. Submit a **Pull Request** explaining your enhancements!
+</details>
+
+<details>
+<summary><b>📊 Guideline for "Trending" Status</b></summary>
+<br>
+
+To maintain high quality, we generally look for repos that:
+- Have gained **>100 stars** in the last week.
+- Are actively maintained (recent commits).
+- Provide clear value to the developer community.
+</details>
+
+<br />
+
+---
+
+## 📝 Data Summary
 
 Data is retrieved using the GitHub REST API and GitHub Actions. Historical data charts are seamlessly generated via [Star-History](https://star-history.com/).
 
-### Want your project mapped here?
-Contributions are incredibly welcome! To add a new project or category:
-1. `Fork` this repository.
-2. Add your favorite `OWNER/REPO` to the `projects.json` file.
-3. Open a `Pull Request`! Our automated workflow will pick it up on the next run.
-
 <div align="right">
-  <i>✨ Last Generated: March 03, 2026 - 15:12 UTC</i>
+  <i>✨ Last Generated: March 03, 2026 - 15:19 UTC</i>
 </div>

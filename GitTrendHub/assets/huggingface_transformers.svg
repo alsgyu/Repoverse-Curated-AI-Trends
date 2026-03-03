@@ -5,7 +5,7 @@
   
   <g transform="translate(20, 80)">
     <circle cx="5" cy="0" r="5" fill="#e3b341"/>
-    <text x="15" y="4" font-family="Arial, sans-serif" font-size="14" fill="#c9d1d9">157,292 stars</text>
+    <text x="15" y="4" font-family="Arial, sans-serif" font-size="14" fill="#c9d1d9">157,294 stars</text>
   </g>
   
   <g transform="translate(150, 80)">
@@ -14,7 +14,7 @@
   </g>
   
   <g transform="translate(20, 115)">
-    <text x="0" y="4" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#3fb950">Weekly Growth: ▲ 1</text>
+    <text x="0" y="4" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#3fb950">Weekly Growth: ▲ 15,371</text>
   </g>
   
   <rect x="300" y="20" width="80" height="25" rx="5" fill="#21262d" stroke="#30363d"/>

@@ -8,7 +8,7 @@
       },
       {
         "url_path": "Significant-Gravitas/AutoGPT",
-        "last_stars": 182183
+        "last_stars": 182182
       },
       {
         "url_path": "langchain-ai/langchain",
@@ -16,11 +16,11 @@
       },
       {
         "url_path": "AUTOMATIC1111/stable-diffusion-webui",
-        "last_stars": 161451
+        "last_stars": 161452
       },
       {
         "url_path": "huggingface/transformers",
-        "last_stars": 157292
+        "last_stars": 157294
       },
       {
         "url_path": "ggerganov/llama.cpp",
@@ -57,7 +57,7 @@
       },
       {
         "url_path": "vitejs/vite",
-        "last_stars": 78529
+        "last_stars": 78530
       },
       {
         "url_path": "remix-run/remix",
@@ -78,7 +78,7 @@
       },
       {
         "url_path": "jesseduffield/lazygit",
-        "last_stars": 73376
+        "last_stars": 73378
       },
       {
         "url_path": "neovim/neovim",
@@ -94,7 +94,62 @@
       },
       {
         "url_path": "alacritty/alacritty",
-        "last_stars": 62742
+        "last_stars": 62744
+      }
+    ]
+  },
+  "devops": {
+    "title": "\u267e\ufe0f DevOps & Cloud Native",
+    "repos": [
+      {
+        "url_path": "kubernetes/kubernetes",
+        "last_stars": 120875
+      },
+      {
+        "url_path": "docker/compose",
+        "last_stars": 37095
+      },
+      {
+        "url_path": "hashicorp/terraform",
+        "last_stars": 47837
+      },
+      {
+        "url_path": "prometheus/prometheus",
+        "last_stars": 62993
+      }
+    ]
+  },
+  "security": {
+    "title": "\ud83d\udee1\ufe0f Cybersecurity & Pentesting",
+    "repos": [
+      {
+        "url_path": "swisskyrepo/PayloadsAllTheThings",
+        "last_stars": 75676
+      },
+      {
+        "url_path": "offensive-security/exploitdb",
+        "last_stars": 7844
+      },
+      {
+        "url_path": "sqlmapproject/sqlmap",
+        "last_stars": 36739
+      }
+    ]
+  },
+  "mobile": {
+    "title": "\ud83d\udcf1 Mobile Development",
+    "repos": [
+      {
+        "url_path": "flutter/flutter",
+        "last_stars": 175415
+      },
+      {
+        "url_path": "facebook/react-native",
+        "last_stars": 125490
+      },
+      {
+        "url_path": "ionic-team/ionic-framework",
+        "last_stars": 52383
       }
     ]
   },
@@ -107,11 +162,11 @@
       },
       {
         "url_path": "postgres/postgres",
-        "last_stars": 20168
+        "last_stars": 20169
       },
       {
         "url_path": "supabase/supabase",
-        "last_stars": 98442
+        "last_stars": 98443
       }
     ]
   }
