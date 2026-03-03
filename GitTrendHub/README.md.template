@@ -16,14 +16,24 @@
 
 ## 📑 Table of Contents
 
-[🤖 LLM Engines & Platforms](#llm_engines)
-[🛠️ AI Agents & Orchestration](#agents)
-[💻 AI-Powered CLI & DevTools](#cli_tools)
-[🎨 Generative Art & Vision](#art_vision)
-[🧠 Research & Core Frameworks](#frameworks)
-[🌐 AI Resource Navigator](#ai-resource-navigator)
-[🤝 Join the Community & Contribute](#how-to-contribute)
-[📝 Data Summary](#-data--contributions)
+<table width="100%">
+  <tr>
+    <td width="50%"><b>🤖 <a href="#llm_engines">LLM Engines & Platforms</a></b></td>
+    <td width="50%"><b>🧠 <a href="#frameworks">Research & Core Frameworks</a></b></td>
+  </tr>
+  <tr>
+    <td width="50%"><b>🛠️ <a href="#agents">AI Agents & Orchestration</a></b></td>
+    <td width="50%"><b>� <a href="#ai-resource-navigator">AI Resource Navigator</a></b></td>
+  </tr>
+  <tr>
+    <td width="50%"><b>💻 <a href="#cli_tools">AI CLI & Developer Tools</a></b></td>
+    <td width="50%"><b>🤝 <a href="#how-to-contribute">Community & Participation</a></b></td>
+  </tr>
+  <tr>
+    <td width="50%"><b>🎨 <a href="#art_vision">Generative Art & Vision</a></b></td>
+    <td width="50%"><b>� <a href="#-data--contributions">Data Summary</a></b></td>
+  </tr>
+</table>
 
 <br />
 
