@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="GitTrendHub/image.avif" alt="AI TrendHub Banner" width="800">
+  <img src="GitTrendHub/image3.jpg" alt="AI TrendHub Banner" width="800">
 </div>
 
 <div align="center">
@@ -8,10 +8,10 @@
 # 🤖 AI TrendHub – The Pulse of Artificial Intelligence
 </br>
 
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME/GitTrendHub?style=for-the-badge&color=F9D342&logo=github" alt="Dashboard Stars">
-  <img src="https://img.shields.io/github/last-commit/YOUR_USERNAME/GitTrendHub?style=for-the-badge&color=292826&logo=git" alt="Last Commit">
-  <a href="https://github.com/YOUR_USERNAME/GitTrendHub/actions">
-    <img src="https://img.shields.io/github/actions/workflow/status/YOUR_USERNAME/GitTrendHub/update.yml?style=for-the-badge&logo=githubactions&logoColor=white" alt="Update Status">
+  <img src="https://img.shields.io/github/stars/alsgyu/Repoverse-Curated-GitHub-Trends?style=for-the-badge&color=F9D342&logo=github" alt="Dashboard Stars">
+  <img src="https://img.shields.io/github/last-commit/alsgyu/Repoverse-Curated-GitHub-Trends?style=for-the-badge&color=292826&logo=git" alt="Last Commit">
+  <a href="https://github.com/alsgyu/Repoverse-Curated-GitHub-Trends/actions">
+    <img src="https://img.shields.io/github/actions/workflow/status/alsgyu/Repoverse-Curated-GitHub-Trends/update.yml?style=for-the-badge&logo=githubactions&logoColor=white" alt="Update Status">
   </a>
 </div>
 
@@ -378,13 +378,6 @@
 
 ---
 
-### ❤️ Show Your Support
-If you find this tracker useful, please **Give us a Star ⭐** and share it with your AI circles! The more people join, the better our "Trend of Trends" becomes.
-
-<br />
-
----
-
 <h2 id="ai-resource-navigator">🌐 AI Resource Navigator</h2>
 
 Stay ahead of the curve with these curated AI specialized resources.
@@ -434,5 +427,5 @@ Stay ahead of the curve with these curated AI specialized resources.
 Data is retrieved using the GitHub REST API and GitHub Actions.
 
 <div align="right">
-  <i>✨ Last Generated: March 03, 2026 - 17:54 UTC</i>
+  <i>✨ Last Generated: March 03, 2026 - 18:06 UTC</i>
 </div>
