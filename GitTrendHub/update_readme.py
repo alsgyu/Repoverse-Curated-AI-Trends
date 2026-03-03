@@ -72,24 +72,33 @@ def generate_markdown(projects_data, base_dir):
         
         for repo in repos:
             stats = fetch_repo_stats(repo["url_path"])
-            if not stats: continue
-                
-            current_stars = stats.get("stargazers_count", 0)
-            last_stars = repo.get("last_stars", current_stars)
-            growth = current_stars - last_stars
-            repo["last_stars"] = current_stars
             
+            if stats:
+                current_stars = stats.get("stargazers_count", 0)
+                last_stars = repo.get("last_stars", current_stars)
+                growth = current_stars - last_stars
+                repo["last_stars"] = current_stars
+                repo["last_desc"] = (stats.get("description") or "No description provided").replace("|", "\\|")
+                repo["last_lang"] = stats.get("language") or "N/A"
+                repo["last_forks"] = stats.get("forks_count", 0)
+                data_status = ""
+            else:
+                # FALLBACK: Use last known data if API fails (403 Rate Limit)
+                current_stars = repo.get("last_stars", 0)
+                growth = 0
+                data_status = " <sub>(Vault Mode)</sub>"
+                
             e = {
                 "repo_path": repo["url_path"],
-                "name": stats.get("name"),
-                "html_url": stats.get("html_url"),
-                "description": (stats.get("description") or "No description provided").replace("|", "\\|"),
-                "language": stats.get("language") or "N/A",
-                "forks": stats.get("forks_count", 0),
-                "issues": stats.get("open_issues_count", 0),
+                "name": repo["url_path"].split("/")[-1],
+                "html_url": f"https://github.com/{repo['url_path']}",
+                "description": repo.get("last_desc", "Details loading..."),
+                "language": repo.get("last_lang", "N/A"),
+                "forks": repo.get("last_forks", 0),
                 "stars": current_stars,
                 "growth": growth,
-                "category": title
+                "category": title,
+                "status_tag": data_status
             }
             
             # Generate local custom SVG
@@ -113,7 +122,7 @@ def generate_markdown(projects_data, base_dir):
 <table width="100%">
   <tr>
     <td width="60%" style="vertical-align: top;">
-      <h3><a href="{e['html_url']}">{e['name']}</a></h3>
+      <h3><a href="{e['html_url']}">{e['name']}</a>{e['status_tag']}</h3>
       <p>{desc_limited}</p>
       <img src="{e['svg_asset']}" alt="{e['name']} stats" width="400">
     </td>
