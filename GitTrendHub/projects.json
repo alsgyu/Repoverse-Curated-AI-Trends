@@ -1,6 +1,6 @@
 {
   "llm_engines": {
-    "title": "\ud83c\udf0c LLM Engines & Platforms",
+    "title": "\ud83e\udd16 LLM Engines & Platforms",
     "repos": [
       {
         "url_path": "ollama/ollama",
@@ -33,7 +33,7 @@
     ]
   },
   "agents": {
-    "title": "\ud83e\uddbe AI Agents & Orchestration",
+    "title": "\ud83d\udee0\ufe0f AI Agents & Orchestration",
     "repos": [
       {
         "url_path": "openclaw/openclaw",
@@ -66,7 +66,7 @@
     ]
   },
   "cli_tools": {
-    "title": "\ud83d\ude80 AI CLI & Developer Tools",
+    "title": "\ud83d\udcbb AI-Powered CLI & DevTools",
     "repos": [
       {
         "url_path": "paul-gauthier/aider",
@@ -92,7 +92,7 @@
     ]
   },
   "art_vision": {
-    "title": "\u2728 Generative Art & Vision",
+    "title": "\ud83c\udfa8 Generative Art & Vision",
     "repos": [
       {
         "url_path": "black-forest-labs/flux",
@@ -118,7 +118,7 @@
     ]
   },
   "frameworks": {
-    "title": "\ud83e\uddec Research & Core Frameworks",
+    "title": "\ud83e\udde0 Research & Core Frameworks",
     "repos": [
       {
         "url_path": "huggingface/transformers",
