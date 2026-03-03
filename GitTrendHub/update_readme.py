@@ -60,10 +60,12 @@ def generate_markdown(projects_data, base_dir):
     if not os.path.exists(assets_dir):
         os.makedirs(assets_dir)
     
+    all_enriched_repos = []
+    dynamic_sections = []
+    
     for category_key, category_data in projects_data.items():
         title = category_data.get("title", category_key.title())
-        md_lines.append(f"<h2 id='{category_key}'>{title}</h2>")
-        md_lines.append("")
+        sec_lines = [f"<h2 id='{category_key}'>{title}</h2>", ""]
         
         repos = category_data.get("repos", [])
         enriched_repos = []
@@ -86,7 +88,8 @@ def generate_markdown(projects_data, base_dir):
                 "forks": stats.get("forks_count", 0),
                 "issues": stats.get("open_issues_count", 0),
                 "stars": current_stars,
-                "growth": growth
+                "growth": growth,
+                "category": title
             }
             
             # Generate local custom SVG
@@ -97,6 +100,7 @@ def generate_markdown(projects_data, base_dir):
             
             e["svg_asset"] = f"assets/{svg_filename}"
             enriched_repos.append(e)
+            all_enriched_repos.append(e)
             
         enriched_repos.sort(key=lambda x: x["stars"], reverse=True)
         
@@ -105,7 +109,6 @@ def generate_markdown(projects_data, base_dir):
             if len(desc_limited) > 120:
                 desc_limited = desc_limited[:117] + "..."
                 
-            # Aesthetic Card Layout using HTML Table inside Markdown
             card_html = f"""
 <table width="100%">
   <tr>
@@ -121,28 +124,62 @@ def generate_markdown(projects_data, base_dir):
     </td>
   </tr>
 </table>
-
 <p align="right"><a href="#table-of-contents">🔼 Back to Top</a></p>
 """
-            md_lines.append(card_html)
+            sec_lines.append(card_html)
             
-        md_lines.append("")
-        md_lines.append("---")
-        md_lines.append("")
-        
-    return "\n".join(md_lines)
+        sec_lines.append("\n---\n")
+        dynamic_sections.append("\n".join(sec_lines))
+
+    # Generate "Trend of Trend" Chart (Top 7 Growers)
+    all_enriched_repos.sort(key=lambda x: x["growth"], reverse=True)
+    top_growers = all_enriched_repos[:7]
+    
+    chart_labels = [row['name'] for row in top_growers]
+    chart_data = [row['growth'] for row in top_growers]
+    
+    chart_config = {
+        "type": "bar",
+        "data": {
+            "labels": chart_labels,
+            "datasets": [{
+                "label": "7d Star Growth Portfolio",
+                "backgroundColor": "rgba(88, 166, 255, 0.6)",
+                "borderColor": "rgb(88, 166, 255)",
+                "borderWidth": 1,
+                "data": chart_data
+            }]
+        },
+        "options": {
+            "title": {"display": True, "text": "🔥 Weekly Hot Trends: Growth Leaderboard"},
+            "scales": {"yAxes": [{"ticks": {"beginAtZero": True}}]}
+        }
+    }
+    
+    import urllib.parse
+    chart_url = f"https://quickchart.io/chart?c={urllib.parse.quote(json.dumps(chart_config))}"
+    
+    header_viz = f"""
+<h2 id="hot-trends">🔥 Trend of Trends: Hot Movers</h2>
+<div align="center">
+  <img src="{chart_url}" width="800" alt="Hot Trends Leaderboard">
+  <p><i>The comparison above shows the real-time velocity of the fastest-growing projects in our curated collection.</i></p>
+</div>
+<br/>
+"""
+    
+    return header_viz + "\n" + "\n".join(dynamic_sections)
 
 def main():
     base_dir = os.path.dirname(os.path.abspath(__file__))
     projects_file = os.path.join(base_dir, "projects.json")
     template_file = os.path.join(base_dir, "README.md.template")
-    # Output to ROOT of workspace as requested
     output_file = os.path.join(os.path.dirname(base_dir), "README.md")
     
     print("Loading projects...")
     projects_data = load_projects(projects_file)
     
-    print("Fetching repository statistics & generating custom SVG cards...")
+    print("Fetching statistics & generating visualization...")
     dynamic_md = generate_markdown(projects_data, base_dir)
     
     print("Saving updated projects.json...")
@@ -156,7 +193,6 @@ def main():
     final_readme = template_content.replace("<!-- DYNAMIC_CONTENT -->", dynamic_md)
     final_readme = final_readme.replace("{{ timestamp }}", now_utc)
     
-    # Adjust asset paths if README is moved out
     final_readme = final_readme.replace('src="assets/', 'src="GitTrendHub/assets/')
     
     with open(output_file, "w", encoding="utf-8") as f:
