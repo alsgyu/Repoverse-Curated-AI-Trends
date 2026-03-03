@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="GitTrendHub/image2.avif" alt="AI TrendHub Banner" width="800">
+  <img src="GitTrendHub/image.avif" alt="AI TrendHub Banner" width="800">
 </div>
 
 <div align="center">
@@ -28,6 +28,7 @@
 - [💻 AI-Powered CLI & DevTools](#cli_tools)
 - [🎨 Generative Art & Vision](#art_vision)
 - [🧠 Research & Core Frameworks](#frameworks)
+- [🌐 AI Resource Navigator](#ai-resource-navigator)
 - [🤝 Join the Community & Contribute](#how-to-contribute)
 - [📝 Data Summary](#-data--contributions)
 
@@ -83,6 +84,50 @@
 
 ### ❤️ Show Your Support
 If you find this tracker useful, please **Give us a Star ⭐** and share it with your AI circles! The more people join, the better our "Trend of Trends" becomes.
+
+<br />
+
+---
+
+<h2 id="ai-resource-navigator">🌐 AI Resource Navigator</h2>
+
+Stay ahead of the curve with these curated AI specialized resources.
+
+<table width="100%">
+  <tr>
+    <td width="50%" style="vertical-align: top;">
+      <h4>🚀 Real-time Trends</h4>
+      <ul>
+        <li><b><a href="https://huggingface.co/trending">Hugging Face Trending</a></b>: The hub for models & datasets.</li>
+        <li><b><a href="https://github.com/trending/python">GitHub Trending (Python)</a></b>: Fresh AI code.</li>
+        <li><b><a href="https://paperswithcode.com/">Papers with Code</a></b>: SOTA models & benchmarks.</li>
+      </ul>
+    </td>
+    <td width="50%" style="vertical-align: top;">
+      <h4>📰 Insights & News</h4>
+      <ul>
+        <li><b><a href="https://www.therundown.ai/">The Rundown AI</a></b>: Deep daily AI analysis.</li>
+        <li><b><a href="https://alphasignal.ai/">AlphaSignal</a></b>: Research-backed insights.</li>
+        <li><b><a href="https://tldr.tech/ai">TLDR AI</a></b>: 5-minute daily tech summary.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" style="vertical-align: top;">
+      <h4>🔍 Tool Search</h4>
+      <ul>
+        <li><b><a href="https://theresanaiforthat.com/">There's An AI For That</a></b>: Massive AI tool DB.</li>
+        <li><b><a href="https://www.futuretools.io/">FutureTools</a></b>: Curated productivity AI.</li>
+      </ul>
+    </td>
+    <td width="50%" style="vertical-align: top;">
+      <h4>🎓 Academic & Research</h4>
+      <ul>
+        <li><b><a href="https://hai.stanford.edu/ai-index-report">Stanford HAI</a></b>: Annual global AI index reports.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <br />
 
