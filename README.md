@@ -1,12 +1,11 @@
 
 <div align="center">
-  <img src="GitTrendHub/image4.png" alt="AI TrendHub Banner" width="400">
+  <img src="GitTrendHub/image4.png" alt="AI TrendHub Banner" width="350">
 </div>
 
 <div align="center">
 
 # 🤖 AI TrendHub – The Pulse of Artificial Intelligence
-</br>
 
 <br />
 
@@ -23,7 +22,7 @@
   </tr>
   <tr>
     <td width="50%"><b>🛠️ <a href="#agents">AI Agents & Orchestration</a></b></td>
-    <td width="50%"><b>� <a href="#ai-resource-navigator">AI Resource Navigator</a></b></td>
+    <td width="50%"><b>🌐 <a href="#ai-resource-navigator">AI Resource Navigator</a></b></td>
   </tr>
   <tr>
     <td width="50%"><b>💻 <a href="#cli_tools">AI CLI & Developer Tools</a></b></td>
@@ -31,7 +30,7 @@
   </tr>
   <tr>
     <td width="50%"><b>🎨 <a href="#art_vision">Generative Art & Vision</a></b></td>
-    <td width="50%"><b>� <a href="#-data--contributions">Data Summary</a></b></td>
+    <td width="50%"><b>📝 <a href="#-data--contributions">Data Summary</a></b></td>
   </tr>
 </table>
 
