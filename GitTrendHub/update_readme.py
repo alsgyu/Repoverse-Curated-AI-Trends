@@ -140,44 +140,7 @@ def generate_markdown(projects_data, base_dir):
         sec_lines.append("\n---\n")
         dynamic_sections.append("\n".join(sec_lines))
 
-    # Generate "Trend of Trend" Chart (Top 7 Growers)
-    all_enriched_repos.sort(key=lambda x: x["growth"], reverse=True)
-    top_growers = all_enriched_repos[:7]
-    
-    chart_labels = [row['name'] for row in top_growers]
-    chart_data = [row['growth'] for row in top_growers]
-    
-    chart_config = {
-        "type": "bar",
-        "data": {
-            "labels": chart_labels,
-            "datasets": [{
-                "label": "Growth Velocity",
-                "backgroundColor": "rgba(88, 166, 255, 0.6)",
-                "borderColor": "rgb(88, 166, 255)",
-                "borderWidth": 1,
-                "data": chart_data
-            }]
-        },
-        "options": {
-            "title": {"display": True, "text": "🔥 Growth Leaderboard: Hot Movers"},
-            "scales": {"yAxes": [{"ticks": {"beginAtZero": True}}]}
-        }
-    }
-    
-    import urllib.parse
-    chart_url = f"https://quickchart.io/chart?c={urllib.parse.quote(json.dumps(chart_config))}"
-    
-    header_viz = f"""
-<h2 id="hot-trends">🔥 Trend of Trends: Hot Movers</h2>
-<div align="center">
-  <img src="{chart_url}" width="800" alt="Hot Trends Leaderboard">
-  <p><i>The comparison above shows the real-time velocity of the fastest-growing projects in our curated collection.</i></p>
-</div>
-<br/>
-"""
-    
-    return header_viz + "\n" + "\n".join(dynamic_sections)
+    return "\n".join(dynamic_sections)
 
 def main():
     base_dir = os.path.dirname(os.path.abspath(__file__))
