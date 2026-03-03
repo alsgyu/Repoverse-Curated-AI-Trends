@@ -1,173 +1,111 @@
 {
-  "ai": {
-    "title": "\ud83e\udd16 AI & Machine Learning",
+  "llm_engines": {
+    "title": "\ud83e\udd16 LLM Engines & Platforms",
     "repos": [
       {
         "url_path": "ollama/ollama",
         "last_stars": "163k+",
-        "last_desc": "Run large language models locally."
-      },
-      {
-        "url_path": "Significant-Gravitas/AutoGPT",
-        "last_stars": "182k+"
-      },
-      {
-        "url_path": "langchain-ai/langchain",
-        "last_stars": "128k+"
-      },
-      {
-        "url_path": "AUTOMATIC1111/stable-diffusion-webui",
-        "last_stars": "161k+"
-      },
-      {
-        "url_path": "huggingface/transformers",
-        "last_stars": "157k+"
+        "last_desc": "Get up and running with large language models locally"
       },
       {
         "url_path": "ggerganov/llama.cpp",
-        "last_stars": "96k+"
+        "last_stars": "96k+",
+        "last_desc": "Port of Facebook's LLaMA model in C/C++ for efficient local inference"
       },
       {
-        "url_path": "open-webui/open-webui",
-        "last_stars": "125k+"
+        "url_path": "vllm-project/vllm",
+        "last_stars": "25k+",
+        "last_desc": "A high-throughput and memory-efficient inference and serving engine for LLMs"
+      },
+      {
+        "url_path": "go-skynet/LocalAI",
+        "last_stars": "22k+",
+        "last_desc": "Self-hosted, community-driven, local OpenAI-compatible API"
       }
     ]
   },
-  "web": {
-    "title": "\ud83c\udf10 Modern Web Development",
+  "agents": {
+    "title": "\ud83d\udee0\ufe0f AI Agents & Orchestration",
     "repos": [
       {
-        "url_path": "vercel/next.js",
-        "last_stars": "138k+"
+        "url_path": "Significant-Gravitas/AutoGPT",
+        "last_stars": "182k+",
+        "last_desc": "An open-source interface for building and orchestrating autonomous AI agents"
       },
       {
-        "url_path": "facebook/react",
-        "last_stars": "243k+"
+        "url_path": "joaomdmoura/crewAI",
+        "last_stars": "18k+",
+        "last_desc": "Framework for orchestrating role-playing, autonomous AI agents"
       },
       {
-        "url_path": "tailwindlabs/tailwindcss",
-        "last_stars": "93k+"
+        "url_path": "langchain-ai/langgraph",
+        "last_stars": "5k+",
+        "last_desc": "Build stateful, multi-actor applications with LLMs"
       },
       {
-        "url_path": "vuejs/core",
-        "last_stars": "53k+"
-      },
-      {
-        "url_path": "sveltejs/svelte",
-        "last_stars": "85k+"
-      },
-      {
-        "url_path": "vitejs/vite",
-        "last_stars": "78k+"
-      },
-      {
-        "url_path": "remix-run/remix",
-        "last_stars": "32k+"
+        "url_path": "pydantic/pydantic-ai",
+        "last_stars": "3k+",
+        "last_desc": "Agent framework from the makers of Pydantic"
       }
     ]
   },
-  "productivity": {
-    "title": "\u26a1\ufe0f Productivity & Tools",
+  "cli_tools": {
+    "title": "\ud83d\udcbb AI-Powered CLI & DevTools",
     "repos": [
       {
-        "url_path": "obsidianmd/obsidian-releases",
-        "last_stars": "15k+"
+        "url_path": "paul-gauthier/aider",
+        "last_stars": "15k+",
+        "last_desc": "aider is AI pair programming in your terminal"
       },
       {
-        "url_path": "raycast/script-commands",
-        "last_stars": "6k+"
+        "url_path": "OpenInterpreter/open-interpreter",
+        "last_stars": "45k+",
+        "last_desc": "A natural language interface for your computer"
       },
       {
-        "url_path": "jesseduffield/lazygit",
-        "last_stars": "73k+"
-      },
-      {
-        "url_path": "neovim/neovim",
-        "last_stars": "96k+"
-      },
-      {
-        "url_path": "ohmyzsh/ohmyzsh",
-        "last_stars": "185k+"
-      },
-      {
-        "url_path": "tmux/tmux",
-        "last_stars": "42k+"
-      },
-      {
-        "url_path": "alacritty/alacritty",
-        "last_stars": "62k+"
+        "url_path": "Py-GPT/PyGPT",
+        "last_stars": "2k+",
+        "last_desc": "AI Desktop Assistant for Windows, Linux and Mac"
       }
     ]
   },
-  "devops": {
-    "title": "\u267e\ufe0f DevOps & Cloud Native",
+  "art_vision": {
+    "title": "\ud83c\udfa8 Generative Art & Vision",
     "repos": [
       {
-        "url_path": "kubernetes/kubernetes",
-        "last_stars": "120k+"
+        "url_path": "AUTOMATIC1111/stable-diffusion-webui",
+        "last_stars": "161k+",
+        "last_desc": "Comprehensive browser interface for Stable Diffusion models"
       },
       {
-        "url_path": "docker/compose",
-        "last_stars": "37k+"
+        "url_path": "comfyanonymous/ComfyUI",
+        "last_stars": "35k+",
+        "last_desc": "The most powerful and modular stable diffusion GUI and backend"
       },
       {
-        "url_path": "hashicorp/terraform",
-        "last_stars": "47k+"
-      },
-      {
-        "url_path": "prometheus/prometheus",
-        "last_stars": "62k+"
+        "url_path": "lllyasviel/Fooocus",
+        "last_stars": "38k+",
+        "last_desc": "Focus on prompting and generating images with SDXL"
       }
     ]
   },
-  "security": {
-    "title": "\ud83d\udee1\ufe0f Cybersecurity & Pentesting",
+  "frameworks": {
+    "title": "\ud83e\udde0 Research & Core Frameworks",
     "repos": [
       {
-        "url_path": "swisskyrepo/PayloadsAllTheThings",
-        "last_stars": "75k+"
+        "url_path": "huggingface/transformers",
+        "last_stars": "157k+",
+        "last_desc": "State-of-the-art machine learning for PyTorch, TensorFlow, and JAX"
       },
       {
-        "url_path": "offensive-security/exploitdb",
-        "last_stars": "7k+"
+        "url_path": "langchain-ai/langchain",
+        "last_stars": "128k+",
+        "last_desc": "Framework for developing applications powered by language models with composable tools"
       },
       {
-        "url_path": "sqlmapproject/sqlmap",
-        "last_stars": "36k+"
-      }
-    ]
-  },
-  "mobile": {
-    "title": "\ud83d\udcf1 Mobile Development",
-    "repos": [
-      {
-        "url_path": "flutter/flutter",
-        "last_stars": "175k+"
-      },
-      {
-        "url_path": "facebook/react-native",
-        "last_stars": "125k+"
-      },
-      {
-        "url_path": "ionic-team/ionic-framework",
-        "last_stars": "52k+"
-      }
-    ]
-  },
-  "databases": {
-    "title": "\ud83d\uddc4\ufe0f Databases & Infrastructure",
-    "repos": [
-      {
-        "url_path": "redis/redis",
-        "last_stars": "73k+"
-      },
-      {
-        "url_path": "postgres/postgres",
-        "last_stars": "20k+"
-      },
-      {
-        "url_path": "supabase/supabase",
-        "last_stars": "98k+"
+        "url_path": "run-llama/llama_index",
+        "last_stars": "33k+",
+        "last_desc": "Data framework for your LLM applications"
       }
     ]
   }
