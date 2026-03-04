@@ -80,7 +80,7 @@ def generate_svg_card(e):
 </svg>"""
     return svg
 
-def generate_section_bar_png(filepath, color, width=10, height=220):
+def generate_section_bar_png(filepath, color, width=8, height=220):
     # Minimal PNG writer (no external deps). Color is hex like "#ff6b6b".
     hex_color = color.lstrip("#")
     r = int(hex_color[0:2], 16)
@@ -168,7 +168,7 @@ def generate_markdown(projects_data, base_dir):
         accent = accent_by_category.get(category_key, "#4dabf7")
         bar_filename = f"section_bar_{category_key}.png"
         bar_path = os.path.join(assets_dir, bar_filename)
-        generate_section_bar_png(bar_path, accent)
+        generate_section_bar_png(bar_path, accent, width=8, height=220)
         bar_asset = f"assets/{bar_filename}"
         sec_lines = []
         sec_lines.append(f"<h2 id='{category_key}'>{title}</h2>")
@@ -244,8 +244,8 @@ def generate_markdown(projects_data, base_dir):
             card_html = f"""
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
-    <td valign="top">
-      <img src="{bar_asset}" alt="">
+    <td width="8" valign="top" align="left">
+      <img src="{bar_asset}" alt="" width="8" height="220">
     </td>
     <td width="60%" valign="top">
       <h3><a href="{e['html_url']}">{e['name']}</a>{e['status_tag']}</h3>
