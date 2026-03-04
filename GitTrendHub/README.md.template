@@ -2,21 +2,19 @@
   <img src="GitTrendHub/image4.png" alt="AI TrendHub Banner" width="400">
 </div>
 
-> **📌 참고**  
-> - **이 README**는 GitHub가 보안상 `style`을 제거해서 단조롭게 보입니다.  
-> - **스타일이 적용된 메인/검색 페이지**: [**docs/index.html**](docs/index.html) (GitHub Pages 또는 로컬에서 열기)  
-> - **README 갱신**: 템플릿 수정 후 **레포 루트에서** <code>python3 update_readme.py</code> 실행 → 이 README가 다시 생성됩니다.
-
 <div align="center" style="margin:24px 0;">
   <h1 style="margin:12px 0; font-size:1.8rem;">🤖 AI TrendHub – The Pulse of Artificial Intelligence</h1>
   <p style="max-width:560px; margin:0 auto 16px; color:#8b949e; font-size:15px; line-height:1.5;">
     💡 <strong style="color:#c9d1d9;">Specializing in AI:</strong> This dashboard focuses exclusively on the rapidly evolving AI ecosystem, tracking the most impactful projects across engines, agents, and generative tools.
   </p>
-  <p style="margin:0 0 8px;">
-    <a href="docs/index.html" style="display:inline-block; background:#238636; color:#fff; padding:10px 20px; border-radius:8px; text-decoration:none; font-weight:600;">🔍 스타일 적용 메인 · 검색 페이지</a>
-  </p>
-  <p style="margin:0; font-size:13px; color:#8b949e;">키워드로 원하는 컨텐츠를 찾아보세요.</p>
 </div>
+
+---
+
+### 🔍 Search
+
+- **In this README:** Use <kbd>Ctrl</kbd>+<kbd>F</kbd> (Windows/Linux) or <kbd>Cmd</kbd>+<kbd>F</kbd> (Mac) to find repos or section names.
+- **From the terminal:** Run <code>python3 -m GitTrendHub.cli search "keyword"</code> from the repo root (e.g. <code>python3 -m GitTrendHub.cli search llama</code>). Requires a recent run of <code>python3 update_readme.py</code> to generate the index.
 
 ---
 
@@ -59,7 +57,7 @@
           <br/>
           1. Fork & Clone this repo.<br/>
           2. Tweak <code>update_readme.py</code> or styles.<br/>
-          3. Run <code>python3 GitTrendHub/update_readme.py</code> to test.<br/>
+          3. Run <code>python3 update_readme.py</code> from the repo root to test.<br/>
           4. Submit your Pull Request!
         </details>
       </div>

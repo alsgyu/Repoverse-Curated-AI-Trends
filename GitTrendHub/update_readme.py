@@ -73,9 +73,9 @@ def generate_svg_card(e):
 
 # Static TOC entries (id, title, description) for template
 STATIC_TOC_ENTRIES = [
-    ("how-to-contribute", "🤝 Community & Participation", "기여 방법, PR 가이드, 커뮤니티 참여"),
-    ("ai-resource-navigator", "🌐 AI Resource Navigator", "트렌드·뉴스·툴 검색 등 외부 리소스 링크"),
-    ("data-summary", "📝 Data Summary", "데이터 출처 및 마지막 생성 시각"),
+    ("how-to-contribute", "🤝 Community & Participation", "How to contribute, PR guide, community"),
+    ("ai-resource-navigator", "🌐 AI Resource Navigator", "Curated links: trends, news, tool discovery"),
+    ("data-summary", "📝 Data Summary", "Data source and last generated timestamp"),
 ]
 
 
@@ -256,8 +256,8 @@ def main():
         codes = {}
         for _, c in api_errors:
             codes[c] = codes.get(c, 0) + 1
-        msg = ", ".join(f"{c}: {n}건" for c, n in sorted(codes.items()))
-        print(f"  ⚠ API 제한 등으로 캐시 사용: {msg} (README는 정상 생성됨)")
+        msg = ", ".join(f"{c}: {n}" for c, n in sorted(codes.items()))
+        print(f"  Note: Using cached data for some repos ({msg}). README was still generated.")
     
     print("Saving updated projects.json...")
     save_projects(projects_file, projects_data)

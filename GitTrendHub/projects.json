@@ -1,7 +1,7 @@
 {
   "llm_engines": {
     "title": "\ud83e\udd16 LLM Engines & Platforms",
-    "description": "\ub85c\uceec\u00b7\ud074\ub77c\uc6b0\ub4dc LLM \uc2e4\ud589 \uc5d4\uc9c4, \ucd94\ub860 \uc11c\ubc84, \uc624\ud508\uc18c\uc2a4 \ubaa8\ub378 \ub7f0\ucc98",
+    "description": "Local and cloud LLM runtimes, inference servers, open-source model launchers",
     "repos": [
       {
         "url_path": "ollama/ollama",
@@ -35,7 +35,7 @@
   },
   "agents": {
     "title": "\ud83d\udee0\ufe0f AI Agents & Orchestration",
-    "description": "\uc790\uc728 \uc5d0\uc774\uc804\ud2b8, \uba40\ud2f0\uc5d0\uc774\uc804\ud2b8 \uc624\ucf00\uc2a4\ud2b8\ub808\uc774\uc158, \ube0c\ub77c\uc6b0\uc800/\ub3c4\uad6c \uc5f0\ub3d9",
+    "description": "Autonomous agents, multi-agent orchestration, browser and tool integration",
     "repos": [
       {
         "url_path": "openclaw/openclaw",
@@ -69,7 +69,7 @@
   },
   "cli_tools": {
     "title": "\ud83d\udcbb AI-Powered CLI & DevTools",
-    "description": "\ud130\ubbf8\ub110\u00b7IDE\uc6a9 AI \ud398\uc5b4 \ud504\ub85c\uadf8\ub798\ubc0d, \ucf54\ub4dc \uc790\ub3d9\ud654, CLI \ub3c4\uad6c",
+    "description": "AI pair programming in terminal and IDE, code automation, CLI tools",
     "repos": [
       {
         "url_path": "paul-gauthier/aider",
@@ -96,7 +96,7 @@
   },
   "art_vision": {
     "title": "\ud83c\udfa8 Generative Art & Vision",
-    "description": "\uc774\ubbf8\uc9c0\u00b7\ube44\ub514\uc624 \uc0dd\uc131, \ub514\ud4e8\uc804 \ubaa8\ub378, \uc0dd\uc131\ud615 AI UI/API",
+    "description": "Image and video generation, diffusion models, generative AI UI and APIs",
     "repos": [
       {
         "url_path": "black-forest-labs/flux",
@@ -123,7 +123,7 @@
   },
   "frameworks": {
     "title": "\ud83e\udde0 Research & Core Frameworks",
-    "description": "ML/NLP \ud504\ub808\uc784\uc6cc\ud06c, \uc5d0\uc774\uc804\ud2b8 \ud50c\ub7ab\ud3fc, \uc5f0\uad6c\uc6a9 \ucf54\uc5b4 \ub77c\uc774\ube0c\ub7ec\ub9ac",
+    "description": "ML/NLP frameworks, agent platforms, research-grade core libraries",
     "repos": [
       {
         "url_path": "huggingface/transformers",
