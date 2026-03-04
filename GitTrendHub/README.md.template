@@ -1,123 +1,123 @@
-
 <div align="center">
   <img src="GitTrendHub/image4.png" alt="AI TrendHub Banner" width="400">
 </div>
 
-<div align="center">
-
-# 🤖 AI TrendHub – The Pulse of Artificial Intelligence
-</br>
-
-<br />
-
-> **💡 Specializing in AI:** This dashboard focuses exclusively on the rapidly evolving AI ecosystem, trackging the most impactful projects across engines, agents, and generative tools.
-
-<p align="center"><strong>🔍 <a href="docs/index.html">검색 페이지</a></strong>에서 키워드로 컨텐츠를 찾을 수 있습니다.</p>
+<div align="center" style="margin:24px 0;">
+  <h1 style="margin:12px 0; font-size:1.8rem;">🤖 AI TrendHub – The Pulse of Artificial Intelligence</h1>
+  <p style="max-width:560px; margin:0 auto 16px; color:#8b949e; font-size:15px; line-height:1.5;">
+    💡 <strong style="color:#c9d1d9;">Specializing in AI:</strong> This dashboard focuses exclusively on the rapidly evolving AI ecosystem, tracking the most impactful projects across engines, agents, and generative tools.
+  </p>
+  <p style="margin:0 0 8px;">
+    <a href="docs/index.html" style="display:inline-block; background:#238636; color:#fff; padding:10px 20px; border-radius:8px; text-decoration:none; font-weight:600;">🔍 검색 페이지</a>
+  </p>
+  <p style="margin:0; font-size:13px; color:#8b949e;">키워드로 원하는 컨텐츠를 찾아보세요.</p>
+</div>
 
 ---
 
-## 📑 Table of Contents
+<h2 style="margin:24px 0 12px 0; font-size:1.2rem; color:#c9d1d9;">📑 Table of Contents</h2>
 
 <!-- TOC_PLACEHOLDER -->
-
-<br />
 
 <!-- DYNAMIC_CONTENT -->
 
 ---
 
-<h2 id="how-to-contribute">🤝 Join the AI Hub Community</h2>
+<div id="how-to-contribute" style="background:linear-gradient(90deg,#21262d 0%,#161b22 100%); border-left:4px solid #a371f7; border-radius:0 8px 8px 0; padding:16px 20px; margin:28px 0 16px 0;">
+  <h2 style="margin:0 0 10px 0; font-size:1.25rem; color:#c9d1d9;">🤝 Join the AI Hub Community</h2>
+  <p style="margin:0 0 12px 0; color:#8b949e; font-size:14px;">GitTrendHub is more than just a dashboard; it's a movement to track the AI revolution as it happens. We believe the best insights come from the community! 🚀</p>
+  <p style="margin:0; font-size:14px; color:#c9d1d9;"><strong>Why Contribute?</strong> Share the pulse · Build the tooling · Stay ahead</p>
+</div>
 
-**GitTrendHub** is more than just a dashboard; it's a movement to track the AI revolution as it happens. We believe the best insights come from the community! 🚀
-
-### Why Contribute?
-- **Share the Pulse:** Help others discover the viral AI tools you've found on Reddit/X.
-- **Build the Tooling:** Improve the dashboard's design and data engine for everyone.
-- **Stay Ahead:** Be the first to document the next "game-changing" AI repository.
-
-<br>
-
-<table width="100%">
+<table width="100%" cellpadding="0" cellspacing="0" style="margin:16px 0;">
   <tr>
-    <td width="50%" style="vertical-align: top;">
-      <h4>🔥 Recommend a Viral Repo</h4>
-      <p>Found something blowing up? Add it to the list!</p>
-      <details>
-      <summary><b>View Steps (Simple PR)</b></summary>
-      <br>
-      1. Open <code>GitTrendHub/projects.json</code>.<br>
-      2. Choose a sub-category.<br>
-      3. Add the repo: <code>{ "url_path": "OWNER/REPO", "last_stars": "Hot" }</code>.<br>
-      4. Submit a PR titled <code>Recommend: OWNER/REPO</code>.
-      </details>
+    <td width="50%" style="vertical-align:top; padding-right:10px;">
+      <div style="background:#161b22; border:1px solid #30363d; border-radius:10px; padding:16px;">
+        <h4 style="margin:0 0 8px 0; color:#c9d1d9;">🔥 Recommend a Viral Repo</h4>
+        <p style="margin:0 0 10px 0; color:#8b949e; font-size:14px;">Found something blowing up? Add it to the list!</p>
+        <details>
+          <summary style="cursor:pointer; color:#58a6ff; font-size:14px;"><b>View Steps (Simple PR)</b></summary>
+          <br/>
+          1. Open <code>GitTrendHub/projects.json</code>.<br/>
+          2. Choose a sub-category.<br/>
+          3. Add the repo: <code>{ "url_path": "OWNER/REPO", "last_stars": "Hot" }</code>.<br/>
+          4. Submit a PR titled <code>Recommend: OWNER/REPO</code>.
+        </details>
+      </div>
     </td>
-    <td width="50%" style="vertical-align: top;">
-      <h4>🛠️ Improve the Platform</h4>
-      <p>Love Python or Design? Help us code the future.</p>
-      <details>
-      <summary><b>View Steps (Dev Focus)</b></summary>
-      <br>
-      1. Fork & Clone this repo.<br>
-      2. Tweak <code>update_readme.py</code> or styles.<br>
-      3. Run <code>python3 GitTrendHub/update_readme.py</code> to test.<br>
-      4. Submit your Pull Request!
-      </details>
+    <td width="50%" style="vertical-align:top; padding-left:10px;">
+      <div style="background:#161b22; border:1px solid #30363d; border-radius:10px; padding:16px;">
+        <h4 style="margin:0 0 8px 0; color:#c9d1d9;">🛠️ Improve the Platform</h4>
+        <p style="margin:0 0 10px 0; color:#8b949e; font-size:14px;">Love Python or Design? Help us code the future.</p>
+        <details>
+          <summary style="cursor:pointer; color:#58a6ff; font-size:14px;"><b>View Steps (Dev Focus)</b></summary>
+          <br/>
+          1. Fork & Clone this repo.<br/>
+          2. Tweak <code>update_readme.py</code> or styles.<br/>
+          3. Run <code>python3 GitTrendHub/update_readme.py</code> to test.<br/>
+          4. Submit your Pull Request!
+        </details>
+      </div>
     </td>
   </tr>
 </table>
 
-<br>
+---
+
+<div id="ai-resource-navigator" style="background:linear-gradient(90deg,#21262d 0%,#161b22 100%); border-left:4px solid #3fb950; border-radius:0 8px 8px 0; padding:16px 20px; margin:28px 0 16px 0;">
+  <h2 style="margin:0 0 8px 0; font-size:1.25rem; color:#c9d1d9;">🌐 AI Resource Navigator</h2>
+  <p style="margin:0 0 16px 0; color:#8b949e; font-size:14px;">Stay ahead of the curve with these curated AI specialized resources.</p>
+  <table width="100%" style="border-collapse:collapse;">
+    <tr>
+      <td width="50%" style="vertical-align:top; padding:8px 12px 8px 0;">
+        <div style="background:#0d1117; border:1px solid #30363d; border-radius:8px; padding:12px;">
+          <strong style="color:#c9d1d9;">🚀 Real-time Trends</strong>
+          <ul style="margin:8px 0 0 0; padding-left:20px; color:#8b949e; font-size:14px;">
+            <li><a href="https://huggingface.co/trending" style="color:#58a6ff;">Hugging Face Trending</a>: Models & datasets.</li>
+            <li><a href="https://github.com/trending/python" style="color:#58a6ff;">GitHub Trending (Python)</a>: Fresh AI code.</li>
+            <li><a href="https://paperswithcode.com/" style="color:#58a6ff;">Papers with Code</a>: SOTA & benchmarks.</li>
+          </ul>
+        </div>
+      </td>
+      <td width="50%" style="vertical-align:top; padding:8px 0 8px 12px;">
+        <div style="background:#0d1117; border:1px solid #30363d; border-radius:8px; padding:12px;">
+          <strong style="color:#c9d1d9;">📰 Insights & News</strong>
+          <ul style="margin:8px 0 0 0; padding-left:20px; color:#8b949e; font-size:14px;">
+            <li><a href="https://www.therundown.ai/" style="color:#58a6ff;">The Rundown AI</a>: Daily analysis.</li>
+            <li><a href="https://alphasignal.ai/" style="color:#58a6ff;">AlphaSignal</a>: Research insights.</li>
+            <li><a href="https://tldr.tech/ai" style="color:#58a6ff;">TLDR AI</a>: 5-min summary.</li>
+          </ul>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" style="vertical-align:top; padding:8px 12px 8px 0;">
+        <div style="background:#0d1117; border:1px solid #30363d; border-radius:8px; padding:12px;">
+          <strong style="color:#c9d1d9;">🔍 Tool Search</strong>
+          <ul style="margin:8px 0 0 0; padding-left:20px; color:#8b949e; font-size:14px;">
+            <li><a href="https://theresanaiforthat.com/" style="color:#58a6ff;">There's An AI For That</a></li>
+            <li><a href="https://www.futuretools.io/" style="color:#58a6ff;">FutureTools</a></li>
+          </ul>
+        </div>
+      </td>
+      <td width="50%" style="vertical-align:top; padding:8px 0 8px 12px;">
+        <div style="background:#0d1117; border:1px solid #30363d; border-radius:8px; padding:12px;">
+          <strong style="color:#c9d1d9;">🎓 Academic</strong>
+          <ul style="margin:8px 0 0 0; padding-left:20px; color:#8b949e; font-size:14px;">
+            <li><a href="https://hai.stanford.edu/ai-index-report" style="color:#58a6ff;">Stanford HAI</a>: AI index reports.</li>
+          </ul>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-<h2 id="ai-resource-navigator">🌐 AI Resource Navigator</h2>
-
-Stay ahead of the curve with these curated AI specialized resources.
-
-<table width="100%">
-  <tr>
-    <td width="50%" style="vertical-align: top;">
-      <h4>🚀 Real-time Trends</h4>
-      <ul>
-        <li><b><a href="https://huggingface.co/trending">Hugging Face Trending</a></b>: The hub for models & datasets.</li>
-        <li><b><a href="https://github.com/trending/python">GitHub Trending (Python)</a></b>: Fresh AI code.</li>
-        <li><b><a href="https://paperswithcode.com/">Papers with Code</a></b>: SOTA models & benchmarks.</li>
-      </ul>
-    </td>
-    <td width="50%" style="vertical-align: top;">
-      <h4>📰 Insights & News</h4>
-      <ul>
-        <li><b><a href="https://www.therundown.ai/">The Rundown AI</a></b>: Deep daily AI analysis.</li>
-        <li><b><a href="https://alphasignal.ai/">AlphaSignal</a></b>: Research-backed insights.</li>
-        <li><b><a href="https://tldr.tech/ai">TLDR AI</a></b>: 5-minute daily tech summary.</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" style="vertical-align: top;">
-      <h4>🔍 Tool Search</h4>
-      <ul>
-        <li><b><a href="https://theresanaiforthat.com/">There's An AI For That</a></b>: Massive AI tool DB.</li>
-        <li><b><a href="https://www.futuretools.io/">FutureTools</a></b>: Curated productivity AI.</li>
-      </ul>
-    </td>
-    <td width="50%" style="vertical-align: top;">
-      <h4>🎓 Academic & Research</h4>
-      <ul>
-        <li><b><a href="https://hai.stanford.edu/ai-index-report">Stanford HAI</a></b>: Annual global AI index reports.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<br />
-
----
-
-<h2 id="data-summary">📝 Data Summary</h2>
-
-Data is retrieved using the GitHub REST API and GitHub Actions.
-
-<div align="right">
-  <i>✨ Last Generated: {{ timestamp }}</i>
+<div id="data-summary" style="background:#161b22; border:1px solid #30363d; border-radius:10px; padding:16px 20px; margin:24px 0 0 0;">
+  <h2 style="margin:0 0 8px 0; font-size:1.25rem; color:#c9d1d9;">📝 Data Summary</h2>
+  <p style="margin:0; color:#8b949e; font-size:14px;">Data is retrieved using the GitHub REST API and GitHub Actions.</p>
+  <div align="right" style="margin-top:12px;">
+    <span style="font-size:13px; color:#8b949e;">✨ Last Generated: {{ timestamp }}</span>
+  </div>
 </div>
