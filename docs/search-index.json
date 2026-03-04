@@ -3,7 +3,7 @@
     {
       "id": "llm_engines",
       "title": "🤖 LLM Engines & Platforms",
-      "description": "로컬·클라우드 LLM 실행 엔진, 추론 서버, 오픈소스 모델 런처",
+      "description": "Local and cloud LLM runtimes, inference servers, open-source model launchers",
       "repos": [
         {
           "name": "ollama",
@@ -34,7 +34,7 @@
     {
       "id": "agents",
       "title": "🛠️ AI Agents & Orchestration",
-      "description": "자율 에이전트, 멀티에이전트 오케스트레이션, 브라우저/도구 연동",
+      "description": "Autonomous agents, multi-agent orchestration, browser and tool integration",
       "repos": [
         {
           "name": "openclaw",
@@ -65,7 +65,7 @@
     {
       "id": "cli_tools",
       "title": "💻 AI-Powered CLI & DevTools",
-      "description": "터미널·IDE용 AI 페어 프로그래밍, 코드 자동화, CLI 도구",
+      "description": "AI pair programming in terminal and IDE, code automation, CLI tools",
       "repos": [
         {
           "name": "aider",
@@ -90,7 +90,7 @@
     {
       "id": "art_vision",
       "title": "🎨 Generative Art & Vision",
-      "description": "이미지·비디오 생성, 디퓨전 모델, 생성형 AI UI/API",
+      "description": "Image and video generation, diffusion models, generative AI UI and APIs",
       "repos": [
         {
           "name": "flux",
@@ -115,7 +115,7 @@
     {
       "id": "frameworks",
       "title": "🧠 Research & Core Frameworks",
-      "description": "ML/NLP 프레임워크, 에이전트 플랫폼, 연구용 코어 라이브러리",
+      "description": "ML/NLP frameworks, agent platforms, research-grade core libraries",
       "repos": [
         {
           "name": "transformers",

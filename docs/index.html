@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang="ko">
+<html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>AI TrendHub – 검색</title>
+  <title>AI TrendHub – Search</title>
   <style>
     :root {
       --bg: #0d1117;
@@ -105,22 +105,22 @@
 <body>
   <div class="container">
     <header>
-      <a class="back-link" href="../README.md">← README로 돌아가기</a>
-      <h1>🔍 AI TrendHub 검색</h1>
-      <p>키워드로 섹션·레포지토리를 찾아보세요. (나중에 AI 검색도 추가할 예정)</p>
+      <a class="back-link" href="../README.md">← Back to README</a>
+      <h1>🔍 AI TrendHub Search</h1>
+      <p>Search sections and repos by keyword. For terminal use: <code>python3 -m GitTrendHub.cli search "keyword"</code></p>
     </header>
 
     <div class="search-wrap">
-      <input type="text" class="search-box" id="search" placeholder="레포 이름, 설명, 카테고리로 검색..." autofocus>
+      <input type="text" class="search-box" id="search" placeholder="Search by repo name, description, or category..." autofocus>
     </div>
 
     <div id="content">
-      <div class="loading" id="loading">검색 인덱스를 불러오는 중…</div>
+      <div class="loading" id="loading">Loading search index…</div>
       <div id="results"></div>
     </div>
 
     <div class="ai-note">
-      💡 컨텐츠가 많아지면 AI로 의미 기반 검색을 제공할 예정입니다.
+      💡 Semantic or AI-powered search may be added as the list grows.
     </div>
   </div>
 
@@ -164,7 +164,7 @@
           for (const repo of matchingRepos) {
             html += '<li class="repo-item">';
             html += '<a class="repo-name" href="' + escapeHtml(repo.html_url) + '" target="_blank" rel="noopener">' + escapeHtml(repo.name) + '</a>';
-            html += ' <span class="repo-meta">(<a href="' + escapeHtml(sectionAnchor) + '">섹션으로 이동</a>)</span>';
+            html += ' <span class="repo-meta">(<a href="' + escapeHtml(sectionAnchor) + '">Jump to section</a>)</span>';
             if (repo.description) {
               html += '<p class="repo-desc">' + escapeHtml(repo.description) + '</p>';
             }
@@ -173,7 +173,7 @@
           html += '</ul></div>';
         }
         if (!hasVisible) {
-          html = '<div class="no-results">검색 결과가 없습니다. 다른 키워드로 시도해 보세요.</div>';
+          html = '<div class="no-results">No results. Try a different keyword.</div>';
         }
         results.innerHTML = html;
       }
@@ -189,7 +189,7 @@
             render(data);
           })
           .catch(function () {
-            loading.textContent = '검색 인덱스를 불러올 수 없습니다. README를 먼저 생성해 주세요. (python3 GitTrendHub/update_readme.py)';
+            loading.textContent = 'Could not load search index. Run "python3 update_readme.py" from the repo root first.';
           });
       }
 
