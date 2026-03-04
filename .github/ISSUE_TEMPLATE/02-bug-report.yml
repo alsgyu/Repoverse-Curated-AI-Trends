@@ -1,0 +1,58 @@
+name: "🐛 Bug report"
+description: "Report an issue with README generation, search index, or CLI."
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting a bug. If the issue is caused by GitHub API rate limits (403), you can still generate using cached values.
+
+  - type: dropdown
+    id: area
+    attributes:
+      label: Affected area
+      options:
+        - "README generation (update_readme.py)"
+        - "Search index (docs/search-index.json)"
+        - "CLI search (GitTrendHub/cli.py)"
+        - "Other"
+    validations:
+      required: true
+
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      placeholder: "Describe the problem."
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. ...
+        2. ...
+        3. ...
+    validations:
+      required: true
+
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs / output
+      description: "Paste the relevant terminal output."
+      render: shell
+    validations:
+      required: false
+
+  - type: input
+    id: env
+    attributes:
+      label: Environment
+      placeholder: "OS + Python version (e.g. macOS, Python 3.13.3)"
+    validations:
+      required: false
+

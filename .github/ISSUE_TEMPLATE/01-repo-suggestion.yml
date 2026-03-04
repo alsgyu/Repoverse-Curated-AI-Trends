@@ -1,0 +1,53 @@
+name: "🚀 Repo suggestion"
+description: "Suggest a high-signal repository to include."
+title: "[Repo]: "
+labels: ["repo-suggestion"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for the suggestion! Please provide enough context so we can place it in the right section.
+
+  - type: input
+    id: repo
+    attributes:
+      label: GitHub repo (OWNER/REPO)
+      placeholder: "e.g. ollama/ollama"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: section
+    attributes:
+      label: Best matching section
+      options:
+        - "🤖 LLM Engines & Platforms"
+        - "🛠️ AI Agents & Orchestration"
+        - "💻 AI-Powered CLI & DevTools"
+        - "🎨 Generative Art & Vision"
+        - "🧠 Research & Core Frameworks"
+        - "Other / Not sure"
+    validations:
+      required: true
+
+  - type: textarea
+    id: why
+    attributes:
+      label: Why should this be included?
+      description: "What makes it trend-worthy or important? (1-3 bullets is fine)"
+      placeholder: |
+        - 
+        - 
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Quick checks
+      options:
+        - label: "I verified the repo exists and is public"
+          required: true
+        - label: "I searched existing issues to avoid duplicates"
+          required: true
+

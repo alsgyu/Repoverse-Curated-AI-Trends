@@ -1,0 +1,34 @@
+name: "✨ Improvement"
+description: "Propose improvements to curation, structure, or tooling."
+title: "[Improve]: "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this form to propose changes to the TOC, sections, generator, or contribution workflow.
+
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposal
+      placeholder: "What should we change?"
+    validations:
+      required: true
+
+  - type: textarea
+    id: rationale
+    attributes:
+      label: Rationale
+      placeholder: "Why is this change valuable?"
+    validations:
+      required: true
+
+  - type: textarea
+    id: scope
+    attributes:
+      label: Scope / implementation notes (optional)
+      placeholder: "Files to touch, rough approach, edge cases, etc."
+    validations:
+      required: false
+

@@ -35,7 +35,12 @@ def parse_stars(val):
 
 def fetch_repo_stats(repo_path, _api_errors=None):
     url = f"https://api.github.com/repos/{repo_path}"
-    response = requests.get(url, headers=HEADERS)
+    try:
+        response = requests.get(url, headers=HEADERS, timeout=15)
+    except requests.RequestException:
+        if _api_errors is not None:
+            _api_errors.append((repo_path, "network"))
+        return None
     if response.status_code == 200:
         return response.json()
     if _api_errors is not None:
@@ -79,52 +84,25 @@ STATIC_TOC_ENTRIES = [
 ]
 
 
-# Inline styles for README UI (GitHub-safe)
-_STYLE_TOC_CARD = (
-    "background:#161b22; border:1px solid #30363d; border-radius:10px; "
-    "padding:14px 18px; margin:0 8px 12px 0; display:inline-block; "
-    "vertical-align:top; width:48%; min-width:260px;"
-)
-_STYLE_TOC_LINK = "color:#58a6ff; text-decoration:none; font-weight:600;"
-_STYLE_TOC_DESC = "color:#8b949e; font-size:13px; margin-top:6px; line-height:1.4;"
-_STYLE_SECTION_HEADER = (
-    "background:linear-gradient(90deg,#21262d 0%,#161b22 100%); "
-    "border-left:4px solid #58a6ff; border-radius:0 8px 8px 0; "
-    "padding:12px 20px; margin:28px 0 16px 0;"
-)
-_STYLE_REPO_CARD = (
-    "background:#161b22; border:1px solid #30363d; border-radius:12px; "
-    "padding:20px; margin-bottom:16px;"
-)
-_STYLE_BACK_BTN = (
-    "display:inline-block; background:#21262d; color:#8b949e; "
-    "padding:6px 14px; border-radius:6px; font-size:13px; "
-    "text-decoration:none; border:1px solid #30363d;"
-)
-
-
 def generate_toc(projects_data):
-    """Build Table of Contents as styled cards."""
+    """Build Table of Contents as a GitHub-rendered Markdown table."""
     items = []
     for category_key, category_data in projects_data.items():
         title = category_data.get("title", category_key.title())
         desc = category_data.get("description", "")
-        items.append((category_key, title, desc))
+        repo_count = len(category_data.get("repos", []) or [])
+        items.append((category_key, title, repo_count, desc))
     for sid, title, desc in STATIC_TOC_ENTRIES:
-        items.append((sid, title, desc))
-    cards = []
-    for cat_id, title, desc in items:
-        desc_html = f"<div style=\"{_STYLE_TOC_DESC}\">{desc}</div>" if desc else ""
-        cards.append(
-            f"<a href=\"#{cat_id}\" style=\"text-decoration:none;\">"
-            f"<div style=\"{_STYLE_TOC_CARD}\">"
-            f"<span style=\"{_STYLE_TOC_LINK}\">{title}</span>{desc_html}</div></a>"
-        )
-    return (
-        "<div style=\"margin:16px 0;\">"
-        + "".join(cards)
-        + "</div>"
-    )
+        items.append((sid, title, "—", desc))
+
+    lines = [
+        "| # | Section | Repos | What you'll find |",
+        "|:--:|---|:--:|---|",
+    ]
+    for idx, (section_id, title, repo_count, desc) in enumerate(items, start=1):
+        safe_desc = (desc or "").replace("\n", " ").strip()
+        lines.append(f"| {idx} | [{title}](#{section_id}) | {repo_count} | {safe_desc} |")
+    return "\n".join(lines)
 
 
 def generate_markdown(projects_data, base_dir):
@@ -141,10 +119,7 @@ def generate_markdown(projects_data, base_dir):
     for category_key, category_data in projects_data.items():
         title = category_data.get("title", category_key.title())
         sec_lines = []
-        sec_lines.append(
-            f"<div id='{category_key}' style=\"{_STYLE_SECTION_HEADER}\">"
-            f"<h2 style=\"margin:0; font-size:1.25rem; color:#c9d1d9;\">{title}</h2></div>"
-        )
+        sec_lines.append(f"<h2 id='{category_key}'>{title}</h2>")
         sec_lines.append("")
         search_index["sections"].append({
             "id": category_key,
@@ -212,27 +187,21 @@ def generate_markdown(projects_data, base_dir):
                 desc_limited = desc_limited[:117] + "..."
             section_anchor = e["category_id"]
             card_html = f"""
-<div style="{_STYLE_REPO_CARD}">
-<table width="100%" cellpadding="0" cellspacing="0" style="border:none;">
+<table width="100%" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="58%" style="vertical-align: top; padding-right: 20px;">
-      <h3 style="margin:0 0 8px 0; font-size:1.15rem;">
-        <a href="{e['html_url']}" style="color:#58a6ff; text-decoration:none;">{e['name']}</a>{e['status_tag']}
-      </h3>
-      <p style="margin:0 0 12px 0; color:#8b949e; font-size:14px; line-height:1.5;">{desc_limited}</p>
-      <img src="{e['svg_asset']}" alt="{e['name']} stats" width="100%" style="max-width:400px; border-radius:8px;">
+    <td width="60%" valign="top">
+      <h3><a href="{e['html_url']}">{e['name']}</a>{e['status_tag']}</h3>
+      <p>{desc_limited}</p>
+      <img src="{e['svg_asset']}" alt="{e['name']} stats" width="400">
     </td>
-    <td width="42%" style="vertical-align: middle; text-align: center;">
+    <td width="40%" valign="top" align="center">
       <a href="https://star-history.com/#{e['repo_path']}&Date">
-        <img src="https://api.star-history.com/svg?repos={e['repo_path']}&type=Date" alt="Star History" width="100%" style="border-radius:8px;">
+        <img src="https://api.star-history.com/svg?repos={e['repo_path']}&type=Date" alt="Star History" width="100%">
       </a>
     </td>
   </tr>
 </table>
-<p style="margin:12px 0 0 0; text-align:right;">
-  <a href="#{section_anchor}" style="{_STYLE_BACK_BTN}">🔼 Back to Section</a>
-</p>
-</div>
+<p align="right"><a href="#{section_anchor}">🔼 Back to Section</a></p>
 """
             sec_lines.append(card_html)
             
