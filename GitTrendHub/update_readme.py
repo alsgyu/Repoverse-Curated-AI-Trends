@@ -76,6 +76,11 @@ def generate_svg_card(e):
 </svg>"""
     return svg
 
+def generate_section_bar_svg(color, width=8, height=140):
+    return f"""<svg width="{width}" height="{height}" viewBox="0 0 {width} {height}" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="{width}" height="{height}" fill="{color}"/>
+</svg>"""
+
 # Static TOC entries (id, title, description) for template
 STATIC_TOC_ENTRIES = [
     ("how-to-contribute", "🤝 Community & Participation", "How to contribute, PR guide, community"),
@@ -138,6 +143,11 @@ def generate_markdown(projects_data, base_dir):
     for category_key, category_data in projects_data.items():
         title = category_data.get("title", category_key.title())
         accent = accent_by_category.get(category_key, "#4dabf7")
+        bar_filename = f"section_bar_{category_key}.svg"
+        bar_path = os.path.join(assets_dir, bar_filename)
+        with open(bar_path, "w", encoding="utf-8") as f:
+            f.write(generate_section_bar_svg(accent))
+        bar_asset = f"assets/{bar_filename}"
         sec_lines = []
         sec_lines.append(f"<h2 id='{category_key}'>{title}</h2>")
         sec_lines.append("")
@@ -210,7 +220,9 @@ def generate_markdown(projects_data, base_dir):
             card_html = f"""
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="8" bgcolor="{accent}"></td>
+    <td width="10" valign="top">
+      <img src="{bar_asset}" alt="" width="8" height="140">
+    </td>
     <td width="60%" valign="top" style="padding-left: 10px;">
       <div style="display: inline-block; font-size: 11px; font-weight: 600; letter-spacing: 0.2px; color: {accent}; border: 1px solid {accent}; border-radius: 999px; padding: 2px 8px; margin: 2px 0 6px 0;">
         {badge_text}
