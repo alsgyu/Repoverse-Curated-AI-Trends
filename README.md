@@ -33,10 +33,10 @@
 <h2 id='llm_engines'>🤖 LLM Engines & Platforms</h2>
 
 
-<div style="border-left: 6px solid #ff6b6b; border-radius: 8px; padding-left: 10px;">
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="60%" valign="top">
+    <td width="8" bgcolor="#ff6b6b"></td>
+    <td width="60%" valign="top" style="padding-left: 10px;">
       <div style="display: inline-block; font-size: 11px; font-weight: 600; letter-spacing: 0.2px; color: #ff6b6b; border: 1px solid #ff6b6b; border-radius: 999px; padding: 2px 8px; margin: 2px 0 6px 0;">
         🤖 LLM Engines & Platforms
       </div>
@@ -51,14 +51,13 @@
     </td>
   </tr>
 </table>
-</div>
 <p align="right"><a href="#llm_engines">🔼 Back to Section (🤖 LLM Engines & Platforms)</a> · <a href="#contents">📑 Back to Contents</a></p>
 
 
-<div style="border-left: 6px solid #ff6b6b; border-radius: 8px; padding-left: 10px;">
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="60%" valign="top">
+    <td width="8" bgcolor="#ff6b6b"></td>
+    <td width="60%" valign="top" style="padding-left: 10px;">
       <div style="display: inline-block; font-size: 11px; font-weight: 600; letter-spacing: 0.2px; color: #ff6b6b; border: 1px solid #ff6b6b; border-radius: 999px; padding: 2px 8px; margin: 2px 0 6px 0;">
         🤖 LLM Engines & Platforms
       </div>
@@ -73,14 +72,13 @@
     </td>
   </tr>
 </table>
-</div>
 <p align="right"><a href="#llm_engines">🔼 Back to Section (🤖 LLM Engines & Platforms)</a> · <a href="#contents">📑 Back to Contents</a></p>
 
 
-<div style="border-left: 6px solid #ff6b6b; border-radius: 8px; padding-left: 10px;">
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="60%" valign="top">
+    <td width="8" bgcolor="#ff6b6b"></td>
+    <td width="60%" valign="top" style="padding-left: 10px;">
       <div style="display: inline-block; font-size: 11px; font-weight: 600; letter-spacing: 0.2px; color: #ff6b6b; border: 1px solid #ff6b6b; border-radius: 999px; padding: 2px 8px; margin: 2px 0 6px 0;">
         🤖 LLM Engines & Platforms
       </div>
@@ -95,14 +93,13 @@
     </td>
   </tr>
 </table>
-</div>
 <p align="right"><a href="#llm_engines">🔼 Back to Section (🤖 LLM Engines & Platforms)</a> · <a href="#contents">📑 Back to Contents</a></p>
 
 
-<div style="border-left: 6px solid #ff6b6b; border-radius: 8px; padding-left: 10px;">
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="60%" valign="top">
+    <td width="8" bgcolor="#ff6b6b"></td>
+    <td width="60%" valign="top" style="padding-left: 10px;">
       <div style="display: inline-block; font-size: 11px; font-weight: 600; letter-spacing: 0.2px; color: #ff6b6b; border: 1px solid #ff6b6b; border-radius: 999px; padding: 2px 8px; margin: 2px 0 6px 0;">
         🤖 LLM Engines & Platforms
       </div>
@@ -117,7 +114,6 @@
     </td>
   </tr>
 </table>
-</div>
 <p align="right"><a href="#llm_engines">🔼 Back to Section (🤖 LLM Engines & Platforms)</a> · <a href="#contents">📑 Back to Contents</a></p>
 
 
@@ -126,10 +122,10 @@
 <h2 id='agents'>🛠️ AI Agents & Orchestration</h2>
 
 
-<div style="border-left: 6px solid #4dabf7; border-radius: 8px; padding-left: 10px;">
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="60%" valign="top">
+    <td width="8" bgcolor="#4dabf7"></td>
+    <td width="60%" valign="top" style="padding-left: 10px;">
       <div style="display: inline-block; font-size: 11px; font-weight: 600; letter-spacing: 0.2px; color: #4dabf7; border: 1px solid #4dabf7; border-radius: 999px; padding: 2px 8px; margin: 2px 0 6px 0;">
         🛠️ AI Agents & Orchestration
       </div>
@@ -144,14 +140,13 @@
     </td>
   </tr>
 </table>
-</div>
 <p align="right"><a href="#agents">🔼 Back to Section (🛠️ AI Agents & Orchestration)</a> · <a href="#contents">📑 Back to Contents</a></p>
 
 
-<div style="border-left: 6px solid #4dabf7; border-radius: 8px; padding-left: 10px;">
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="60%" valign="top">
+    <td width="8" bgcolor="#4dabf7"></td>
+    <td width="60%" valign="top" style="padding-left: 10px;">
       <div style="display: inline-block; font-size: 11px; font-weight: 600; letter-spacing: 0.2px; color: #4dabf7; border: 1px solid #4dabf7; border-radius: 999px; padding: 2px 8px; margin: 2px 0 6px 0;">
         🛠️ AI Agents & Orchestration
       </div>
@@ -166,14 +161,13 @@
     </td>
   </tr>
 </table>
-</div>
 <p align="right"><a href="#agents">🔼 Back to Section (🛠️ AI Agents & Orchestration)</a> · <a href="#contents">📑 Back to Contents</a></p>
 
 
-<div style="border-left: 6px solid #4dabf7; border-radius: 8px; padding-left: 10px;">
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="60%" valign="top">
+    <td width="8" bgcolor="#4dabf7"></td>
+    <td width="60%" valign="top" style="padding-left: 10px;">
       <div style="display: inline-block; font-size: 11px; font-weight: 600; letter-spacing: 0.2px; color: #4dabf7; border: 1px solid #4dabf7; border-radius: 999px; padding: 2px 8px; margin: 2px 0 6px 0;">
         🛠️ AI Agents & Orchestration
       </div>
@@ -188,14 +182,13 @@
     </td>
   </tr>
 </table>
-</div>
 <p align="right"><a href="#agents">🔼 Back to Section (🛠️ AI Agents & Orchestration)</a> · <a href="#contents">📑 Back to Contents</a></p>
 
 
-<div style="border-left: 6px solid #4dabf7; border-radius: 8px; padding-left: 10px;">
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="60%" valign="top">
+    <td width="8" bgcolor="#4dabf7"></td>
+    <td width="60%" valign="top" style="padding-left: 10px;">
       <div style="display: inline-block; font-size: 11px; font-weight: 600; letter-spacing: 0.2px; color: #4dabf7; border: 1px solid #4dabf7; border-radius: 999px; padding: 2px 8px; margin: 2px 0 6px 0;">
         🛠️ AI Agents & Orchestration
       </div>
@@ -210,7 +203,6 @@
     </td>
   </tr>
 </table>
-</div>
 <p align="right"><a href="#agents">🔼 Back to Section (🛠️ AI Agents & Orchestration)</a> · <a href="#contents">📑 Back to Contents</a></p>
 
 
@@ -219,10 +211,10 @@
 <h2 id='cli_tools'>💻 AI-Powered CLI & DevTools</h2>
 
 
-<div style="border-left: 6px solid #51cf66; border-radius: 8px; padding-left: 10px;">
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="60%" valign="top">
+    <td width="8" bgcolor="#51cf66"></td>
+    <td width="60%" valign="top" style="padding-left: 10px;">
       <div style="display: inline-block; font-size: 11px; font-weight: 600; letter-spacing: 0.2px; color: #51cf66; border: 1px solid #51cf66; border-radius: 999px; padding: 2px 8px; margin: 2px 0 6px 0;">
         💻 AI-Powered CLI & DevTools
       </div>
@@ -237,14 +229,13 @@
     </td>
   </tr>
 </table>
-</div>
 <p align="right"><a href="#cli_tools">🔼 Back to Section (💻 AI-Powered CLI & DevTools)</a> · <a href="#contents">📑 Back to Contents</a></p>
 
 
-<div style="border-left: 6px solid #51cf66; border-radius: 8px; padding-left: 10px;">
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="60%" valign="top">
+    <td width="8" bgcolor="#51cf66"></td>
+    <td width="60%" valign="top" style="padding-left: 10px;">
       <div style="display: inline-block; font-size: 11px; font-weight: 600; letter-spacing: 0.2px; color: #51cf66; border: 1px solid #51cf66; border-radius: 999px; padding: 2px 8px; margin: 2px 0 6px 0;">
         💻 AI-Powered CLI & DevTools
       </div>
@@ -259,14 +250,13 @@
     </td>
   </tr>
 </table>
-</div>
 <p align="right"><a href="#cli_tools">🔼 Back to Section (💻 AI-Powered CLI & DevTools)</a> · <a href="#contents">📑 Back to Contents</a></p>
 
 
-<div style="border-left: 6px solid #51cf66; border-radius: 8px; padding-left: 10px;">
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="60%" valign="top">
+    <td width="8" bgcolor="#51cf66"></td>
+    <td width="60%" valign="top" style="padding-left: 10px;">
       <div style="display: inline-block; font-size: 11px; font-weight: 600; letter-spacing: 0.2px; color: #51cf66; border: 1px solid #51cf66; border-radius: 999px; padding: 2px 8px; margin: 2px 0 6px 0;">
         💻 AI-Powered CLI & DevTools
       </div>
@@ -281,7 +271,6 @@
     </td>
   </tr>
 </table>
-</div>
 <p align="right"><a href="#cli_tools">🔼 Back to Section (💻 AI-Powered CLI & DevTools)</a> · <a href="#contents">📑 Back to Contents</a></p>
 
 
@@ -290,10 +279,10 @@
 <h2 id='art_vision'>🎨 Generative Art & Vision</h2>
 
 
-<div style="border-left: 6px solid #ffa94d; border-radius: 8px; padding-left: 10px;">
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="60%" valign="top">
+    <td width="8" bgcolor="#ffa94d"></td>
+    <td width="60%" valign="top" style="padding-left: 10px;">
       <div style="display: inline-block; font-size: 11px; font-weight: 600; letter-spacing: 0.2px; color: #ffa94d; border: 1px solid #ffa94d; border-radius: 999px; padding: 2px 8px; margin: 2px 0 6px 0;">
         🎨 Generative Art & Vision
       </div>
@@ -308,14 +297,13 @@
     </td>
   </tr>
 </table>
-</div>
 <p align="right"><a href="#art_vision">🔼 Back to Section (🎨 Generative Art & Vision)</a> · <a href="#contents">📑 Back to Contents</a></p>
 
 
-<div style="border-left: 6px solid #ffa94d; border-radius: 8px; padding-left: 10px;">
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="60%" valign="top">
+    <td width="8" bgcolor="#ffa94d"></td>
+    <td width="60%" valign="top" style="padding-left: 10px;">
       <div style="display: inline-block; font-size: 11px; font-weight: 600; letter-spacing: 0.2px; color: #ffa94d; border: 1px solid #ffa94d; border-radius: 999px; padding: 2px 8px; margin: 2px 0 6px 0;">
         🎨 Generative Art & Vision
       </div>
@@ -330,14 +318,13 @@
     </td>
   </tr>
 </table>
-</div>
 <p align="right"><a href="#art_vision">🔼 Back to Section (🎨 Generative Art & Vision)</a> · <a href="#contents">📑 Back to Contents</a></p>
 
 
-<div style="border-left: 6px solid #ffa94d; border-radius: 8px; padding-left: 10px;">
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="60%" valign="top">
+    <td width="8" bgcolor="#ffa94d"></td>
+    <td width="60%" valign="top" style="padding-left: 10px;">
       <div style="display: inline-block; font-size: 11px; font-weight: 600; letter-spacing: 0.2px; color: #ffa94d; border: 1px solid #ffa94d; border-radius: 999px; padding: 2px 8px; margin: 2px 0 6px 0;">
         🎨 Generative Art & Vision
       </div>
@@ -352,7 +339,6 @@
     </td>
   </tr>
 </table>
-</div>
 <p align="right"><a href="#art_vision">🔼 Back to Section (🎨 Generative Art & Vision)</a> · <a href="#contents">📑 Back to Contents</a></p>
 
 
@@ -361,10 +347,10 @@
 <h2 id='frameworks'>🧠 Research & Core Frameworks</h2>
 
 
-<div style="border-left: 6px solid #845ef7; border-radius: 8px; padding-left: 10px;">
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="60%" valign="top">
+    <td width="8" bgcolor="#845ef7"></td>
+    <td width="60%" valign="top" style="padding-left: 10px;">
       <div style="display: inline-block; font-size: 11px; font-weight: 600; letter-spacing: 0.2px; color: #845ef7; border: 1px solid #845ef7; border-radius: 999px; padding: 2px 8px; margin: 2px 0 6px 0;">
         🧠 Research & Core Frameworks
       </div>
@@ -379,14 +365,13 @@
     </td>
   </tr>
 </table>
-</div>
 <p align="right"><a href="#frameworks">🔼 Back to Section (🧠 Research & Core Frameworks)</a> · <a href="#contents">📑 Back to Contents</a></p>
 
 
-<div style="border-left: 6px solid #845ef7; border-radius: 8px; padding-left: 10px;">
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="60%" valign="top">
+    <td width="8" bgcolor="#845ef7"></td>
+    <td width="60%" valign="top" style="padding-left: 10px;">
       <div style="display: inline-block; font-size: 11px; font-weight: 600; letter-spacing: 0.2px; color: #845ef7; border: 1px solid #845ef7; border-radius: 999px; padding: 2px 8px; margin: 2px 0 6px 0;">
         🧠 Research & Core Frameworks
       </div>
@@ -401,7 +386,6 @@
     </td>
   </tr>
 </table>
-</div>
 <p align="right"><a href="#frameworks">🔼 Back to Section (🧠 Research & Core Frameworks)</a> · <a href="#contents">📑 Back to Contents</a></p>
 
 
@@ -453,5 +437,5 @@ Stay ahead of the curve with these curated AI resources.
 Data is retrieved using the GitHub REST API and GitHub Actions.
 
 <div align="right">
-  <i>✨ Last Generated: March 04, 2026 - 10:23 UTC</i>
+  <i>✨ Last Generated: March 04, 2026 - 10:27 UTC</i>
 </div>

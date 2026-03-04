@@ -208,10 +208,10 @@ def generate_markdown(projects_data, base_dir):
             section_anchor = e["category_id"]
             badge_text = title.replace('"', "&quot;")
             card_html = f"""
-<div style="border-left: 6px solid {accent}; border-radius: 8px; padding-left: 10px;">
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="60%" valign="top">
+    <td width="8" bgcolor="{accent}"></td>
+    <td width="60%" valign="top" style="padding-left: 10px;">
       <div style="display: inline-block; font-size: 11px; font-weight: 600; letter-spacing: 0.2px; color: {accent}; border: 1px solid {accent}; border-radius: 999px; padding: 2px 8px; margin: 2px 0 6px 0;">
         {badge_text}
       </div>
@@ -226,7 +226,6 @@ def generate_markdown(projects_data, base_dir):
     </td>
   </tr>
 </table>
-</div>
 <p align="right"><a href="#{section_anchor}">🔼 Back to Section ({title})</a> · <a href="#contents">📑 Back to Contents</a></p>
 """
             sec_lines.append(card_html)
