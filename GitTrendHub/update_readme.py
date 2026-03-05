@@ -35,7 +35,7 @@ def parse_stars(val):
     except:
         return 0
 
-def format_desc_fixed(desc, max_chars=180, line_len=60, min_lines=3):
+def format_desc_fixed(desc, max_chars=180, line_len=60, min_lines=2):
     if not desc:
         desc = "No description provided"
     text = desc.replace("\n", " ").strip()
@@ -57,6 +57,27 @@ def format_desc_fixed(desc, max_chars=180, line_len=60, min_lines=3):
     if len(chunks) < min_lines:
         chunks.extend(["&nbsp;"] * (min_lines - len(chunks)))
     return "<br>".join(chunks)
+
+def generate_transparent_png(filepath, width=1, height=1):
+    # Minimal PNG writer with alpha channel (transparent).
+    import struct
+    import zlib
+    row = bytes([0] + [0, 0, 0, 0] * width)  # filter byte + RGBA pixels
+    raw = row * height
+    compressed = zlib.compress(raw, level=9)
+
+    def chunk(chunk_type, data):
+        return (
+            struct.pack(">I", len(data))
+            + chunk_type
+            + data
+            + struct.pack(">I", zlib.crc32(chunk_type + data) & 0xFFFFFFFF)
+        )
+
+    ihdr = struct.pack(">IIBBBBB", width, height, 8, 6, 0, 0, 0)
+    png = b"\x89PNG\r\n\x1a\n" + chunk(b"IHDR", ihdr) + chunk(b"IDAT", compressed) + chunk(b"IEND", b"")
+    with open(filepath, "wb") as f:
+        f.write(png)
 
 def language_color(name):
     if not name:
@@ -197,6 +218,9 @@ def generate_markdown(projects_data, base_dir):
     assets_dir = os.path.join(base_dir, "assets")
     if not os.path.exists(assets_dir):
         os.makedirs(assets_dir)
+    spacer_path = os.path.join(assets_dir, "spacer.png")
+    if not os.path.exists(spacer_path):
+        generate_transparent_png(spacer_path, width=1, height=1)
     
     all_enriched_repos = []
     dynamic_sections = []
@@ -307,7 +331,7 @@ def generate_markdown(projects_data, base_dir):
         enriched_repos.sort(key=lambda x: x["stars"], reverse=True)
         
         for e in enriched_repos:
-            desc_limited = format_desc_fixed(e['description'], max_chars=180, line_len=60, min_lines=3)
+            desc_limited = format_desc_fixed(e['description'], max_chars=180, line_len=60, min_lines=2)
             section_anchor = e["category_id"]
             card_html = f"""
 <table width="100%" cellpadding="0" cellspacing="0">
@@ -315,8 +339,9 @@ def generate_markdown(projects_data, base_dir):
     <td width="58%" valign="top">
       <h3><a href="{e['html_url']}">{e['name']}</a>{e['status_tag']}</h3>
       <p>{desc_limited}</p>
+      <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="48">
     </td>
-    <td width="42%" valign="top" align="center">
+    <td width="42%" valign="middle" align="center">
       <img src="{e['svg_asset']}" alt="{e['name']} stats" width="400">
     </td>
   </tr>
