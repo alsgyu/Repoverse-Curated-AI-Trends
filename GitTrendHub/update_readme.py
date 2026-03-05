@@ -353,7 +353,11 @@ def generate_markdown(projects_data, base_dir):
   <tr>
     <td width="58%" valign="top">
       <div style="line-height: 1.05;">
-        <a href="{e['html_url']}"><span style="font-size: 72px; font-weight: 800; letter-spacing: -0.5px; color: {accent};">{e['name']}</span></a>{e['status_tag']}
+        <a href="{e['html_url']}">
+          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, {accent}, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
+            {e['name']}
+          </span>
+        </a>{e['status_tag']}
       </div>
       <p style="line-height: 1.5;">{desc_limited}</p>
     </td>
