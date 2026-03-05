@@ -83,19 +83,19 @@ def generate_transparent_png(filepath, width=1, height=1):
     with open(filepath, "wb") as f:
         f.write(png)
 
-def generate_title_badge_svg(text, accent, width=360, height=40):
+def generate_title_badge_svg(text, accent, width=360, height=38):
     safe_text = (text or "").replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
     text_x = 16
     text_y = height / 2 + 5
     return f"""<svg width="{width}" height="{height}" viewBox="0 0 {width} {height}" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="{accent}"/>
-      <stop offset="100%" stop-color="#3a7bd5"/>
+      <stop offset="0%" stop-color="{accent}" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#9bbcf3" stop-opacity="0.55"/>
     </linearGradient>
   </defs>
-  <rect x="0.5" y="0.5" width="{width-1}" height="{height-1}" rx="9" fill="url(#g)" stroke="#1f242a"/>
-  <text x="{text_x}" y="{text_y}" text-anchor="start" font-family="Arial, sans-serif" font-size="24" font-weight="800" fill="#ffffff">{safe_text}</text>
+  <rect x="0.5" y="0.5" width="{width-1}" height="{height-1}" rx="9" fill="url(#g)" stroke="#2b3340" stroke-opacity="0.55"/>
+  <text x="{text_x}" y="{text_y}" text-anchor="start" font-family="Arial, sans-serif" font-size="20" font-weight="800" fill="#f7f9ff">{safe_text}</text>
 </svg>"""
 
 def language_color(name):
@@ -354,7 +354,7 @@ def generate_markdown(projects_data, base_dir):
             
             e["svg_asset"] = f"assets/{svg_filename}"
             title_width = min(420, max(120, int(12 * len(e["name"]) + 60)))
-            title_svg = generate_title_badge_svg(e["name"], accent, width=title_width, height=40)
+            title_svg = generate_title_badge_svg(e["name"], accent, width=title_width, height=38)
             title_hash = hashlib.sha1(title_svg.encode("utf-8")).hexdigest()[:8]
             title_filename = f"title_{e['repo_path'].replace('/', '_')}_{category_key}_{title_hash}.svg"
             title_path = os.path.join(title_dir, title_filename)
@@ -380,7 +380,7 @@ def generate_markdown(projects_data, base_dir):
   <tr>
     <td width="58%" valign="top">
       <div>
-        <a href="{e['html_url']}"><img src="{e['title_badge']}" alt="{e['name']}" height="40"></a>{e['status_tag']}
+        <a href="{e['html_url']}"><img src="{e['title_badge']}" alt="{e['name']}" height="38"></a>{e['status_tag']}
       </div>
       <p style="line-height: 1.5;">{desc_limited}</p>
     </td>
