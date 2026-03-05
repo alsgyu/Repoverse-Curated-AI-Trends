@@ -59,7 +59,8 @@ def format_desc_fixed(desc, max_chars=180, line_len=60, lines=3):
     chunks = chunks[:lines]
     if len(chunks) < lines:
         chunks.extend(["&nbsp;"] * (lines - len(chunks)))
-    return "<br>".join(chunks)
+    rows = "".join(f"<tr><td>{c}</td></tr>" for c in chunks)
+    return f"<table cellpadding=\"0\" cellspacing=\"0\">{rows}</table>"
 
 def fetch_repo_stats(repo_path, _api_errors=None):
     url = f"https://api.github.com/repos/{repo_path}"
@@ -93,8 +94,7 @@ def generate_svg_card(e):
   </g>
   
   <g transform="translate(150, 80)">
-    <path d="M5 0 L0 5 L5 10 M5 5 L10 5" stroke="#8b949e" stroke-width="2" fill="none"/>
-    <text x="20" y="4" font-family="Arial, sans-serif" font-size="14" fill="#c9d1d9">{e['forks']:,} forks</text>
+    <text x="0" y="4" font-family="Arial, sans-serif" font-size="14" fill="#c9d1d9">{e['forks']:,} forks</text>
   </g>
   
   <rect x="300" y="20" width="80" height="25" rx="5" fill="#21262d" stroke="#30363d"/>
@@ -273,7 +273,7 @@ def generate_markdown(projects_data, base_dir):
   <tr>
     <td width="58%" valign="top">
       <h3><a href="{e['html_url']}">{e['name']}</a>{e['status_tag']}</h3>
-      <p>{desc_limited}</p>
+      {desc_limited}
     </td>
     <td width="42%" valign="top" align="center">
       <img src="{e['svg_asset']}" alt="{e['name']} stats" width="400">
