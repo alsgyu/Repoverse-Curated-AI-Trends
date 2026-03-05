@@ -37,8 +37,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/vllm-project/vllm"><kbd><strong>vllm</strong></kbd></a></div>
-      <p>A high-throughput and memory-efficient inference and serving<br>engine for LLMs<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/vllm-project/vllm"><kbd>vllm</kbd></a></div>
+      <p>A high-throughput and memory-efficient inference and serving<br>engine for LLMs<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -52,8 +52,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/ray-project/ray"><kbd><strong>ray</strong></kbd></a></div>
-      <p>Ray is an AI compute engine. Ray consists of a core<br>distributed runtime and a set of AI Libraries for<br>accelerating ML workloads.</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/ray-project/ray"><kbd>ray</kbd></a></div>
+      <p>Ray is an AI compute engine. Ray consists of a core<br>distributed runtime and a set of AI Libraries for<br>accelerating ML workloads.<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -67,7 +67,7 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/labring/FastGPT"><kbd><strong>FastGPT</strong></kbd></a></div>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/labring/FastGPT"><kbd>FastGPT</kbd></a></div>
       <p>FastGPT is a knowledge-based platform built on the LLMs,<br>offers a comprehensive suite of out-of-the-box capabilities<br>such as data processing, RAG retrieval, and visual AI<br>workfl...</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
@@ -82,8 +82,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/sgl-project/sglang"><kbd><strong>sglang</strong></kbd></a></div>
-      <p>SGLang is a high-performance serving framework for large<br>language models and multimodal models.<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/sgl-project/sglang"><kbd>sglang</kbd></a></div>
+      <p>SGLang is a high-performance serving framework for large<br>language models and multimodal models.<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -97,8 +97,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/mlc-ai/mlc-llm"><kbd><strong>mlc-llm</strong></kbd></a></div>
-      <p>Universal LLM Deployment Engine with ML Compilation<br>&nbsp;<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/mlc-ai/mlc-llm"><kbd>mlc-llm</kbd></a></div>
+      <p>Universal LLM Deployment Engine with ML Compilation<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -112,8 +112,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/google/adk-python"><kbd><strong>adk-python</strong></kbd></a></div>
-      <p>An open-source, code-first Python toolkit for building,<br>evaluating, and deploying sophisticated AI agents with<br>flexibility and control.</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/google/adk-python"><kbd>adk-python</kbd></a></div>
+      <p>An open-source, code-first Python toolkit for building,<br>evaluating, and deploying sophisticated AI agents with<br>flexibility and control.<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -127,8 +127,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/botpress/botpress"><kbd><strong>botpress</strong></kbd></a></div>
-      <p>The open-source hub to build & deploy GPT/LLM Agents ⚡️<br>&nbsp;<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/botpress/botpress"><kbd>botpress</kbd></a></div>
+      <p>The open-source hub to build & deploy GPT/LLM Agents ⚡️<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -142,8 +142,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/Lightning-AI/litgpt"><kbd><strong>litgpt</strong></kbd></a></div>
-      <p>20+ high-performance LLMs with recipes to pretrain, finetune<br>and deploy at scale.<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/Lightning-AI/litgpt"><kbd>litgpt</kbd></a></div>
+      <p>20+ high-performance LLMs with recipes to pretrain, finetune<br>and deploy at scale.<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -157,7 +157,7 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/NVIDIA/TensorRT-LLM"><kbd><strong>TensorRT-LLM</strong></kbd></a></div>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/NVIDIA/TensorRT-LLM"><kbd>TensorRT-LLM</kbd></a></div>
       <p>TensorRT LLM provides users with an easy-to-use Python API<br>to define Large Language Models (LLMs) and supports<br>state-of-the-art optimizations to perform inference<br>efficiently on...</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
@@ -172,8 +172,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/microsoft/promptflow"><kbd><strong>promptflow</strong></kbd></a></div>
-      <p>Build high-quality LLM apps - from prototyping, testing to<br>production deployment and monitoring.<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/microsoft/promptflow"><kbd>promptflow</kbd></a></div>
+      <p>Build high-quality LLM apps - from prototyping, testing to<br>production deployment and monitoring.<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -187,8 +187,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/Netflix/metaflow"><kbd><strong>metaflow</strong></kbd></a></div>
-      <p>Build, Manage and Deploy AI/ML Systems<br>&nbsp;<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/Netflix/metaflow"><kbd>metaflow</kbd></a></div>
+      <p>Build, Manage and Deploy AI/ML Systems<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -202,7 +202,7 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/krillinai/KrillinAI"><kbd><strong>KrillinAI</strong></kbd></a></div>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/krillinai/KrillinAI"><kbd>KrillinAI</kbd></a></div>
       <p>Video translation and dubbing tool powered by LLMs. The<br>video translator offers 100 language translations and<br>one-click full-process deployment. The video translation<br>output is...</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
@@ -217,7 +217,7 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/xorbitsai/inference"><kbd><strong>inference</strong></kbd></a></div>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/xorbitsai/inference"><kbd>inference</kbd></a></div>
       <p>Swap GPT for any LLM by changing a single line of code.<br>Xinference lets you run open-source, speech, and multimodal<br>models on cloud, on-prem, or your laptop — all through one<br>un...</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
@@ -232,8 +232,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/oumi-ai/oumi"><kbd><strong>oumi</strong></kbd></a></div>
-      <p>Easily fine-tune, evaluate and deploy gpt-oss, Qwen3,<br>DeepSeek-R1, or any open source LLM / VLM!<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/oumi-ai/oumi"><kbd>oumi</kbd></a></div>
+      <p>Easily fine-tune, evaluate and deploy gpt-oss, Qwen3,<br>DeepSeek-R1, or any open source LLM / VLM!<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -247,8 +247,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/Tiiny-AI/PowerInfer"><kbd><strong>PowerInfer</strong></kbd></a></div>
-      <p>High-speed Large Language Model Serving for Local Deployment<br>&nbsp;<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/Tiiny-AI/PowerInfer"><kbd>PowerInfer</kbd></a></div>
+      <p>High-speed Large Language Model Serving for Local Deployment<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -262,7 +262,7 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/NexaAI/nexa-sdk"><kbd><strong>nexa-sdk</strong></kbd></a></div>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/NexaAI/nexa-sdk"><kbd>nexa-sdk</kbd></a></div>
       <p>Run frontier LLMs and VLMs with day-0 model support across<br>GPU, NPU, and CPU, with comprehensive runtime coverage for<br>PC (Python/C++), mobile (Android & iOS), and Linux/IoT<br>(Arm...</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
@@ -277,8 +277,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/InternLM/lmdeploy"><kbd><strong>lmdeploy</strong></kbd></a></div>
-      <p>LMDeploy is a toolkit for compressing, deploying, and<br>serving LLMs.<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/InternLM/lmdeploy"><kbd>lmdeploy</kbd></a></div>
+      <p>LMDeploy is a toolkit for compressing, deploying, and<br>serving LLMs.<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -292,8 +292,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/google/adk-go"><kbd><strong>adk-go</strong></kbd></a></div>
-      <p>An open-source, code-first Go toolkit for building,<br>evaluating, and deploying sophisticated AI agents with<br>flexibility and control.</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/google/adk-go"><kbd>adk-go</kbd></a></div>
+      <p>An open-source, code-first Go toolkit for building,<br>evaluating, and deploying sophisticated AI agents with<br>flexibility and control.<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -307,8 +307,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/julep-ai/julep"><kbd><strong>julep</strong></kbd></a></div>
-      <p>Deploy serverless AI workflows at scale. Firebase for AI<br>agents<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/julep-ai/julep"><kbd>julep</kbd></a></div>
+      <p>Deploy serverless AI workflows at scale. Firebase for AI<br>agents<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -322,8 +322,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/Zipstack/unstract"><kbd><strong>unstract</strong></kbd></a></div>
-      <p>LLM-Driven Extraction of Unstructured Data — Built for API<br>Deployments & ETL Pipeline Workflows<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/Zipstack/unstract"><kbd>unstract</kbd></a></div>
+      <p>LLM-Driven Extraction of Unstructured Data — Built for API<br>Deployments & ETL Pipeline Workflows<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -337,8 +337,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/PacktPublishing/LLM-Engineers-Handbook"><kbd><strong>LLM-Engineers-Handbook</strong></kbd></a></div>
-      <p>The LLM's practical guide: From the fundamentals to<br>deploying advanced LLM and RAG apps to AWS using LLMOps best<br>practices</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/PacktPublishing/LLM-Engineers-Handbook"><kbd>LLM-Engineers-Handbook</kbd></a></div>
+      <p>The LLM's practical guide: From the fundamentals to<br>deploying advanced LLM and RAG apps to AWS using LLMOps best<br>practices<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -352,8 +352,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/osaurus-ai/osaurus"><kbd><strong>osaurus</strong></kbd></a></div>
-      <p>AI edge infrastructure for macOS. Run local or cloud models,<br>share tools across apps via MCP, and power AI workflows with<br>a native, always-on runtime.</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/osaurus-ai/osaurus"><kbd>osaurus</kbd></a></div>
+      <p>AI edge infrastructure for macOS. Run local or cloud models,<br>share tools across apps via MCP, and power AI workflows with<br>a native, always-on runtime.<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -367,8 +367,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/ModelTC/LightLLM"><kbd><strong>LightLLM</strong></kbd></a></div>
-      <p>LightLLM is a Python-based LLM (Large Language Model)<br>inference and serving framework, notable for its lightweight<br>design, easy scalability, and high-speed performance.</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/ModelTC/LightLLM"><kbd>LightLLM</kbd></a></div>
+      <p>LightLLM is a Python-based LLM (Large Language Model)<br>inference and serving framework, notable for its lightweight<br>design, easy scalability, and high-speed performance.<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -382,8 +382,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/PaddlePaddle/FastDeploy"><kbd><strong>FastDeploy</strong></kbd></a></div>
-      <p>High-performance Inference and Deployment Toolkit for LLMs<br>and VLMs based on PaddlePaddle<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/PaddlePaddle/FastDeploy"><kbd>FastDeploy</kbd></a></div>
+      <p>High-performance Inference and Deployment Toolkit for LLMs<br>and VLMs based on PaddlePaddle<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -397,7 +397,7 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/NVIDIA/TransformerEngine"><kbd><strong>TransformerEngine</strong></kbd></a></div>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/NVIDIA/TransformerEngine"><kbd>TransformerEngine</kbd></a></div>
       <p>A library for accelerating Transformer models on NVIDIA<br>GPUs, including using 8-bit and 4-bit floating point (FP8<br>and FP4) precision on Hopper, Ada and Blackwell GPUs, to<br>provid...</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
@@ -412,8 +412,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/Intelligent-Internet/ii-agent"><kbd><strong>ii-agent</strong></kbd></a></div>
-      <p>II-Agent: a new open-source framework to build and deploy<br>intelligent agents<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/Intelligent-Internet/ii-agent"><kbd>ii-agent</kbd></a></div>
+      <p>II-Agent: a new open-source framework to build and deploy<br>intelligent agents<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -427,8 +427,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/vllm-project/llm-compressor"><kbd><strong>llm-compressor</strong></kbd></a></div>
-      <p>Transformers-compatible library for applying various<br>compression algorithms to LLMs for optimized deployment with<br>vLLM</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/vllm-project/llm-compressor"><kbd>llm-compressor</kbd></a></div>
+      <p>Transformers-compatible library for applying various<br>compression algorithms to LLMs for optimized deployment with<br>vLLM<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -442,8 +442,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/michaelfeil/infinity"><kbd><strong>infinity</strong></kbd></a></div>
-      <p>Infinity is a high-throughput, low-latency serving engine<br>for text-embeddings, reranking models, clip, clap and<br>colpali</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/michaelfeil/infinity"><kbd>infinity</kbd></a></div>
+      <p>Infinity is a high-throughput, low-latency serving engine<br>for text-embeddings, reranking models, clip, clap and<br>colpali<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -457,8 +457,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/OpenMind/OM1"><kbd><strong>OM1</strong></kbd></a></div>
-      <p>Modular AI runtime for robots<br>&nbsp;<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/OpenMind/OM1"><kbd>OM1</kbd></a></div>
+      <p>Modular AI runtime for robots<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -472,7 +472,7 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/containers/ramalama"><kbd><strong>ramalama</strong></kbd></a></div>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/containers/ramalama"><kbd>ramalama</kbd></a></div>
       <p>RamaLama is an open-source developer tool that simplifies<br>the local serving of AI models from any source and<br>facilitates their use for inference in production, all<br>through the f...</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
@@ -487,8 +487,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/xdit-project/xDiT"><kbd><strong>xDiT</strong></kbd></a></div>
-      <p>xDiT: A Scalable Inference Engine for Diffusion Transformers<br>(DiTs) with Massive Parallelism<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/xdit-project/xDiT"><kbd>xDiT</kbd></a></div>
+      <p>xDiT: A Scalable Inference Engine for Diffusion Transformers<br>(DiTs) with Massive Parallelism<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -502,8 +502,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/langchain-ai/langserve"><kbd><strong>langserve</strong></kbd></a></div>
-      <p>LangServe 🦜️🏓<br>&nbsp;<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/langchain-ai/langserve"><kbd>langserve</kbd></a></div>
+      <p>LangServe 🦜️🏓<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -517,8 +517,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/NVIDIA/Model-Optimizer"><kbd><strong>Model-Optimizer</strong></kbd></a></div>
-      <p>A unified library of SOTA model optimization techniques like<br>quantization, pruning, distillation, speculative decoding,<br>etc. It compresses deep learning models for downstream de...</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/NVIDIA/Model-Optimizer"><kbd>Model-Optimizer</kbd></a></div>
+      <p>A unified library of SOTA model optimization techniques like<br>quantization, pruning, distillation, speculative decoding,<br>etc. It compresses deep learning models for downstream de...<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -532,8 +532,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/run-llama/llama_deploy"><kbd><strong>llama_deploy</strong></kbd></a></div>
-      <p>Deploy your agentic worfklows to production<br>&nbsp;<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/run-llama/llama_deploy"><kbd>llama_deploy</kbd></a></div>
+      <p>Deploy your agentic worfklows to production<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -547,8 +547,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/nottelabs/notte"><kbd><strong>notte</strong></kbd></a></div>
-      <p>🌸 Best framework to build web agents, and deploy serverless<br>web automation functions on reliable browser infra.<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/nottelabs/notte"><kbd>notte</kbd></a></div>
+      <p>🌸 Best framework to build web agents, and deploy serverless<br>web automation functions on reliable browser infra.<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -562,8 +562,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/google/adk-java"><kbd><strong>adk-java</strong></kbd></a></div>
-      <p>An open-source, code-first Java toolkit for building,<br>evaluating, and deploying sophisticated AI agents with<br>flexibility and control.</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/google/adk-java"><kbd>adk-java</kbd></a></div>
+      <p>An open-source, code-first Java toolkit for building,<br>evaluating, and deploying sophisticated AI agents with<br>flexibility and control.<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -577,8 +577,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/BlackSnufkin/LitterBox"><kbd><strong>LitterBox</strong></kbd></a></div>
-      <p>A secure sandbox environment for malware developers and red<br>teamers to test payloads against detection mechanisms before<br>deployment. Integrates with LLM agents via MCP for enhan...</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/BlackSnufkin/LitterBox"><kbd>LitterBox</kbd></a></div>
+      <p>A secure sandbox environment for malware developers and red<br>teamers to test payloads against detection mechanisms before<br>deployment. Integrates with LLM agents via MCP for enhan...<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -592,7 +592,7 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/SmythOS/sre"><kbd><strong>sre</strong></kbd></a></div>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/SmythOS/sre"><kbd>sre</kbd></a></div>
       <p>The SmythOS Runtime Environment (SRE) is an open-source,<br>cloud-native runtime for agentic AI. Secure, modular, and<br>production-ready, it lets developers build, run, and manage<br>in...</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
@@ -607,8 +607,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/GradientHQ/parallax"><kbd><strong>parallax</strong></kbd></a></div>
-      <p>Parallax is a distributed model serving framework that lets<br>you build your own AI cluster anywhere<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/GradientHQ/parallax"><kbd>parallax</kbd></a></div>
+      <p>Parallax is a distributed model serving framework that lets<br>you build your own AI cluster anywhere<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -622,8 +622,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/google/adk-js"><kbd><strong>adk-js</strong></kbd></a></div>
-      <p>An open-source, code-first Typescript toolkit for building,<br>evaluating, and deploying sophisticated AI agents with<br>flexibility and control.</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/google/adk-js"><kbd>adk-js</kbd></a></div>
+      <p>An open-source, code-first Typescript toolkit for building,<br>evaluating, and deploying sophisticated AI agents with<br>flexibility and control.<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -637,8 +637,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/docker/compose-for-agents"><kbd><strong>compose-for-agents</strong></kbd></a></div>
-      <p>Build and run AI agents using Docker Compose. A collection<br>of ready-to-use examples for orchestrating open-source LLMs,<br>tools, and agent runtimes.</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/docker/compose-for-agents"><kbd>compose-for-agents</kbd></a></div>
+      <p>Build and run AI agents using Docker Compose. A collection<br>of ready-to-use examples for orchestrating open-source LLMs,<br>tools, and agent runtimes.<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -652,8 +652,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/xpander-ai/xpander.ai"><kbd><strong>xpander.ai</strong></kbd></a></div>
-      <p>xpander.ai is the runtime and control plane to build, run,<br>and ship reliable AI agents fast and anywhere<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/xpander-ai/xpander.ai"><kbd>xpander.ai</kbd></a></div>
+      <p>xpander.ai is the runtime and control plane to build, run,<br>and ship reliable AI agents fast and anywhere<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -667,8 +667,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/kossakovsky/n8n-install"><kbd><strong>n8n-install</strong></kbd></a></div>
-      <p>🚀 Self-hosted AI automation platform. Deploy n8n, Ollama,<br>Flowise, RAG, Supabase & 30+ tools with one command. Auto<br>HTTPS. Free Zapier/Make alternative.</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/kossakovsky/n8n-install"><kbd>n8n-install</kbd></a></div>
+      <p>🚀 Self-hosted AI automation platform. Deploy n8n, Ollama,<br>Flowise, RAG, Supabase & 30+ tools with one command. Auto<br>HTTPS. Free Zapier/Make alternative.<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -682,8 +682,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/sgl-project/SpecForge"><kbd><strong>SpecForge</strong></kbd></a></div>
-      <p>Train speculative decoding models effortlessly and port them<br>smoothly to SGLang serving.<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/sgl-project/SpecForge"><kbd>SpecForge</kbd></a></div>
+      <p>Train speculative decoding models effortlessly and port them<br>smoothly to SGLang serving.<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -697,8 +697,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/tile-ai/TileRT"><kbd><strong>TileRT</strong></kbd></a></div>
-      <p>Tile-Based Runtime for Ultra-Low-Latency LLM Inference<br>&nbsp;<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/tile-ai/TileRT"><kbd>TileRT</kbd></a></div>
+      <p>Tile-Based Runtime for Ultra-Low-Latency LLM Inference<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -712,7 +712,7 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/Haohao-end/LMForge-End-to-End-LLMOps-Platform-for-Multi-Model-Agents"><kbd><strong>LMForge-End-to-End-LLMOps-Platform-for-Multi-Model-Agents</strong></kbd></a></div>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/Haohao-end/LMForge-End-to-End-LLMOps-Platform-for-Multi-Model-Agents"><kbd>LMForge-End-to-End-LLMOps-Platform-for-Multi-Model-Agents</kbd></a></div>
       <p>AI Agent Development Platform - Supports multiple models<br>(OpenAI/DeepSeek/Wenxin/Tongyi), knowledge base management,<br>workflow automation, and enterprise-grade security. Built<br>wi...</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
@@ -727,7 +727,7 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/alirezarezvani/claude-code-skill-factory"><kbd><strong>claude-code-skill-factory</strong></kbd></a></div>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/alirezarezvani/claude-code-skill-factory"><kbd>claude-code-skill-factory</kbd></a></div>
       <p>Claude Code Skill Factory — A powerful open-source toolkit<br>for building and deploying production-ready Claude Skills,<br>Code Agents, custom Slash Commands, and LLM Prompts at<br>scal...</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
@@ -742,8 +742,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/yassa9/qwen600"><kbd><strong>qwen600</strong></kbd></a></div>
-      <p>Static suckless single batch CUDA-only qwen3-0.6B mini<br>inference engine<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/yassa9/qwen600"><kbd>qwen600</kbd></a></div>
+      <p>Static suckless single batch CUDA-only qwen3-0.6B mini<br>inference engine<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -757,7 +757,7 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/waybarrios/vllm-mlx"><kbd><strong>vllm-mlx</strong></kbd></a></div>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/waybarrios/vllm-mlx"><kbd>vllm-mlx</kbd></a></div>
       <p>OpenAI and Anthropic compatible server for Apple Silicon.<br>Run LLMs and vision-language models (Llama, Qwen-VL, LLaVA)<br>with continuous batching, MCP tool calling, and<br>multimodal...</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
@@ -772,8 +772,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/milanm/AutoGrad-Engine"><kbd><strong>AutoGrad-Engine</strong></kbd></a></div>
-      <p>A complete GPT language model (training and inference) in<br>~600 lines of pure C#, zero dependencies<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/milanm/AutoGrad-Engine"><kbd>AutoGrad-Engine</kbd></a></div>
+      <p>A complete GPT language model (training and inference) in<br>~600 lines of pure C#, zero dependencies<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -793,8 +793,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/langchain-ai/langchain"><kbd><strong>langchain</strong></kbd></a></div>
-      <p>The agent engineering platform<br>&nbsp;<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/langchain-ai/langchain"><kbd>langchain</kbd></a></div>
+      <p>The agent engineering platform<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -808,8 +808,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/FoundationAgents/MetaGPT"><kbd><strong>MetaGPT</strong></kbd></a></div>
-      <p>🌟 The Multi-Agent Framework: First AI Software Company,<br>Towards Natural Language Programming<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/FoundationAgents/MetaGPT"><kbd>MetaGPT</kbd></a></div>
+      <p>🌟 The Multi-Agent Framework: First AI Software Company,<br>Towards Natural Language Programming<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -823,7 +823,7 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/cline/cline"><kbd><strong>cline</strong></kbd></a></div>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/cline/cline"><kbd>cline</kbd></a></div>
       <p>Autonomous coding agent right in your IDE, capable of<br>creating/editing files, executing commands, using the<br>browser, and more with your permission every step of the<br>way.</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
@@ -838,8 +838,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/microsoft/autogen"><kbd><strong>autogen</strong></kbd></a></div>
-      <p>A programming framework for agentic AI<br>&nbsp;<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/microsoft/autogen"><kbd>autogen</kbd></a></div>
+      <p>A programming framework for agentic AI<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -853,7 +853,7 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/crewAIInc/crewAI"><kbd><strong>crewAI</strong></kbd></a></div>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/crewAIInc/crewAI"><kbd>crewAI</kbd></a></div>
       <p>Framework for orchestrating role-playing, autonomous AI<br>agents. By fostering collaborative intelligence, CrewAI<br>empowers agents to work together seamlessly, tackling<br>complex tasks.</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
@@ -868,8 +868,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/CherryHQ/cherry-studio"><kbd><strong>cherry-studio</strong></kbd></a></div>
-      <p>AI productivity studio with smart chat, autonomous agents,<br>and 300+ assistants. Unified access to frontier LLMs<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/CherryHQ/cherry-studio"><kbd>cherry-studio</kbd></a></div>
+      <p>AI productivity studio with smart chat, autonomous agents,<br>and 300+ assistants. Unified access to frontier LLMs<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -883,7 +883,7 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/khoj-ai/khoj"><kbd><strong>khoj</strong></kbd></a></div>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/khoj-ai/khoj"><kbd>khoj</kbd></a></div>
       <p>Your AI second brain. Self-hostable. Get answers from the<br>web or your docs. Build custom agents, schedule automations,<br>do deep research. Turn any online or local LLM into your<br>p...</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
@@ -898,8 +898,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/wshobson/agents"><kbd><strong>agents</strong></kbd></a></div>
-      <p>Intelligent automation and multi-agent orchestration for<br>Claude Code<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/wshobson/agents"><kbd>agents</kbd></a></div>
+      <p>Intelligent automation and multi-agent orchestration for<br>Claude Code<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -913,8 +913,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/langchain-ai/langgraph"><kbd><strong>langgraph</strong></kbd></a></div>
-      <p>Build resilient language agents as graphs.<br>&nbsp;<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/langchain-ai/langgraph"><kbd>langgraph</kbd></a></div>
+      <p>Build resilient language agents as graphs.<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -928,8 +928,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/assafelovic/gpt-researcher"><kbd><strong>gpt-researcher</strong></kbd></a></div>
-      <p>An autonomous agent that conducts deep research on any data<br>using any LLM providers<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/assafelovic/gpt-researcher"><kbd>gpt-researcher</kbd></a></div>
+      <p>An autonomous agent that conducts deep research on any data<br>using any LLM providers<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -943,8 +943,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/Fosowl/agenticSeek"><kbd><strong>agenticSeek</strong></kbd></a></div>
-      <p>Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy<br>an autonomous agent that thinks, browses the web, and code<br>for the sole cost of electricity. 🔔 Official updates only...</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/Fosowl/agenticSeek"><kbd>agenticSeek</kbd></a></div>
+      <p>Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy<br>an autonomous agent that thinks, browses the web, and code<br>for the sole cost of electricity. 🔔 Official updates only...<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -958,8 +958,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/zai-org/Open-AutoGLM"><kbd><strong>Open-AutoGLM</strong></kbd></a></div>
-      <p>An Open Phone Agent Model & Framework. Unlocking the AI<br>Phone for Everyone<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/zai-org/Open-AutoGLM"><kbd>Open-AutoGLM</kbd></a></div>
+      <p>An Open Phone Agent Model & Framework. Unlocking the AI<br>Phone for Everyone<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -973,8 +973,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/zeroclaw-labs/zeroclaw"><kbd><strong>zeroclaw</strong></kbd></a></div>
-      <p>Fast, small, and fully autonomous AI assistant<br>infrastructure — deploy anywhere, swap anything 🦀<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/zeroclaw-labs/zeroclaw"><kbd>zeroclaw</kbd></a></div>
+      <p>Fast, small, and fully autonomous AI assistant<br>infrastructure — deploy anywhere, swap anything 🦀<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -988,8 +988,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/mastra-ai/mastra"><kbd><strong>mastra</strong></kbd></a></div>
-      <p>From the team behind Gatsby, Mastra is a framework for<br>building AI-powered applications and agents with a modern<br>TypeScript stack.</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/mastra-ai/mastra"><kbd>mastra</kbd></a></div>
+      <p>From the team behind Gatsby, Mastra is a framework for<br>building AI-powered applications and agents with a modern<br>TypeScript stack.<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -1003,8 +1003,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/openai/openai-agents-python"><kbd><strong>openai-agents-python</strong></kbd></a></div>
-      <p>A lightweight, powerful framework for multi-agent workflows<br>&nbsp;<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/openai/openai-agents-python"><kbd>openai-agents-python</kbd></a></div>
+      <p>A lightweight, powerful framework for multi-agent workflows<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -1018,7 +1018,7 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/ruvnet/ruflo"><kbd><strong>ruflo</strong></kbd></a></div>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/ruvnet/ruflo"><kbd>ruflo</kbd></a></div>
       <p>🌊 The leading agent orchestration platform for Claude.<br>Deploy intelligent multi-agent swarms, coordinate autonomous<br>workflows, and build conversational AI systems. Features<br>e...</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
@@ -1033,8 +1033,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/vercel-labs/agent-browser"><kbd><strong>agent-browser</strong></kbd></a></div>
-      <p>Browser automation CLI for AI agents<br>&nbsp;<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/vercel-labs/agent-browser"><kbd>agent-browser</kbd></a></div>
+      <p>Browser automation CLI for AI agents<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -1048,8 +1048,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/humanlayer/12-factor-agents"><kbd><strong>12-factor-agents</strong></kbd></a></div>
-      <p>What are the principles we can use to build LLM-powered<br>software that is actually good enough to put in the hands of<br>production customers?</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/humanlayer/12-factor-agents"><kbd>12-factor-agents</kbd></a></div>
+      <p>What are the principles we can use to build LLM-powered<br>software that is actually good enough to put in the hands of<br>production customers?<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -1063,8 +1063,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/emcie-co/parlant"><kbd><strong>parlant</strong></kbd></a></div>
-      <p>The conversational control layer for customer-facing AI<br>agents - Parlant is a context-engineering framework<br>optimized for controlling customer interactions.</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/emcie-co/parlant"><kbd>parlant</kbd></a></div>
+      <p>The conversational control layer for customer-facing AI<br>agents - Parlant is a context-engineering framework<br>optimized for controlling customer interactions.<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -1078,8 +1078,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/elizaOS/eliza"><kbd><strong>eliza</strong></kbd></a></div>
-      <p>Autonomous agents for everyone<br>&nbsp;<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/elizaOS/eliza"><kbd>eliza</kbd></a></div>
+      <p>Autonomous agents for everyone<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -1093,8 +1093,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/virattt/dexter"><kbd><strong>dexter</strong></kbd></a></div>
-      <p>An autonomous agent for deep financial research<br>&nbsp;<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/virattt/dexter"><kbd>dexter</kbd></a></div>
+      <p>An autonomous agent for deep financial research<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -1108,7 +1108,7 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/raga-ai-hub/RagaAI-Catalyst"><kbd><strong>RagaAI-Catalyst</strong></kbd></a></div>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/raga-ai-hub/RagaAI-Catalyst"><kbd>RagaAI-Catalyst</kbd></a></div>
       <p>Python SDK for Agent AI Observability, Monitoring and<br>Evaluation Framework. Includes features like agent, llm and<br>tools tracing, debugging multi-agentic system, self-hosted<br>dash...</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
@@ -1123,8 +1123,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/agent0ai/agent-zero"><kbd><strong>agent-zero</strong></kbd></a></div>
-      <p>Agent Zero AI framework<br>&nbsp;<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/agent0ai/agent-zero"><kbd>agent-zero</kbd></a></div>
+      <p>Agent Zero AI framework<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -1138,8 +1138,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/pydantic/pydantic-ai"><kbd><strong>pydantic-ai</strong></kbd></a></div>
-      <p>GenAI Agent Framework, the Pydantic way<br>&nbsp;<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/pydantic/pydantic-ai"><kbd>pydantic-ai</kbd></a></div>
+      <p>GenAI Agent Framework, the Pydantic way<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -1153,8 +1153,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/Tencent/WeKnora"><kbd><strong>WeKnora</strong></kbd></a></div>
-      <p>LLM-powered framework for deep document understanding,<br>semantic retrieval, and context-aware answers using RAG<br>paradigm.</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/Tencent/WeKnora"><kbd>WeKnora</kbd></a></div>
+      <p>LLM-powered framework for deep document understanding,<br>semantic retrieval, and context-aware answers using RAG<br>paradigm.<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -1168,8 +1168,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/nanobrowser/nanobrowser"><kbd><strong>nanobrowser</strong></kbd></a></div>
-      <p>Open-Source Chrome extension for AI-powered web automation.<br>Run multi-agent workflows using your own LLM API key.<br>Alternative to OpenAI Operator.</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/nanobrowser/nanobrowser"><kbd>nanobrowser</kbd></a></div>
+      <p>Open-Source Chrome extension for AI-powered web automation.<br>Run multi-agent workflows using your own LLM API key.<br>Alternative to OpenAI Operator.<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -1183,8 +1183,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/snarktank/ralph"><kbd><strong>ralph</strong></kbd></a></div>
-      <p>Ralph is an autonomous AI agent loop that runs repeatedly<br>until all PRD items are complete.<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/snarktank/ralph"><kbd>ralph</kbd></a></div>
+      <p>Ralph is an autonomous AI agent loop that runs repeatedly<br>until all PRD items are complete.<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -1198,8 +1198,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/iflytek/astron-agent"><kbd><strong>astron-agent</strong></kbd></a></div>
-      <p>Enterprise-grade, commercial-friendly agentic workflow<br>platform for building next-generation SuperAgents.<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/iflytek/astron-agent"><kbd>astron-agent</kbd></a></div>
+      <p>Enterprise-grade, commercial-friendly agentic workflow<br>platform for building next-generation SuperAgents.<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -1213,8 +1213,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/mcp-use/mcp-use"><kbd><strong>mcp-use</strong></kbd></a></div>
-      <p>The fullstack MCP framework to develop MCP Apps for ChatGPT<br>/ Claude & MCP Servers for AI Agents.<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/mcp-use/mcp-use"><kbd>mcp-use</kbd></a></div>
+      <p>The fullstack MCP framework to develop MCP Apps for ChatGPT<br>/ Claude & MCP Servers for AI Agents.<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -1228,8 +1228,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/vxcontrol/pentagi"><kbd><strong>pentagi</strong></kbd></a></div>
-      <p>✨ Fully autonomous AI Agents system capable of performing<br>complex penetration testing tasks<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/vxcontrol/pentagi"><kbd>pentagi</kbd></a></div>
+      <p>✨ Fully autonomous AI Agents system capable of performing<br>complex penetration testing tasks<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -1243,8 +1243,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/Yeachan-Heo/oh-my-claudecode"><kbd><strong>oh-my-claudecode</strong></kbd></a></div>
-      <p>Teams-first Multi-agent orchestration for Claude Code<br>&nbsp;<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/Yeachan-Heo/oh-my-claudecode"><kbd>oh-my-claudecode</kbd></a></div>
+      <p>Teams-first Multi-agent orchestration for Claude Code<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -1258,8 +1258,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/microsoft/agent-framework"><kbd><strong>agent-framework</strong></kbd></a></div>
-      <p>A framework for building, orchestrating and deploying AI<br>agents and multi-agent workflows with support for Python and<br>.NET.</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/microsoft/agent-framework"><kbd>agent-framework</kbd></a></div>
+      <p>A framework for building, orchestrating and deploying AI<br>agents and multi-agent workflows with support for Python and<br>.NET.<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -1273,8 +1273,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/0x4m4/hexstrike-ai"><kbd><strong>hexstrike-ai</strong></kbd></a></div>
-      <p>HexStrike AI MCP Agents is an advanced MCP server that lets<br>AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+<br>cybersecurity tools for automated pentesting, vulnerabil...</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/0x4m4/hexstrike-ai"><kbd>hexstrike-ai</kbd></a></div>
+      <p>HexStrike AI MCP Agents is an advanced MCP server that lets<br>AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+<br>cybersecurity tools for automated pentesting, vulnerabil...<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -1288,8 +1288,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/VoltAgent/voltagent"><kbd><strong>voltagent</strong></kbd></a></div>
-      <p>AI Agent Engineering Platform built on an Open Source<br>TypeScript AI Agent Framework<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/VoltAgent/voltagent"><kbd>voltagent</kbd></a></div>
+      <p>AI Agent Engineering Platform built on an Open Source<br>TypeScript AI Agent Framework<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -1303,7 +1303,7 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/MemMachine/MemMachine"><kbd><strong>MemMachine</strong></kbd></a></div>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/MemMachine/MemMachine"><kbd>MemMachine</kbd></a></div>
       <p>Universal memory layer for AI Agents. It provides scalable,<br>extensible, and interoperable memory storage and retrieval<br>to streamline AI agent state management for<br>next-generatio...</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
@@ -1318,8 +1318,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/ruc-datalab/DeepAnalyze"><kbd><strong>DeepAnalyze</strong></kbd></a></div>
-      <p>DeepAnalyze is the first agentic LLM for autonomous data<br>science. 🎈你的AI数据分析师，自动分析大量数据，一键生成专业分析报告！<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/ruc-datalab/DeepAnalyze"><kbd>DeepAnalyze</kbd></a></div>
+      <p>DeepAnalyze is the first agentic LLM for autonomous data<br>science. 🎈你的AI数据分析师，自动分析大量数据，一键生成专业分析报告！<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -1333,8 +1333,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/ComposioHQ/agent-orchestrator"><kbd><strong>agent-orchestrator</strong></kbd></a></div>
-      <p>Agentic orchestrator for parallel coding agents — plans<br>tasks, spawns agents, and autonomously handles CI fixes,<br>merge conflicts, and code reviews.</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/ComposioHQ/agent-orchestrator"><kbd>agent-orchestrator</kbd></a></div>
+      <p>Agentic orchestrator for parallel coding agents — plans<br>tasks, spawns agents, and autonomously handles CI fixes,<br>merge conflicts, and code reviews.<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -1348,8 +1348,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/VibiumDev/vibium"><kbd><strong>vibium</strong></kbd></a></div>
-      <p>Browser automation for AI agents and humans<br>&nbsp;<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/VibiumDev/vibium"><kbd>vibium</kbd></a></div>
+      <p>Browser automation for AI agents and humans<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -1363,8 +1363,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/michaelshimeles/ralphy"><kbd><strong>ralphy</strong></kbd></a></div>
-      <p>My Ralph Wiggum setup, an autonomous bash script that runs<br>Claude Code, Codex, OpenCode, Cursor agent, Qwen & Droid in<br>a loop until your PRD is complete.</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/michaelshimeles/ralphy"><kbd>ralphy</kbd></a></div>
+      <p>My Ralph Wiggum setup, an autonomous bash script that runs<br>Claude Code, Codex, OpenCode, Cursor agent, Qwen & Droid in<br>a loop until your PRD is complete.<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -1378,8 +1378,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/openai/symphony"><kbd><strong>symphony</strong></kbd></a></div>
-      <p>Symphony turns project work into isolated, autonomous<br>implementation runs, allowing teams to manage work instead<br>of supervising coding agents.</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/openai/symphony"><kbd>symphony</kbd></a></div>
+      <p>Symphony turns project work into isolated, autonomous<br>implementation runs, allowing teams to manage work instead<br>of supervising coding agents.<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -1393,8 +1393,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/abhi1693/openclaw-mission-control"><kbd><strong>openclaw-mission-control</strong></kbd></a></div>
-      <p>AI Agent Orchestration Dashboard - Manage AI agents, assign<br>tasks, and coordinate multi-agent collaboration via OpenClaw<br>Gateway.</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/abhi1693/openclaw-mission-control"><kbd>openclaw-mission-control</kbd></a></div>
+      <p>AI Agent Orchestration Dashboard - Manage AI agents, assign<br>tasks, and coordinate multi-agent collaboration via OpenClaw<br>Gateway.<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -1408,7 +1408,7 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/samugit83/redamon"><kbd><strong>redamon</strong></kbd></a></div>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/samugit83/redamon"><kbd>redamon</kbd></a></div>
       <p>An AI-powered agentic red team framework that automates<br>offensive security operations, from reconnaissance to<br>exploitation to post-exploitation, with zero human<br>intervention.</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
@@ -1423,8 +1423,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/cft0808/edict"><kbd><strong>edict</strong></kbd></a></div>
-      <p>🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9<br>specialized AI agents with real-time dashboard, model<br>config, and full audit trails</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/cft0808/edict"><kbd>edict</kbd></a></div>
+      <p>🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9<br>specialized AI agents with real-time dashboard, model<br>config, and full audit trails<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -1438,8 +1438,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/crshdn/mission-control"><kbd><strong>mission-control</strong></kbd></a></div>
-      <p>AI Agent Orchestration Dashboard - Manage AI agents, assign<br>tasks, and coordinate multi-agent collaboration via OpenClaw<br>Gateway.</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/crshdn/mission-control"><kbd>mission-control</kbd></a></div>
+      <p>AI Agent Orchestration Dashboard - Manage AI agents, assign<br>tasks, and coordinate multi-agent collaboration via OpenClaw<br>Gateway.<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -1453,8 +1453,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/yohey-w/multi-agent-shogun"><kbd><strong>multi-agent-shogun</strong></kbd></a></div>
-      <p>Samurai-inspired multi-agent system for Claude Code.<br>Orchestrate parallel AI tasks via tmux with shogun → karo →<br>ashigaru hierarchy.</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/yohey-w/multi-agent-shogun"><kbd>multi-agent-shogun</kbd></a></div>
+      <p>Samurai-inspired multi-agent system for Claude Code.<br>Orchestrate parallel AI tasks via tmux with shogun → karo →<br>ashigaru hierarchy.<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -1468,8 +1468,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/deanpeters/Product-Manager-Skills"><kbd><strong>Product-Manager-Skills</strong></kbd></a></div>
-      <p>Product Management skills framework built on battle-tested<br>methods for Claude Code, Cowork, Codex, and AI agents.<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/deanpeters/Product-Manager-Skills"><kbd>Product-Manager-Skills</kbd></a></div>
+      <p>Product Management skills framework built on battle-tested<br>methods for Claude Code, Cowork, Codex, and AI agents.<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -1483,8 +1483,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/stephengpope/thepopebot"><kbd><strong>thepopebot</strong></kbd></a></div>
-      <p>The Pope Bot is an autonomous AI agent that you can<br>configure and build to do just about anything you want, all<br>day, everyday, 24/7.</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/stephengpope/thepopebot"><kbd>thepopebot</kbd></a></div>
+      <p>The Pope Bot is an autonomous AI agent that you can<br>configure and build to do just about anything you want, all<br>day, everyday, 24/7.<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -1498,8 +1498,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/openakita/openakita"><kbd><strong>openakita</strong></kbd></a></div>
-      <p>An open-source AI assistant framework with skills and agent<br>architecture<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/openakita/openakita"><kbd>openakita</kbd></a></div>
+      <p>An open-source AI assistant framework with skills and agent<br>architecture<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -1513,8 +1513,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/ygwyg/MAHORAGA"><kbd><strong>MAHORAGA</strong></kbd></a></div>
-      <p>autonomous trading agent powered by social sentiment<br>analysis and ai that learns, grows, and adapts<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/ygwyg/MAHORAGA"><kbd>MAHORAGA</kbd></a></div>
+      <p>autonomous trading agent powered by social sentiment<br>analysis and ai that learns, grows, and adapts<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -1528,8 +1528,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/jayminwest/overstory"><kbd><strong>overstory</strong></kbd></a></div>
-      <p>Multi-agent orchestration for AI coding agents — pluggable<br>runtime adapters for Claude Code, Pi, and more<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/jayminwest/overstory"><kbd>overstory</kbd></a></div>
+      <p>Multi-agent orchestration for AI coding agents — pluggable<br>runtime adapters for Claude Code, Pi, and more<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -1549,8 +1549,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/warpdotdev/Warp"><kbd><strong>Warp</strong></kbd></a></div>
-      <p>Warp is the agentic development environment, built for<br>coding with multiple AI agents.<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/warpdotdev/Warp"><kbd>Warp</kbd></a></div>
+      <p>Warp is the agentic development environment, built for<br>coding with multiple AI agents.<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -1564,8 +1564,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/farion1231/cc-switch"><kbd><strong>cc-switch</strong></kbd></a></div>
-      <p>A cross-platform desktop All-in-One assistant tool for<br>Claude Code, Codex, OpenCode, openclaw & Gemini CLI.<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/farion1231/cc-switch"><kbd>cc-switch</kbd></a></div>
+      <p>A cross-platform desktop All-in-One assistant tool for<br>Claude Code, Codex, OpenCode, openclaw & Gemini CLI.<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -1579,8 +1579,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/plandex-ai/plandex"><kbd><strong>plandex</strong></kbd></a></div>
-      <p>Open source AI coding agent. Designed for large projects and<br>real world tasks.<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/plandex-ai/plandex"><kbd>plandex</kbd></a></div>
+      <p>Open source AI coding agent. Designed for large projects and<br>real world tasks.<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -1594,8 +1594,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/sigoden/aichat"><kbd><strong>aichat</strong></kbd></a></div>
-      <p>All-in-one LLM CLI tool featuring Shell Assistant,<br>Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI,<br>Claude, Gemini, Ollama, Groq, and more.</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/sigoden/aichat"><kbd>aichat</kbd></a></div>
+      <p>All-in-one LLM CLI tool featuring Shell Assistant,<br>Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI,<br>Claude, Gemini, Ollama, Groq, and more.<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -1609,8 +1609,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/GoogleCloudPlatform/kubectl-ai"><kbd><strong>kubectl-ai</strong></kbd></a></div>
-      <p>AI powered Kubernetes Assistant<br>&nbsp;<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/GoogleCloudPlatform/kubectl-ai"><kbd>kubectl-ai</kbd></a></div>
+      <p>AI powered Kubernetes Assistant<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -1624,8 +1624,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor"><kbd><strong>Claude-Code-Usage-Monitor</strong></kbd></a></div>
-      <p>Real-time Claude Code usage monitor with predictions and<br>warnings<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor"><kbd>Claude-Code-Usage-Monitor</kbd></a></div>
+      <p>Real-time Claude Code usage monitor with predictions and<br>warnings<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -1639,7 +1639,7 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/purocean/yn"><kbd><strong>yn</strong></kbd></a></div>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/purocean/yn"><kbd>yn</kbd></a></div>
       <p>A highly extensible Markdown editor. Version control, AI<br>Copilot, mind map, documents encryption, code snippet<br>running, integrated terminal, chart embedding, HTML applets,<br>Revea...</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
@@ -1654,8 +1654,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/smtg-ai/claude-squad"><kbd><strong>claude-squad</strong></kbd></a></div>
-      <p>Manage multiple AI terminal agents like Claude Code, Aider,<br>Codex, OpenCode, and Amp.<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/smtg-ai/claude-squad"><kbd>claude-squad</kbd></a></div>
+      <p>Manage multiple AI terminal agents like Claude Code, Aider,<br>Codex, OpenCode, and Amp.<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -1669,8 +1669,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/superset-sh/superset"><kbd><strong>superset</strong></kbd></a></div>
-      <p>IDE for the AI Agents Era - Run an army of Claude Code,<br>Codex, etc. on your machine<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/superset-sh/superset"><kbd>superset</kbd></a></div>
+      <p>IDE for the AI Agents Era - Run an army of Claude Code,<br>Codex, etc. on your machine<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -1684,8 +1684,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/manaflow-ai/cmux"><kbd><strong>cmux</strong></kbd></a></div>
-      <p>Ghostty-based macOS terminal with vertical tabs and<br>notifications for AI coding agents<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/manaflow-ai/cmux"><kbd>cmux</kbd></a></div>
+      <p>Ghostty-based macOS terminal with vertical tabs and<br>notifications for AI coding agents<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -1699,8 +1699,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/jamesmurdza/awesome-ai-devtools"><kbd><strong>awesome-ai-devtools</strong></kbd></a></div>
-      <p>Curated list of AI-powered developer tools.<br>&nbsp;<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/jamesmurdza/awesome-ai-devtools"><kbd>awesome-ai-devtools</kbd></a></div>
+      <p>Curated list of AI-powered developer tools.<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -1714,8 +1714,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/smallcloudai/refact"><kbd><strong>refact</strong></kbd></a></div>
-      <p>AI Agent that handles engineering tasks end-to-end:<br>integrates with developers’ tools, plans, executes, and<br>iterates until it achieves a successful result.</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/smallcloudai/refact"><kbd>refact</kbd></a></div>
+      <p>AI Agent that handles engineering tasks end-to-end:<br>integrates with developers’ tools, plans, executes, and<br>iterates until it achieves a successful result.<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -1729,8 +1729,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/PeonPing/peon-ping"><kbd><strong>peon-ping</strong></kbd></a></div>
-      <p>Warcraft III Peon voice notifications (+ more!) for Claude<br>Code, Codex, IDEs, and any AI agent. Stop babysitting your<br>terminal. Employ a Peon today.</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/PeonPing/peon-ping"><kbd>peon-ping</kbd></a></div>
+      <p>Warcraft III Peon voice notifications (+ more!) for Claude<br>Code, Codex, IDEs, and any AI agent. Stop babysitting your<br>terminal. Employ a Peon today.<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -1744,8 +1744,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/cirosantilli/china-dictatorship"><kbd><strong>china-dictatorship</strong></kbd></a></div>
-      <p>反中共政治宣传库。Anti Chinese government propaganda.<br>住在中国真名用户的网友请别给星星，不然你要被警察请喝茶。常见问答集，新闻集和饭店和音乐建议。卐习万岁卐。冠状病毒审查郝海东新疆改造中心六四事件法轮功<br>996.ICU709大抓捕巴拿马文件邓家贵低端人口西藏骚乱。Friends who live in China a...</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/cirosantilli/china-dictatorship"><kbd>china-dictatorship</kbd></a></div>
+      <p>反中共政治宣传库。Anti Chinese government propaganda.<br>住在中国真名用户的网友请别给星星，不然你要被警察请喝茶。常见问答集，新闻集和饭店和音乐建议。卐习万岁卐。冠状病毒审查郝海东新疆改造中心六四事件法轮功<br>996.ICU709大抓捕巴拿马文件邓家贵低端人口西藏骚乱。Friends who live in China a...<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -1759,8 +1759,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/tw93/Kaku"><kbd><strong>Kaku</strong></kbd></a></div>
-      <p>🎃 A fast, out-of-the-box terminal built for AI coding.<br>&nbsp;<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/tw93/Kaku"><kbd>Kaku</kbd></a></div>
+      <p>🎃 A fast, out-of-the-box terminal built for AI coding.<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -1774,8 +1774,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/generalaction/emdash"><kbd><strong>emdash</strong></kbd></a></div>
-      <p>Emdash is the Open-Source Agentic Development Environment (🧡<br>YC W26). Run multiple coding agents in parallel. Use any<br>provider.</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/generalaction/emdash"><kbd>emdash</kbd></a></div>
+      <p>Emdash is the Open-Source Agentic Development Environment (🧡<br>YC W26). Run multiple coding agents in parallel. Use any<br>provider.<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -1789,8 +1789,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/yaolifeng0629/Awesome-independent-tools"><kbd><strong>Awesome-independent-tools</strong></kbd></a></div>
-      <p>收录独立开发、AI出海领域最新、最实用的工具与资源（Build Faster with Better Tools）<br>&nbsp;<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/yaolifeng0629/Awesome-independent-tools"><kbd>Awesome-independent-tools</kbd></a></div>
+      <p>收录独立开发、AI出海领域最新、最实用的工具与资源（Build Faster with Better Tools）<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -1804,8 +1804,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/jamubc/gemini-mcp-tool"><kbd><strong>gemini-mcp-tool</strong></kbd></a></div>
-      <p>MCP server that enables AI assistants to interact with<br>Google Gemini CLI, leveraging Gemini's massive token window<br>for large file analysis and codebase understanding</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/jamubc/gemini-mcp-tool"><kbd>gemini-mcp-tool</kbd></a></div>
+      <p>MCP server that enables AI assistants to interact with<br>Google Gemini CLI, leveraging Gemini's massive token window<br>for large file analysis and codebase understanding<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -1819,8 +1819,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/greggh/claude-code.nvim"><kbd><strong>claude-code.nvim</strong></kbd></a></div>
-      <p>Seamless integration between Claude Code AI assistant and<br>Neovim<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/greggh/claude-code.nvim"><kbd>claude-code.nvim</kbd></a></div>
+      <p>Seamless integration between Claude Code AI assistant and<br>Neovim<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -1834,7 +1834,7 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/microsoft/responsible-ai-toolbox"><kbd><strong>responsible-ai-toolbox</strong></kbd></a></div>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/microsoft/responsible-ai-toolbox"><kbd>responsible-ai-toolbox</kbd></a></div>
       <p>Responsible AI Toolbox is a suite of tools providing model<br>and data exploration and assessment user interfaces and<br>libraries that enable a better understanding of AI systems.<br>Th...</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
@@ -1849,8 +1849,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/can1357/oh-my-pi"><kbd><strong>oh-my-pi</strong></kbd></a></div>
-      <p>⌥ AI Coding agent for the terminal — hash-anchored edits,<br>optimized tool harness, LSP, Python, browser, subagents, and<br>more</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/can1357/oh-my-pi"><kbd>oh-my-pi</kbd></a></div>
+      <p>⌥ AI Coding agent for the terminal — hash-anchored edits,<br>optimized tool harness, LSP, Python, browser, subagents, and<br>more<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -1864,8 +1864,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/XiaomingX/indie-hacker-tools-plus"><kbd><strong>indie-hacker-tools-plus</strong></kbd></a></div>
-      <p>为独立开发者准备的精选技术栈和工具仓库来了！这里有你最需要的工具，帮你提升开发效率、节约成本，最重要的是——这些工具都是市场上热门的，经过验证的。🚀A<br>curated collection of tech stacks and tools tailored for<br>independent developers is here! these are pr...</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/XiaomingX/indie-hacker-tools-plus"><kbd>indie-hacker-tools-plus</kbd></a></div>
+      <p>为独立开发者准备的精选技术栈和工具仓库来了！这里有你最需要的工具，帮你提升开发效率、节约成本，最重要的是——这些工具都是市场上热门的，经过验证的。🚀A<br>curated collection of tech stacks and tools tailored for<br>independent developers is here! these are pr...<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -1879,8 +1879,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/Nano-Collective/nanocoder"><kbd><strong>nanocoder</strong></kbd></a></div>
-      <p>A beautiful local-first coding agent running in your<br>terminal - built by the community for the community ⚒<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/Nano-Collective/nanocoder"><kbd>nanocoder</kbd></a></div>
+      <p>A beautiful local-first coding agent running in your<br>terminal - built by the community for the community ⚒<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -1894,8 +1894,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/asheshgoplani/agent-deck"><kbd><strong>agent-deck</strong></kbd></a></div>
-      <p>Terminal session manager for AI coding agents. One TUI for<br>Claude, Gemini, OpenCode, Codex, and more.<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/asheshgoplani/agent-deck"><kbd>agent-deck</kbd></a></div>
+      <p>Terminal session manager for AI coding agents. One TUI for<br>Claude, Gemini, OpenCode, Codex, and more.<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -1909,8 +1909,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/cyberark/FuzzyAI"><kbd><strong>FuzzyAI</strong></kbd></a></div>
-      <p>A powerful tool for automated LLM fuzzing. It is designed to<br>help developers and security researchers identify and<br>mitigate potential jailbreaks in their LLM APIs.</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/cyberark/FuzzyAI"><kbd>FuzzyAI</kbd></a></div>
+      <p>A powerful tool for automated LLM fuzzing. It is designed to<br>help developers and security researchers identify and<br>mitigate potential jailbreaks in their LLM APIs.<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -1924,8 +1924,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/CodeGraphContext/CodeGraphContext"><kbd><strong>CodeGraphContext</strong></kbd></a></div>
-      <p>An MCP server plus a CLI tool that indexes local code into a<br>graph database to provide context to AI assistants.<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/CodeGraphContext/CodeGraphContext"><kbd>CodeGraphContext</kbd></a></div>
+      <p>An MCP server plus a CLI tool that indexes local code into a<br>graph database to provide context to AI assistants.<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -1939,8 +1939,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/SaladDay/cc-switch-cli"><kbd><strong>cc-switch-cli</strong></kbd></a></div>
-      <p>⭐️ A cross-platform CLI All-in-One assistant tool for Claude<br>Code, Codex & Gemini CLI.<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/SaladDay/cc-switch-cli"><kbd>cc-switch-cli</kbd></a></div>
+      <p>⭐️ A cross-platform CLI All-in-One assistant tool for Claude<br>Code, Codex & Gemini CLI.<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -1954,8 +1954,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/theNetworkChuck/ai-in-the-terminal"><kbd><strong>ai-in-the-terminal</strong></kbd></a></div>
-      <p>Complete companion guide for NetworkChuck's 'AI in the<br>Terminal' video - Gemini CLI, Claude Code, Codex, and<br>opencode workflows</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/theNetworkChuck/ai-in-the-terminal"><kbd>ai-in-the-terminal</kbd></a></div>
+      <p>Complete companion guide for NetworkChuck's 'AI in the<br>Terminal' video - Gemini CLI, Claude Code, Codex, and<br>opencode workflows<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -1969,8 +1969,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/ClickHouse/mcp-clickhouse"><kbd><strong>mcp-clickhouse</strong></kbd></a></div>
-      <p>Connect ClickHouse to your AI assistants.<br>&nbsp;<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/ClickHouse/mcp-clickhouse"><kbd>mcp-clickhouse</kbd></a></div>
+      <p>Connect ClickHouse to your AI assistants.<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -1984,8 +1984,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/vybestack/llxprt-code"><kbd><strong>llxprt-code</strong></kbd></a></div>
-      <p>An open-source multi-provider AI assisted CLI development<br>tool. Use whatever LLM you want to code in your terminal.<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/vybestack/llxprt-code"><kbd>llxprt-code</kbd></a></div>
+      <p>An open-source multi-provider AI assisted CLI development<br>tool. Use whatever LLM you want to code in your terminal.<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -1999,8 +1999,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/sudo-tee/opencode.nvim"><kbd><strong>opencode.nvim</strong></kbd></a></div>
-      <p>neovim frontend for opencode - a terminal-based AI coding<br>agent<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/sudo-tee/opencode.nvim"><kbd>opencode.nvim</kbd></a></div>
+      <p>neovim frontend for opencode - a terminal-based AI coding<br>agent<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -2014,8 +2014,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/ovh/shai"><kbd><strong>shai</strong></kbd></a></div>
-      <p>shai is a coding agent, your pair programming buddy that<br>lives in the terminal. Written in rust with love <3<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/ovh/shai"><kbd>shai</kbd></a></div>
+      <p>shai is a coding agent, your pair programming buddy that<br>lives in the terminal. Written in rust with love <3<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -2029,7 +2029,7 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/jonigl/mcp-client-for-ollama"><kbd><strong>mcp-client-for-ollama</strong></kbd></a></div>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/jonigl/mcp-client-for-ollama"><kbd>mcp-client-for-ollama</kbd></a></div>
       <p>A text-based user interface (TUI) client for interacting<br>with MCP servers using Ollama. Features include agent mode,<br>multi-server, model switching, streaming responses, tool<br>man...</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
@@ -2044,8 +2044,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/probelabs/probe"><kbd><strong>probe</strong></kbd></a></div>
-      <p>AI-friendly semantic code search engine for large codebases.<br>Combines ripgrep speed with tree-sitter AST parsing. Powers<br>AI coding assistants with precise, context-aware code un...</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/probelabs/probe"><kbd>probe</kbd></a></div>
+      <p>AI-friendly semantic code search engine for large codebases.<br>Combines ripgrep speed with tree-sitter AST parsing. Powers<br>AI coding assistants with precise, context-aware code un...<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -2059,8 +2059,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/harshkedia177/axon"><kbd><strong>axon</strong></kbd></a></div>
-      <p>Graph-powered code intelligence engine — indexes codebases<br>into a knowledge graph, exposed via MCP tools for AI agents<br>and a CLI for developers.</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/harshkedia177/axon"><kbd>axon</kbd></a></div>
+      <p>Graph-powered code intelligence engine — indexes codebases<br>into a knowledge graph, exposed via MCP tools for AI agents<br>and a CLI for developers.<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -2074,7 +2074,7 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/SPThole/CoexistAI"><kbd><strong>CoexistAI</strong></kbd></a></div>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/SPThole/CoexistAI"><kbd>CoexistAI</kbd></a></div>
       <p>CoexistAI is a modular, developer-friendly research<br>assistant framework . It enables you to build, search,<br>summarize, and automate research workflows using LLMs, web<br>search, Red...</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
@@ -2089,8 +2089,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/vinhnx/VTCode"><kbd><strong>VTCode</strong></kbd></a></div>
-      <p>VT Code - Semantic AI coding agent<br>&nbsp;<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/vinhnx/VTCode"><kbd>VTCode</kbd></a></div>
+      <p>VT Code - Semantic AI coding agent<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -2104,8 +2104,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/0xranx/OpenContext"><kbd><strong>OpenContext</strong></kbd></a></div>
-      <p>A personal context store for AI agents and assistants—reuse<br>your existing coding agent CLI (Codex/Claude/OpenCode) with<br>built‑in Skills/tools and a desktop GUI to capture, searc...</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/0xranx/OpenContext"><kbd>OpenContext</kbd></a></div>
+      <p>A personal context store for AI agents and assistants—reuse<br>your existing coding agent CLI (Codex/Claude/OpenCode) with<br>built‑in Skills/tools and a desktop GUI to capture, searc...<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -2119,8 +2119,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/neiii/bridle"><kbd><strong>bridle</strong></kbd></a></div>
-      <p>TUI / CLI config manager for agentic harnesses (Amp, Claude<br>Code, Opencode, Goose, Copilot CLI, Crush, Droid)<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/neiii/bridle"><kbd>bridle</kbd></a></div>
+      <p>TUI / CLI config manager for agentic harnesses (Amp, Claude<br>Code, Opencode, Goose, Copilot CLI, Crush, Droid)<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -2134,7 +2134,7 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/CelaDaniel/free-ai-resources-x"><kbd><strong>free-ai-resources-x</strong></kbd></a></div>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/CelaDaniel/free-ai-resources-x"><kbd>free-ai-resources-x</kbd></a></div>
       <p>🌟 A curated collection of free, high quality AI tools 🤖,<br>APIs 🔗, datasets 📊, and learning resources 📚 covering<br>machine learning 🧠, deep learning 🧩, generative AI 🎨, NLP 💬,<br>and d...</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
@@ -2149,8 +2149,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/shuyu-labs/WebCode"><kbd><strong>WebCode</strong></kbd></a></div>
-      <p>WebCode is a browser-based AI coding platform that lets you<br>remotely run CLI assistants like Claude Code and Codex. Code<br>anywhere with just a web browser. We’re also adding an o...</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/shuyu-labs/WebCode"><kbd>WebCode</kbd></a></div>
+      <p>WebCode is a browser-based AI coding platform that lets you<br>remotely run CLI assistants like Claude Code and Codex. Code<br>anywhere with just a web browser. We’re also adding an o...<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -2164,7 +2164,7 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/chenhg5/cc-connect"><kbd><strong>cc-connect</strong></kbd></a></div>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/chenhg5/cc-connect"><kbd>cc-connect</kbd></a></div>
       <p>Bridge local AI coding agents (Claude Code, Cursor, Gemini<br>CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk,<br>Slack, Telegram, Discord, LINE, WeChat Work). Chat with<br>you...</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
@@ -2179,8 +2179,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/cporter202/ai-agent-tools"><kbd><strong>ai-agent-tools</strong></kbd></a></div>
-      <p>A curated collection of AI tools, utilities, and resources<br>for developers and creators<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/cporter202/ai-agent-tools"><kbd>ai-agent-tools</kbd></a></div>
+      <p>A curated collection of AI tools, utilities, and resources<br>for developers and creators<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -2194,7 +2194,7 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/nwiizo/tfmcp"><kbd><strong>tfmcp</strong></kbd></a></div>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/nwiizo/tfmcp"><kbd>tfmcp</kbd></a></div>
       <p>🌍 Terraform Model Context Protocol (MCP) Tool - An<br>experimental CLI tool that enables AI assistants to manage<br>and operate Terraform environments. Supports reading<br>Terraform conf...</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
@@ -2209,8 +2209,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/inmve/awesome-ai-coding-techniques"><kbd><strong>awesome-ai-coding-techniques</strong></kbd></a></div>
-      <p>Practical techniques for coding with ai assistants (Claude<br>Code, Codex CLI, Cursor, GitHub Copilot, etc). Available in:<br>English • Español • Deutsch • Français • 日本語</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/inmve/awesome-ai-coding-techniques"><kbd>awesome-ai-coding-techniques</kbd></a></div>
+      <p>Practical techniques for coding with ai assistants (Claude<br>Code, Codex CLI, Cursor, GitHub Copilot, etc). Available in:<br>English • Español • Deutsch • Français • 日本語<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -2224,8 +2224,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/fynnfluegge/agtx"><kbd><strong>agtx</strong></kbd></a></div>
-      <p>Autonomous multi-session spec-driven AI coding orchestration<br>in the terminal<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/fynnfluegge/agtx"><kbd>agtx</kbd></a></div>
+      <p>Autonomous multi-session spec-driven AI coding orchestration<br>in the terminal<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -2239,7 +2239,7 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/context-hub/generator"><kbd><strong>generator</strong></kbd></a></div>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/context-hub/generator"><kbd>generator</kbd></a></div>
       <p>CTX: a tool that solves the context management gap when<br>working with LLMs like ChatGPT or Claude. It helps<br>developers organize and automatically collect information<br>from their c...</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
@@ -2254,8 +2254,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/awslabs/iam-policy-autopilot"><kbd><strong>iam-policy-autopilot</strong></kbd></a></div>
-      <p>IAM Policy Autopilot is an open source static code analysis<br>tool that helps you quickly create baseline AWS IAM policies<br>that you can refine as your application evolves. This to...</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/awslabs/iam-policy-autopilot"><kbd>iam-policy-autopilot</kbd></a></div>
+      <p>IAM Policy Autopilot is an open source static code analysis<br>tool that helps you quickly create baseline AWS IAM policies<br>that you can refine as your application evolves. This to...<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -2269,8 +2269,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/amrit110/oli"><kbd><strong>oli</strong></kbd></a></div>
-      <p>A simple, fast terminal based AI coding assistant<br>&nbsp;<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/amrit110/oli"><kbd>oli</kbd></a></div>
+      <p>A simple, fast terminal based AI coding assistant<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -2284,8 +2284,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/scarletkc/vexor"><kbd><strong>vexor</strong></kbd></a></div>
-      <p>A semantic search engine for files and code.<br>&nbsp;<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/scarletkc/vexor"><kbd>vexor</kbd></a></div>
+      <p>A semantic search engine for files and code.<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -2305,8 +2305,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/AUTOMATIC1111/stable-diffusion-webui"><kbd><strong>stable-diffusion-webui</strong></kbd></a></div>
-      <p>Stable Diffusion web UI<br>&nbsp;<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/AUTOMATIC1111/stable-diffusion-webui"><kbd>stable-diffusion-webui</kbd></a></div>
+      <p>Stable Diffusion web UI<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -2320,7 +2320,7 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/mudler/LocalAI"><kbd><strong>LocalAI</strong></kbd></a></div>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/mudler/LocalAI"><kbd>LocalAI</kbd></a></div>
       <p>:robot: The free, Open Source alternative to OpenAI, Claude<br>and others. Self-hosted and local-first. Drop-in<br>replacement, running on consumer-grade hardware. No GPU<br>required. R...</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
@@ -2335,7 +2335,7 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/ShareX/ShareX"><kbd><strong>ShareX</strong></kbd></a></div>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/ShareX/ShareX"><kbd>ShareX</kbd></a></div>
       <p>ShareX is a free and open-source application that enables<br>users to capture or record any area of their screen with a<br>single keystroke. It also supports uploading images, text,<br>a...</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
@@ -2350,8 +2350,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/huggingface/diffusers"><kbd><strong>diffusers</strong></kbd></a></div>
-      <p>🤗 Diffusers: State-of-the-art diffusion models for image,<br>video, and audio generation in PyTorch.<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/huggingface/diffusers"><kbd>diffusers</kbd></a></div>
+      <p>🤗 Diffusers: State-of-the-art diffusion models for image,<br>video, and audio generation in PyTorch.<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -2365,8 +2365,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/KurtBestor/Hitomi-Downloader"><kbd><strong>Hitomi-Downloader</strong></kbd></a></div>
-      <p>:cake: Desktop utility to download images/videos/music/text<br>from various websites, and more.<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/KurtBestor/Hitomi-Downloader"><kbd>Hitomi-Downloader</kbd></a></div>
+      <p>:cake: Desktop utility to download images/videos/music/text<br>from various websites, and more.<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -2380,7 +2380,7 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/invoke-ai/InvokeAI"><kbd><strong>InvokeAI</strong></kbd></a></div>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/invoke-ai/InvokeAI"><kbd>InvokeAI</kbd></a></div>
       <p>Invoke is a leading creative engine for Stable Diffusion<br>models, empowering professionals, artists, and enthusiasts<br>to generate and create visual media using the latest<br>AI-drive...</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
@@ -2395,8 +2395,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/PicoTrex/Awesome-Nano-Banana-images"><kbd><strong>Awesome-Nano-Banana-images</strong></kbd></a></div>
-      <p>A curated collection of fun and creative examples generated<br>with Nano Banana & Nano Banana Pro🍌, Gemini-2.5-flash-image<br>based model. We also release Nano-consistent-150K openly...</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/PicoTrex/Awesome-Nano-Banana-images"><kbd>Awesome-Nano-Banana-images</kbd></a></div>
+      <p>A curated collection of fun and creative examples generated<br>with Nano Banana & Nano Banana Pro🍌, Gemini-2.5-flash-image<br>based model. We also release Nano-consistent-150K openly...<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -2410,8 +2410,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/camenduru/stable-diffusion-webui-colab"><kbd><strong>stable-diffusion-webui-colab</strong></kbd></a></div>
-      <p>stable diffusion webui colab<br>&nbsp;<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/camenduru/stable-diffusion-webui-colab"><kbd>stable-diffusion-webui-colab</kbd></a></div>
+      <p>stable diffusion webui colab<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -2425,8 +2425,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/zai-org/CogVideo"><kbd><strong>CogVideo</strong></kbd></a></div>
-      <p>text and image to video generation: CogVideoX (2024) and<br>CogVideo (ICLR 2023)<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/zai-org/CogVideo"><kbd>CogVideo</kbd></a></div>
+      <p>text and image to video generation: CogVideoX (2024) and<br>CogVideo (ICLR 2023)<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -2440,8 +2440,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/duixcom/Duix-Avatar"><kbd><strong>Duix-Avatar</strong></kbd></a></div>
-      <p>🚀 Truly open-source AI avatar(digital human) toolkit for<br>offline video generation and digital human cloning.<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/duixcom/Duix-Avatar"><kbd>Duix-Avatar</kbd></a></div>
+      <p>🚀 Truly open-source AI avatar(digital human) toolkit for<br>offline video generation and digital human cloning.<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -2455,8 +2455,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/Tencent-Hunyuan/HunyuanVideo"><kbd><strong>HunyuanVideo</strong></kbd></a></div>
-      <p>HunyuanVideo: A Systematic Framework For Large Video<br>Generation Model<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/Tencent-Hunyuan/HunyuanVideo"><kbd>HunyuanVideo</kbd></a></div>
+      <p>HunyuanVideo: A Systematic Framework For Large Video<br>Generation Model<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -2470,7 +2470,7 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/easydiffusion/easydiffusion"><kbd><strong>easydiffusion</strong></kbd></a></div>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/easydiffusion/easydiffusion"><kbd>easydiffusion</kbd></a></div>
       <p>An easy 1-click way to create beautiful artwork on your PC<br>using AI, with no tech knowledge. Provides a browser UI for<br>generating images from text prompts and images. Just<br>enter...</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
@@ -2485,7 +2485,7 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/FoundationVision/VAR"><kbd><strong>VAR</strong></kbd></a></div>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/FoundationVision/VAR"><kbd>VAR</kbd></a></div>
       <p>[NeurIPS 2024 Best Paper Award][GPT beats diffusion🔥]<br>[scaling laws in visual generation📈] Official impl. of<br>"Visual Autoregressive Modeling: Scalable Image Generation<br>via Next-...</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
@@ -2500,8 +2500,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/brycedrennan/imaginAIry"><kbd><strong>imaginAIry</strong></kbd></a></div>
-      <p>Pythonic AI generation of images and videos<br>&nbsp;<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/brycedrennan/imaginAIry"><kbd>imaginAIry</kbd></a></div>
+      <p>Pythonic AI generation of images and videos<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -2515,8 +2515,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/Sygil-Dev/sygil-webui"><kbd><strong>sygil-webui</strong></kbd></a></div>
-      <p>Stable Diffusion web UI<br>&nbsp;<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/Sygil-Dev/sygil-webui"><kbd>sygil-webui</kbd></a></div>
+      <p>Stable Diffusion web UI<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -2530,8 +2530,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/TheLastBen/fast-stable-diffusion"><kbd><strong>fast-stable-diffusion</strong></kbd></a></div>
-      <p>fast-stable-diffusion + DreamBooth<br>&nbsp;<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/TheLastBen/fast-stable-diffusion"><kbd>fast-stable-diffusion</kbd></a></div>
+      <p>fast-stable-diffusion + DreamBooth<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -2545,8 +2545,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/MochiDiffusion/MochiDiffusion"><kbd><strong>MochiDiffusion</strong></kbd></a></div>
-      <p>Run Stable Diffusion on Mac natively<br>&nbsp;<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/MochiDiffusion/MochiDiffusion"><kbd>MochiDiffusion</kbd></a></div>
+      <p>Run Stable Diffusion on Mac natively<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -2560,8 +2560,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/LykosAI/StabilityMatrix"><kbd><strong>StabilityMatrix</strong></kbd></a></div>
-      <p>Multi-Platform Package Manager for Stable Diffusion<br>&nbsp;<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/LykosAI/StabilityMatrix"><kbd>StabilityMatrix</kbd></a></div>
+      <p>Multi-Platform Package Manager for Stable Diffusion<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -2575,8 +2575,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/QwenLM/Qwen-Image"><kbd><strong>Qwen-Image</strong></kbd></a></div>
-      <p>Qwen-Image is a powerful image generation foundation model<br>capable of complex text rendering and precise image editing.<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/QwenLM/Qwen-Image"><kbd>Qwen-Image</kbd></a></div>
+      <p>Qwen-Image is a powerful image generation foundation model<br>capable of complex text rendering and precise image editing.<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -2590,8 +2590,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/mylxsw/aidea"><kbd><strong>aidea</strong></kbd></a></div>
-      <p>An APP that integrates mainstream large language models and<br>image generation models, built with Flutter, with fully<br>open-source code.</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/mylxsw/aidea"><kbd>aidea</kbd></a></div>
+      <p>An APP that integrates mainstream large language models and<br>image generation models, built with Flutter, with fully<br>open-source code.<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -2605,7 +2605,7 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/enricoros/big-AGI"><kbd><strong>big-AGI</strong></kbd></a></div>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/enricoros/big-AGI"><kbd>big-AGI</kbd></a></div>
       <p>AI suite powered by state-of-the-art models and providing<br>advanced AI/AGI functions. Includes AI personas, AGI<br>functions, world-class Beam multi-model chats,<br>text-to-image, voic...</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
@@ -2620,8 +2620,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/leejet/stable-diffusion.cpp"><kbd><strong>stable-diffusion.cpp</strong></kbd></a></div>
-      <p>Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...)<br>inference in pure C/C++<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/leejet/stable-diffusion.cpp"><kbd>stable-diffusion.cpp</kbd></a></div>
+      <p>Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...)<br>inference in pure C/C++<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -2635,8 +2635,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/showlab/Awesome-Video-Diffusion"><kbd><strong>Awesome-Video-Diffusion</strong></kbd></a></div>
-      <p>A curated list of recent diffusion models for video<br>generation, editing, and various other applications.<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/showlab/Awesome-Video-Diffusion"><kbd>Awesome-Video-Diffusion</kbd></a></div>
+      <p>A curated list of recent diffusion models for video<br>generation, editing, and various other applications.<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -2650,8 +2650,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/promptslab/Awesome-Prompt-Engineering"><kbd><strong>Awesome-Prompt-Engineering</strong></kbd></a></div>
-      <p>This repository contains a hand-curated resources for Prompt<br>Engineering with a focus on Generative Pre-trained<br>Transformer (GPT), ChatGPT, PaLM etc</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/promptslab/Awesome-Prompt-Engineering"><kbd>Awesome-Prompt-Engineering</kbd></a></div>
+      <p>This repository contains a hand-curated resources for Prompt<br>Engineering with a focus on Generative Pre-trained<br>Transformer (GPT), ChatGPT, PaLM etc<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -2665,8 +2665,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/MeiGen-AI/InfiniteTalk"><kbd><strong>InfiniteTalk</strong></kbd></a></div>
-      <p>​​Unlimited-length talking video generation​​ that supports<br>image-to-video and video-to-video generation<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/MeiGen-AI/InfiniteTalk"><kbd>InfiniteTalk</kbd></a></div>
+      <p>​​Unlimited-length talking video generation​​ that supports<br>image-to-video and video-to-video generation<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -2680,8 +2680,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5"><kbd><strong>HunyuanVideo-1.5</strong></kbd></a></div>
-      <p>HunyuanVideo-1.5: A leading lightweight video generation<br>model<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5"><kbd>HunyuanVideo-1.5</kbd></a></div>
+      <p>HunyuanVideo-1.5: A leading lightweight video generation<br>model<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -2695,8 +2695,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/VectorSpaceLab/OmniGen"><kbd><strong>OmniGen</strong></kbd></a></div>
-      <p>OmniGen: Unified Image Generation.<br>https://arxiv.org/pdf/2409.11340<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/VectorSpaceLab/OmniGen"><kbd>OmniGen</kbd></a></div>
+      <p>OmniGen: Unified Image Generation.<br>https://arxiv.org/pdf/2409.11340<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -2710,8 +2710,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/mcmonkeyprojects/SwarmUI"><kbd><strong>SwarmUI</strong></kbd></a></div>
-      <p>SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion<br>Web-User-Interface, with an emphasis on making powertools<br>easily accessible, high performance, and extensibility.</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/mcmonkeyprojects/SwarmUI"><kbd>SwarmUI</kbd></a></div>
+      <p>SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion<br>Web-User-Interface, with an emphasis on making powertools<br>easily accessible, high performance, and extensibility.<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -2725,8 +2725,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/genmoai/mochi"><kbd><strong>mochi</strong></kbd></a></div>
-      <p>The best OSS video generation models, created by Genmo<br>&nbsp;<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/genmoai/mochi"><kbd>mochi</kbd></a></div>
+      <p>The best OSS video generation models, created by Genmo<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -2740,8 +2740,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/Hunyuan-PromptEnhancer/PromptEnhancer"><kbd><strong>PromptEnhancer</strong></kbd></a></div>
-      <p>PromptEnhancer is a prompt-rewriting tool, refining prompts<br>into clearer, structured versions for better image<br>generation.</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/Hunyuan-PromptEnhancer/PromptEnhancer"><kbd>PromptEnhancer</kbd></a></div>
+      <p>PromptEnhancer is a prompt-rewriting tool, refining prompts<br>into clearer, structured versions for better image<br>generation.<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -2755,8 +2755,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/YILS-LIN/short-video-factory"><kbd><strong>short-video-factory</strong></kbd></a></div>
-      <p>一键生成产品营销与泛内容短视频，AI批量自动剪辑，高颜值跨平台桌面端工具 One click generation of<br>product marketing and general content short videos, AI batch<br>automatic cliping, beautiful cross platform desktop tool</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/YILS-LIN/short-video-factory"><kbd>short-video-factory</kbd></a></div>
+      <p>一键生成产品营销与泛内容短视频，AI批量自动剪辑，高颜值跨平台桌面端工具 One click generation of<br>product marketing and general content short videos, AI batch<br>automatic cliping, beautiful cross platform desktop tool<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -2770,7 +2770,7 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/QwenLM/Qwen3-Omni"><kbd><strong>Qwen3-Omni</strong></kbd></a></div>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/QwenLM/Qwen3-Omni"><kbd>Qwen3-Omni</kbd></a></div>
       <p>Qwen3-omni is a natively end-to-end, omni-modal LLM<br>developed by the Qwen team at Alibaba Cloud, capable of<br>understanding text, audio, images, and video, as well as<br>generating s...</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
@@ -2785,8 +2785,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/Tencent-Hunyuan/Hunyuan3D-1"><kbd><strong>Hunyuan3D-1</strong></kbd></a></div>
-      <p>Tencent Hunyuan3D-1.0: A Unified Framework for Text-to-3D<br>and Image-to-3D Generation<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/Tencent-Hunyuan/Hunyuan3D-1"><kbd>Hunyuan3D-1</kbd></a></div>
+      <p>Tencent Hunyuan3D-1.0: A Unified Framework for Text-to-3D<br>and Image-to-3D Generation<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -2800,8 +2800,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/Lightricks/ComfyUI-LTXVideo"><kbd><strong>ComfyUI-LTXVideo</strong></kbd></a></div>
-      <p>LTX-Video Support for ComfyUI<br>&nbsp;<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/Lightricks/ComfyUI-LTXVideo"><kbd>ComfyUI-LTXVideo</kbd></a></div>
+      <p>LTX-Video Support for ComfyUI<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -2815,8 +2815,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/hao-ai-lab/FastVideo"><kbd><strong>FastVideo</strong></kbd></a></div>
-      <p>A unified inference and post-training framework for<br>accelerated video generation.<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/hao-ai-lab/FastVideo"><kbd>FastVideo</kbd></a></div>
+      <p>A unified inference and post-training framework for<br>accelerated video generation.<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -2830,8 +2830,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/SamurAIGPT/AI-Youtube-Shorts-Generator"><kbd><strong>AI-Youtube-Shorts-Generator</strong></kbd></a></div>
-      <p>A python tool that uses GPT-4, FFmpeg, and OpenCV to<br>automatically analyze videos, extract the most interesting<br>sections, and crop them for an improved viewing experience.</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/SamurAIGPT/AI-Youtube-Shorts-Generator"><kbd>AI-Youtube-Shorts-Generator</kbd></a></div>
+      <p>A python tool that uses GPT-4, FFmpeg, and OpenCV to<br>automatically analyze videos, extract the most interesting<br>sections, and crop them for an improved viewing experience.<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -2845,8 +2845,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/Tencent-Hunyuan/HunyuanImage-3.0"><kbd><strong>HunyuanImage-3.0</strong></kbd></a></div>
-      <p>HunyuanImage-3.0: A Powerful Native Multimodal Model for<br>Image Generation<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/Tencent-Hunyuan/HunyuanImage-3.0"><kbd>HunyuanImage-3.0</kbd></a></div>
+      <p>HunyuanImage-3.0: A Powerful Native Multimodal Model for<br>Image Generation<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -2860,7 +2860,7 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/NVIDIA/NeMo-Retriever"><kbd><strong>NeMo-Retriever</strong></kbd></a></div>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/NVIDIA/NeMo-Retriever"><kbd>NeMo-Retriever</kbd></a></div>
       <p>NeMo Retriever Library is a scalable, performance-oriented<br>document content and metadata extraction microservice. NeMo<br>Retriever extraction uses specialized NVIDIA NIM<br>microserv...</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
@@ -2875,8 +2875,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/MeiGen-AI/MultiTalk"><kbd><strong>MultiTalk</strong></kbd></a></div>
-      <p>[NeurIPS 2025] Let Them Talk: Audio-Driven Multi-Person<br>Conversational Video Generation<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/MeiGen-AI/MultiTalk"><kbd>MultiTalk</kbd></a></div>
+      <p>[NeurIPS 2025] Let Them Talk: Audio-Driven Multi-Person<br>Conversational Video Generation<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -2890,8 +2890,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/HKUDS/ViMax"><kbd><strong>ViMax</strong></kbd></a></div>
-      <p>"ViMax: Agentic Video Generation (Director, Screenwriter,<br>Producer, and Video Generator All-in-One)"<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/HKUDS/ViMax"><kbd>ViMax</kbd></a></div>
+      <p>"ViMax: Agentic Video Generation (Director, Screenwriter,<br>Producer, and Video Generator All-in-One)"<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -2905,8 +2905,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/test-time-training/ttt-video-dit"><kbd><strong>ttt-video-dit</strong></kbd></a></div>
-      <p>Official PyTorch implementation of One-Minute Video<br>Generation with Test-Time Training<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/test-time-training/ttt-video-dit"><kbd>ttt-video-dit</kbd></a></div>
+      <p>Official PyTorch implementation of One-Minute Video<br>Generation with Test-Time Training<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -2920,8 +2920,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/showlab/Paper2Video"><kbd><strong>Paper2Video</strong></kbd></a></div>
-      <p>Automatic Video Generation from Scientific Papers<br>&nbsp;<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/showlab/Paper2Video"><kbd>Paper2Video</kbd></a></div>
+      <p>Automatic Video Generation from Scientific Papers<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -2935,8 +2935,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/vita-epfl/Stable-Video-Infinity"><kbd><strong>Stable-Video-Infinity</strong></kbd></a></div>
-      <p>[ICLR 26 Oral] Stable Video Infinity: Infinite-Length Video<br>Generation with Error Recycling<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/vita-epfl/Stable-Video-Infinity"><kbd>Stable-Video-Infinity</kbd></a></div>
+      <p>[ICLR 26 Oral] Stable Video Infinity: Infinite-Length Video<br>Generation with Error Recycling<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -2950,8 +2950,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/ModelTC/LightX2V"><kbd><strong>LightX2V</strong></kbd></a></div>
-      <p>Light Image Video Generation Inference Framework<br>&nbsp;<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/ModelTC/LightX2V"><kbd>LightX2V</kbd></a></div>
+      <p>Light Image Video Generation Inference Framework<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -2965,8 +2965,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/antirez/iris.c"><kbd><strong>iris.c</strong></kbd></a></div>
-      <p>Flux 2 image generation model pure C inference<br>&nbsp;<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/antirez/iris.c"><kbd>iris.c</kbd></a></div>
+      <p>Flux 2 image generation model pure C inference<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -2980,8 +2980,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/zhouxiaoka/autoclip"><kbd><strong>autoclip</strong></kbd></a></div>
-      <p>AutoClip : AI-powered video clipping and highlight<br>generation · 一款智能高光提取与剪辑的二创工具<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/zhouxiaoka/autoclip"><kbd>autoclip</kbd></a></div>
+      <p>AutoClip : AI-powered video clipping and highlight<br>generation · 一款智能高光提取与剪辑的二创工具<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -2995,8 +2995,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/showlab/Code2Video"><kbd><strong>Code2Video</strong></kbd></a></div>
-      <p>Video generation via code<br>&nbsp;<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/showlab/Code2Video"><kbd>Code2Video</kbd></a></div>
+      <p>Video generation via code<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -3010,8 +3010,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/Tencent-Hunyuan/HunyuanWorld-Voyager"><kbd><strong>HunyuanWorld-Voyager</strong></kbd></a></div>
-      <p>Voyager is an interactive RGBD video generation model<br>conditioned on camera input, and supports real-time 3D<br>reconstruction.</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/Tencent-Hunyuan/HunyuanWorld-Voyager"><kbd>HunyuanWorld-Voyager</kbd></a></div>
+      <p>Voyager is an interactive RGBD video generation model<br>conditioned on camera input, and supports real-time 3D<br>reconstruction.<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -3025,8 +3025,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/Tencent-Hunyuan/HunyuanVideo-Foley"><kbd><strong>HunyuanVideo-Foley</strong></kbd></a></div>
-      <p>HunyuanVideo-Foley: Multimodal Diffusion with Representation<br>Alignment for High-Fidelity Foley Audio Generation.<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/Tencent-Hunyuan/HunyuanVideo-Foley"><kbd>HunyuanVideo-Foley</kbd></a></div>
+      <p>HunyuanVideo-Foley: Multimodal Diffusion with Representation<br>Alignment for High-Fidelity Foley Audio Generation.<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -3040,7 +3040,7 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/Francis-Rings/StableAvatar"><kbd><strong>StableAvatar</strong></kbd></a></div>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/Francis-Rings/StableAvatar"><kbd>StableAvatar</kbd></a></div>
       <p>We present StableAvatar, the first end-to-end video<br>diffusion transformer, which synthesizes infinite-length<br>high-quality audio-driven avatar videos without any<br>post-processing,...</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
@@ -3055,8 +3055,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/Phantom-video/HuMo"><kbd><strong>HuMo</strong></kbd></a></div>
-      <p>HuMo: Human-Centric Video Generation via Collaborative<br>Multi-Modal Conditioning<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/Phantom-video/HuMo"><kbd>HuMo</kbd></a></div>
+      <p>HuMo: Human-Centric Video Generation via Collaborative<br>Multi-Modal Conditioning<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -3070,8 +3070,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/NVlabs/LongLive"><kbd><strong>LongLive</strong></kbd></a></div>
-      <p>[ICLR 2026] LongLive: Real-time Interactive Long Video<br>Generation<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/NVlabs/LongLive"><kbd>LongLive</kbd></a></div>
+      <p>[ICLR 2026] LongLive: Real-time Interactive Long Video<br>Generation<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -3085,7 +3085,7 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/llmsresearch/paperbanana"><kbd><strong>paperbanana</strong></kbd></a></div>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/llmsresearch/paperbanana"><kbd>paperbanana</kbd></a></div>
       <p>Open source implementation and extension of Google<br>Research’s PaperBanana for automated academic figures,<br>diagrams, and research visuals, expanded to new domains like<br>slide gene...</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
@@ -3100,7 +3100,7 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/Dreamy-rain/gemini-business2api"><kbd><strong>gemini-business2api</strong></kbd></a></div>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/Dreamy-rain/gemini-business2api"><kbd>gemini-business2api</kbd></a></div>
       <p>OpenAI-compatible API for Gemini Business with multi-account<br>load balancing and multimodal capabilities (image/video<br>generation, file parsing) \| 将 Gemini Business 转为 OpenAI<br>兼容接...</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
@@ -3115,7 +3115,7 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/alichherawalla/off-grid-mobile-ai"><kbd><strong>off-grid-mobile-ai</strong></kbd></a></div>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/alichherawalla/off-grid-mobile-ai"><kbd>off-grid-mobile-ai</kbd></a></div>
       <p>The Swiss Army Knife of Offline AI. Chat, Speak, and<br>Generate Images - Privacy First, Zero Internet. Download an<br>LLM and use it on your mobile device. No data ever leaves<br>your p...</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
@@ -3130,8 +3130,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/OpenMOSS/MOVA"><kbd><strong>MOVA</strong></kbd></a></div>
-      <p>MOVA: Towards Scalable and Synchronized Video–Audio<br>Generation<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/OpenMOSS/MOVA"><kbd>MOVA</kbd></a></div>
+      <p>MOVA: Towards Scalable and Synchronized Video–Audio<br>Generation<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -3145,7 +3145,7 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/0xsline/StoryGen-Atelier"><kbd><strong>StoryGen-Atelier</strong></kbd></a></div>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/0xsline/StoryGen-Atelier"><kbd>StoryGen-Atelier</kbd></a></div>
       <p>AI-assisted storyboard and video generation tool. Uses<br>Gemini for generating storyboard text and frames, Vertex AI<br>Veo for generating transition clips, and ffmpeg for<br>stitching...</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
@@ -3160,8 +3160,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/DAVIAN-Robotics/EgoX"><kbd><strong>EgoX</strong></kbd></a></div>
-      <p>Code for "EgoX: Egocentric Video Generation from a Single<br>Exocentric Video"<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/DAVIAN-Robotics/EgoX"><kbd>EgoX</kbd></a></div>
+      <p>Code for "EgoX: Egocentric Video Generation from a Single<br>Exocentric Video"<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -3175,8 +3175,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/cporter202/automate-for-growth"><kbd><strong>automate-for-growth</strong></kbd></a></div>
-      <p>Complete guide to automating content for growth: Sora 2<br>video generation, brand authority automation, multi-platform<br>posting, bulk content creation, and API integration.</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/cporter202/automate-for-growth"><kbd>automate-for-growth</kbd></a></div>
+      <p>Complete guide to automating content for growth: Sora 2<br>video generation, brand authority automation, multi-platform<br>posting, bulk content creation, and API integration.<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -3190,7 +3190,7 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/ZeroLu/awesome-seedance"><kbd><strong>awesome-seedance</strong></kbd></a></div>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/ZeroLu/awesome-seedance"><kbd>awesome-seedance</kbd></a></div>
       <p>The ultimate collection of high-fidelity Seedance 2.0<br>prompts and Seedance AI resources. Discover Seedance 2.0 how<br>to use for cinematic film, anime, UGC, social media, meme<br>and...</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
@@ -3205,8 +3205,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/Amery2010/peinture"><kbd><strong>peinture</strong></kbd></a></div>
-      <p>A general-purpose AI image generation framework that<br>supports Hugging Face, Gitee, Model Scope, and more.<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/Amery2010/peinture"><kbd>peinture</kbd></a></div>
+      <p>A general-purpose AI image generation framework that<br>supports Hugging Face, Gitee, Model Scope, and more.<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -3220,8 +3220,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/ali-vilab/Wan-Move"><kbd><strong>Wan-Move</strong></kbd></a></div>
-      <p>[NeurIPS 2025] Wan-Move: Motion-controllable Video<br>Generation via Latent Trajectory Guidance<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/ali-vilab/Wan-Move"><kbd>Wan-Move</kbd></a></div>
+      <p>[NeurIPS 2025] Wan-Move: Motion-controllable Video<br>Generation via Latent Trajectory Guidance<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -3235,8 +3235,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/Soul-AILab/SoulX-FlashHead"><kbd><strong>SoulX-FlashHead</strong></kbd></a></div>
-      <p>SoulX-FlashHead: A unified 1.3B-parameter framework designed<br>for high-fidelity, infinite-length, and real-time streaming<br>portrait video generation.</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/Soul-AILab/SoulX-FlashHead"><kbd>SoulX-FlashHead</kbd></a></div>
+      <p>SoulX-FlashHead: A unified 1.3B-parameter framework designed<br>for high-fidelity, infinite-length, and real-time streaming<br>portrait video generation.<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -3250,8 +3250,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/thu-ml/Causal-Forcing"><kbd><strong>Causal-Forcing</strong></kbd></a></div>
-      <p>Official codebase for "Causal Forcing: Autoregressive<br>Diffusion Distillation Done Right for High-Quality Real-Time<br>Interactive Video Generation"</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/thu-ml/Causal-Forcing"><kbd>Causal-Forcing</kbd></a></div>
+      <p>Official codebase for "Causal Forcing: Autoregressive<br>Diffusion Distillation Done Right for High-Quality Real-Time<br>Interactive Video Generation"<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -3265,8 +3265,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/OmniCustom-project/OmniCustom"><kbd><strong>OmniCustom</strong></kbd></a></div>
-      <p>Official Implementation of 'OmniCustom: Sync Audio-Video<br>Customization Via Joint Audio-Video Generation Model'<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/OmniCustom-project/OmniCustom"><kbd>OmniCustom</kbd></a></div>
+      <p>Official Implementation of 'OmniCustom: Sync Audio-Video<br>Customization Via Joint Audio-Video Generation Model'<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -3280,8 +3280,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/SkyworkAI/SkyReels-V3"><kbd><strong>SkyReels-V3</strong></kbd></a></div>
-      <p>SkyReels V3: Multimodal Video Generation Model<br>&nbsp;<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/SkyworkAI/SkyReels-V3"><kbd>SkyReels-V3</kbd></a></div>
+      <p>SkyReels V3: Multimodal Video Generation Model<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -3295,8 +3295,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/PKU-YuanGroup/Helios"><kbd><strong>Helios</strong></kbd></a></div>
-      <p>Helios: Real Real-Time Long Video Generation Model<br>&nbsp;<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/PKU-YuanGroup/Helios"><kbd>Helios</kbd></a></div>
+      <p>Helios: Real Real-Time Long Video Generation Model<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -3310,8 +3310,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/NickPittas/DirectorsConsole"><kbd><strong>DirectorsConsole</strong></kbd></a></div>
-      <p>A web application for prompt generation and multiple ComfyUI<br>remote and local connections for image and video generation<br>in parallel in an infinite canvas</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/NickPittas/DirectorsConsole"><kbd>DirectorsConsole</kbd></a></div>
+      <p>A web application for prompt generation and multiple ComfyUI<br>remote and local connections for image and video generation<br>in parallel in an infinite canvas<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -3325,8 +3325,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/openai/GABRIEL"><kbd><strong>GABRIEL</strong></kbd></a></div>
-      <p>An official OpenAI toolkit for social scientists and data<br>scientists to measure quantitative attributes in text,<br>images, or audio using the GPT API.</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/openai/GABRIEL"><kbd>GABRIEL</kbd></a></div>
+      <p>An official OpenAI toolkit for social scientists and data<br>scientists to measure quantitative attributes in text,<br>images, or audio using the GPT API.<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -3340,7 +3340,7 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"><kbd><strong>awesome-seedance-2-prompts</strong></kbd></a></div>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"><kbd>awesome-seedance-2-prompts</kbd></a></div>
       <p>🎬 500+ curated Seedance 2.0 video generation prompts —<br>cinematic, anime, UGC, ads, meme styles. Includes Seedance<br>API guides, character consistency tips, and advanced video<br>work...</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
@@ -3361,8 +3361,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/tensorflow/tensorflow"><kbd><strong>tensorflow</strong></kbd></a></div>
-      <p>An Open Source Machine Learning Framework for Everyone<br>&nbsp;<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/tensorflow/tensorflow"><kbd>tensorflow</kbd></a></div>
+      <p>An Open Source Machine Learning Framework for Everyone<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -3376,7 +3376,7 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/huggingface/transformers"><kbd><strong>transformers</strong></kbd></a></div>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/huggingface/transformers"><kbd>transformers</kbd></a></div>
       <p>🤗 Transformers: the model-definition framework for<br>state-of-the-art machine learning models in text, vision,<br>audio, and multimodal models, for both inference and<br>training.</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
@@ -3391,8 +3391,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/langchain-ai/langchain"><kbd><strong>langchain</strong></kbd></a></div>
-      <p>The agent engineering platform<br>&nbsp;<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/langchain-ai/langchain"><kbd>langchain</kbd></a></div>
+      <p>The agent engineering platform<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -3406,8 +3406,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/josephmisiti/awesome-machine-learning"><kbd><strong>awesome-machine-learning</strong></kbd></a></div>
-      <p>A curated list of awesome Machine Learning frameworks,<br>libraries and software.<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/josephmisiti/awesome-machine-learning"><kbd>awesome-machine-learning</kbd></a></div>
+      <p>A curated list of awesome Machine Learning frameworks,<br>libraries and software.<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -3421,8 +3421,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/obra/superpowers"><kbd><strong>superpowers</strong></kbd></a></div>
-      <p>An agentic skills framework & software development<br>methodology that works.<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/obra/superpowers"><kbd>superpowers</kbd></a></div>
+      <p>An agentic skills framework & software development<br>methodology that works.<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -3436,8 +3436,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/FoundationAgents/MetaGPT"><kbd><strong>MetaGPT</strong></kbd></a></div>
-      <p>🌟 The Multi-Agent Framework: First AI Software Company,<br>Towards Natural Language Programming<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/FoundationAgents/MetaGPT"><kbd>MetaGPT</kbd></a></div>
+      <p>🌟 The Multi-Agent Framework: First AI Software Company,<br>Towards Natural Language Programming<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -3451,8 +3451,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/pathwaycom/pathway"><kbd><strong>pathway</strong></kbd></a></div>
-      <p>Python ETL framework for stream processing, real-time<br>analytics, LLM pipelines, and RAG.<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/pathwaycom/pathway"><kbd>pathway</kbd></a></div>
+      <p>Python ETL framework for stream processing, real-time<br>analytics, LLM pipelines, and RAG.<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -3466,8 +3466,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/microsoft/autogen"><kbd><strong>autogen</strong></kbd></a></div>
-      <p>A programming framework for agentic AI<br>&nbsp;<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/microsoft/autogen"><kbd>autogen</kbd></a></div>
+      <p>A programming framework for agentic AI<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -3481,8 +3481,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/run-llama/llama_index"><kbd><strong>llama_index</strong></kbd></a></div>
-      <p>LlamaIndex is the leading document agent and OCR platform<br>&nbsp;<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/run-llama/llama_index"><kbd>llama_index</kbd></a></div>
+      <p>LlamaIndex is the leading document agent and OCR platform<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -3496,7 +3496,7 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/crewAIInc/crewAI"><kbd><strong>crewAI</strong></kbd></a></div>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/crewAIInc/crewAI"><kbd>crewAI</kbd></a></div>
       <p>Framework for orchestrating role-playing, autonomous AI<br>agents. By fostering collaborative intelligence, CrewAI<br>empowers agents to work together seamlessly, tackling<br>complex tasks.</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
@@ -3511,8 +3511,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/deepspeedai/DeepSpeed"><kbd><strong>DeepSpeed</strong></kbd></a></div>
-      <p>DeepSpeed is a deep learning optimization library that makes<br>distributed training and inference easy, efficient, and<br>effective.</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/deepspeedai/DeepSpeed"><kbd>DeepSpeed</kbd></a></div>
+      <p>DeepSpeed is a deep learning optimization library that makes<br>distributed training and inference easy, efficient, and<br>effective.<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -3526,8 +3526,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/TauricResearch/TradingAgents"><kbd><strong>TradingAgents</strong></kbd></a></div>
-      <p>TradingAgents: Multi-Agents LLM Financial Trading Framework<br>&nbsp;<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/TauricResearch/TradingAgents"><kbd>TradingAgents</kbd></a></div>
+      <p>TradingAgents: Multi-Agents LLM Financial Trading Framework<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -3541,8 +3541,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/microsoft/BitNet"><kbd><strong>BitNet</strong></kbd></a></div>
-      <p>Official inference framework for 1-bit LLMs<br>&nbsp;<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/microsoft/BitNet"><kbd>BitNet</kbd></a></div>
+      <p>Official inference framework for 1-bit LLMs<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -3556,8 +3556,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/langchain-ai/langgraph"><kbd><strong>langgraph</strong></kbd></a></div>
-      <p>Build resilient language agents as graphs.<br>&nbsp;<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/langchain-ai/langgraph"><kbd>langgraph</kbd></a></div>
+      <p>Build resilient language agents as graphs.<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -3571,8 +3571,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/sgl-project/sglang"><kbd><strong>sglang</strong></kbd></a></div>
-      <p>SGLang is a high-performance serving framework for large<br>language models and multimodal models.<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/sgl-project/sglang"><kbd>sglang</kbd></a></div>
+      <p>SGLang is a high-performance serving framework for large<br>language models and multimodal models.<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -3586,8 +3586,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/zai-org/Open-AutoGLM"><kbd><strong>Open-AutoGLM</strong></kbd></a></div>
-      <p>An Open Phone Agent Model & Framework. Unlocking the AI<br>Phone for Everyone<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/zai-org/Open-AutoGLM"><kbd>Open-AutoGLM</kbd></a></div>
+      <p>An Open Phone Agent Model & Framework. Unlocking the AI<br>Phone for Everyone<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -3601,8 +3601,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/facebookresearch/audiocraft"><kbd><strong>audiocraft</strong></kbd></a></div>
-      <p>Audiocraft is a library for audio processing and generation<br>with deep learning. It features the state-of-the-art EnCodec<br>audio compressor / tokenizer, along with MusicGen, a sim...</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/facebookresearch/audiocraft"><kbd>audiocraft</kbd></a></div>
+      <p>Audiocraft is a library for audio processing and generation<br>with deep learning. It features the state-of-the-art EnCodec<br>audio compressor / tokenizer, along with MusicGen, a sim...<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -3616,8 +3616,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/mastra-ai/mastra"><kbd><strong>mastra</strong></kbd></a></div>
-      <p>From the team behind Gatsby, Mastra is a framework for<br>building AI-powered applications and agents with a modern<br>TypeScript stack.</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/mastra-ai/mastra"><kbd>mastra</kbd></a></div>
+      <p>From the team behind Gatsby, Mastra is a framework for<br>building AI-powered applications and agents with a modern<br>TypeScript stack.<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -3631,8 +3631,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/openai/openai-agents-python"><kbd><strong>openai-agents-python</strong></kbd></a></div>
-      <p>A lightweight, powerful framework for multi-agent workflows<br>&nbsp;<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/openai/openai-agents-python"><kbd>openai-agents-python</kbd></a></div>
+      <p>A lightweight, powerful framework for multi-agent workflows<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -3646,8 +3646,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/humanlayer/12-factor-agents"><kbd><strong>12-factor-agents</strong></kbd></a></div>
-      <p>What are the principles we can use to build LLM-powered<br>software that is actually good enough to put in the hands of<br>production customers?</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/humanlayer/12-factor-agents"><kbd>12-factor-agents</kbd></a></div>
+      <p>What are the principles we can use to build LLM-powered<br>software that is actually good enough to put in the hands of<br>production customers?<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -3661,8 +3661,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/eosphoros-ai/DB-GPT"><kbd><strong>DB-GPT</strong></kbd></a></div>
-      <p>AI Native Data App Development framework with AWEL(Agentic<br>Workflow Expression Language) and Agents<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/eosphoros-ai/DB-GPT"><kbd>DB-GPT</kbd></a></div>
+      <p>AI Native Data App Development framework with AWEL(Agentic<br>Workflow Expression Language) and Agents<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -3676,8 +3676,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/openai/evals"><kbd><strong>evals</strong></kbd></a></div>
-      <p>Evals is a framework for evaluating LLMs and LLM systems,<br>and an open-source registry of benchmarks.<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/openai/evals"><kbd>evals</kbd></a></div>
+      <p>Evals is a framework for evaluating LLMs and LLM systems,<br>and an open-source registry of benchmarks.<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -3691,8 +3691,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/emcie-co/parlant"><kbd><strong>parlant</strong></kbd></a></div>
-      <p>The conversational control layer for customer-facing AI<br>agents - Parlant is a context-engineering framework<br>optimized for controlling customer interactions.</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/emcie-co/parlant"><kbd>parlant</kbd></a></div>
+      <p>The conversational control layer for customer-facing AI<br>agents - Parlant is a context-engineering framework<br>optimized for controlling customer interactions.<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -3706,8 +3706,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/elizaOS/eliza"><kbd><strong>eliza</strong></kbd></a></div>
-      <p>Autonomous agents for everyone<br>&nbsp;<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/elizaOS/eliza"><kbd>eliza</kbd></a></div>
+      <p>Autonomous agents for everyone<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -3721,8 +3721,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/kvcache-ai/ktransformers"><kbd><strong>ktransformers</strong></kbd></a></div>
-      <p>A Flexible Framework for Experiencing Heterogeneous LLM<br>Inference/Fine-tune Optimizations<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/kvcache-ai/ktransformers"><kbd>ktransformers</kbd></a></div>
+      <p>A Flexible Framework for Experiencing Heterogeneous LLM<br>Inference/Fine-tune Optimizations<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -3736,8 +3736,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/camel-ai/camel"><kbd><strong>camel</strong></kbd></a></div>
-      <p>🐫 CAMEL: The first and the best multi-agent framework.<br>Finding the Scaling Law of Agents. https://www.camel-ai.org<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/camel-ai/camel"><kbd>camel</kbd></a></div>
+      <p>🐫 CAMEL: The first and the best multi-agent framework.<br>Finding the Scaling Law of Agents. https://www.camel-ai.org<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -3751,7 +3751,7 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/raga-ai-hub/RagaAI-Catalyst"><kbd><strong>RagaAI-Catalyst</strong></kbd></a></div>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/raga-ai-hub/RagaAI-Catalyst"><kbd>RagaAI-Catalyst</kbd></a></div>
       <p>Python SDK for Agent AI Observability, Monitoring and<br>Evaluation Framework. Includes features like agent, llm and<br>tools tracing, debugging multi-agentic system, self-hosted<br>dash...</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
@@ -3766,8 +3766,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/agent0ai/agent-zero"><kbd><strong>agent-zero</strong></kbd></a></div>
-      <p>Agent Zero AI framework<br>&nbsp;<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/agent0ai/agent-zero"><kbd>agent-zero</kbd></a></div>
+      <p>Agent Zero AI framework<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -3781,8 +3781,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/pydantic/pydantic-ai"><kbd><strong>pydantic-ai</strong></kbd></a></div>
-      <p>GenAI Agent Framework, the Pydantic way<br>&nbsp;<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/pydantic/pydantic-ai"><kbd>pydantic-ai</kbd></a></div>
+      <p>GenAI Agent Framework, the Pydantic way<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -3796,8 +3796,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/llmware-ai/llmware"><kbd><strong>llmware</strong></kbd></a></div>
-      <p>Unified framework for building enterprise RAG pipelines with<br>small, specialized models<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/llmware-ai/llmware"><kbd>llmware</kbd></a></div>
+      <p>Unified framework for building enterprise RAG pipelines with<br>small, specialized models<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -3811,8 +3811,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/confident-ai/deepeval"><kbd><strong>deepeval</strong></kbd></a></div>
-      <p>The LLM Evaluation Framework<br>&nbsp;<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/confident-ai/deepeval"><kbd>deepeval</kbd></a></div>
+      <p>The LLM Evaluation Framework<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -3826,8 +3826,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/QwenLM/Qwen-Agent"><kbd><strong>Qwen-Agent</strong></kbd></a></div>
-      <p>Agent framework and applications built upon Qwen>=3.0,<br>featuring Function Calling, MCP, Code Interpreter, RAG,<br>Chrome extension, etc.</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/QwenLM/Qwen-Agent"><kbd>Qwen-Agent</kbd></a></div>
+      <p>Agent framework and applications built upon Qwen>=3.0,<br>featuring Function Calling, MCP, Code Interpreter, RAG,<br>Chrome extension, etc.<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -3841,8 +3841,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/Tencent/WeKnora"><kbd><strong>WeKnora</strong></kbd></a></div>
-      <p>LLM-powered framework for deep document understanding,<br>semantic retrieval, and context-aware answers using RAG<br>paradigm.</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/Tencent/WeKnora"><kbd>WeKnora</kbd></a></div>
+      <p>LLM-powered framework for deep document understanding,<br>semantic retrieval, and context-aware answers using RAG<br>paradigm.<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -3856,7 +3856,7 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/langchain4j/langchain4j"><kbd><strong>langchain4j</strong></kbd></a></div>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/langchain4j/langchain4j"><kbd>langchain4j</kbd></a></div>
       <p>LangChain4j is an open-source Java library that simplifies<br>the integration of LLMs into Java applications through a<br>unified API, providing access to popular LLMs and vector<br>data...</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
@@ -3871,8 +3871,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/TEN-framework/ten-framework"><kbd><strong>ten-framework</strong></kbd></a></div>
-      <p>Open-source framework for conversational voice AI agents<br>&nbsp;<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/TEN-framework/ten-framework"><kbd>ten-framework</kbd></a></div>
+      <p>Open-source framework for conversational voice AI agents<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -3886,8 +3886,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/The-Pocket/PocketFlow"><kbd><strong>PocketFlow</strong></kbd></a></div>
-      <p>Pocket Flow: 100-line LLM framework. Let Agents build<br>Agents!<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/The-Pocket/PocketFlow"><kbd>PocketFlow</kbd></a></div>
+      <p>Pocket Flow: 100-line LLM framework. Let Agents build<br>Agents!<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -3901,8 +3901,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/simular-ai/Agent-S"><kbd><strong>Agent-S</strong></kbd></a></div>
-      <p>Agent S: an open agentic framework that uses computers like<br>a human<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/simular-ai/Agent-S"><kbd>Agent-S</kbd></a></div>
+      <p>Agent S: an open agentic framework that uses computers like<br>a human<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -3916,8 +3916,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/cloudwego/eino"><kbd><strong>eino</strong></kbd></a></div>
-      <p>The ultimate LLM/AI application development framework in Go.<br>&nbsp;<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/cloudwego/eino"><kbd>eino</kbd></a></div>
+      <p>The ultimate LLM/AI application development framework in Go.<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -3931,8 +3931,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/livekit/agents"><kbd><strong>agents</strong></kbd></a></div>
-      <p>A framework for building realtime voice AI agents 🤖🎙️📹<br>&nbsp;<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/livekit/agents"><kbd>agents</kbd></a></div>
+      <p>A framework for building realtime voice AI agents 🤖🎙️📹<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -3946,8 +3946,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/mcp-use/mcp-use"><kbd><strong>mcp-use</strong></kbd></a></div>
-      <p>The fullstack MCP framework to develop MCP Apps for ChatGPT<br>/ Claude & MCP Servers for AI Agents.<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/mcp-use/mcp-use"><kbd>mcp-use</kbd></a></div>
+      <p>The fullstack MCP framework to develop MCP Apps for ChatGPT<br>/ Claude & MCP Servers for AI Agents.<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -3961,8 +3961,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/aden-hive/hive"><kbd><strong>hive</strong></kbd></a></div>
-      <p>Outcome driven agent development framework that evolves<br>&nbsp;<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/aden-hive/hive"><kbd>hive</kbd></a></div>
+      <p>Outcome driven agent development framework that evolves<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -3976,8 +3976,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/HKUDS/AutoAgent"><kbd><strong>AutoAgent</strong></kbd></a></div>
-      <p>"AutoAgent: Fully-Automated and Zero-Code LLM Agent<br>Framework"<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/HKUDS/AutoAgent"><kbd>AutoAgent</kbd></a></div>
+      <p>"AutoAgent: Fully-Automated and Zero-Code LLM Agent<br>Framework"<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -3991,7 +3991,7 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/OpenSPG/KAG"><kbd><strong>KAG</strong></kbd></a></div>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/OpenSPG/KAG"><kbd>KAG</kbd></a></div>
       <p>KAG is a logical form-guided reasoning and retrieval<br>framework based on OpenSPG engine and LLMs. It is used to<br>build logical reasoning and factual Q&A solutions for<br>professiona...</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
@@ -4006,8 +4006,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/alibaba/spring-ai-alibaba"><kbd><strong>spring-ai-alibaba</strong></kbd></a></div>
-      <p>Agentic AI Framework for Java Developers<br>&nbsp;<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/alibaba/spring-ai-alibaba"><kbd>spring-ai-alibaba</kbd></a></div>
+      <p>Agentic AI Framework for Java Developers<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -4021,8 +4021,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/Upsonic/Upsonic"><kbd><strong>Upsonic</strong></kbd></a></div>
-      <p>Agent Framework For Fintech and Banks<br>&nbsp;<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/Upsonic/Upsonic"><kbd>Upsonic</kbd></a></div>
+      <p>Agent Framework For Fintech and Banks<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -4036,8 +4036,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/microsoft/agent-framework"><kbd><strong>agent-framework</strong></kbd></a></div>
-      <p>A framework for building, orchestrating and deploying AI<br>agents and multi-agent workflows with support for Python and<br>.NET.</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/microsoft/agent-framework"><kbd>agent-framework</kbd></a></div>
+      <p>A framework for building, orchestrating and deploying AI<br>agents and multi-agent workflows with support for Python and<br>.NET.<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -4051,8 +4051,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/awslabs/agent-squad"><kbd><strong>agent-squad</strong></kbd></a></div>
-      <p>Flexible and powerful framework for managing multiple AI<br>agents and handling complex conversations<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/awslabs/agent-squad"><kbd>agent-squad</kbd></a></div>
+      <p>Flexible and powerful framework for managing multiple AI<br>agents and handling complex conversations<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -4066,8 +4066,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/aliasrobotics/cai"><kbd><strong>cai</strong></kbd></a></div>
-      <p>Cybersecurity AI (CAI), the framework for AI Security<br>&nbsp;<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/aliasrobotics/cai"><kbd>cai</kbd></a></div>
+      <p>Cybersecurity AI (CAI), the framework for AI Security<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -4081,8 +4081,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/VoltAgent/voltagent"><kbd><strong>voltagent</strong></kbd></a></div>
-      <p>AI Agent Engineering Platform built on an Open Source<br>TypeScript AI Agent Framework<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/VoltAgent/voltagent"><kbd>voltagent</kbd></a></div>
+      <p>AI Agent Engineering Platform built on an Open Source<br>TypeScript AI Agent Framework<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -4096,8 +4096,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/cocoindex-io/cocoindex"><kbd><strong>cocoindex</strong></kbd></a></div>
-      <p>Data transformation framework for AI. Ultra performant, with<br>incremental processing. 🌟 Star if you like it!<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/cocoindex-io/cocoindex"><kbd>cocoindex</kbd></a></div>
+      <p>Data transformation framework for AI. Ultra performant, with<br>incremental processing. 🌟 Star if you like it!<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -4111,8 +4111,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/OpenBMB/UltraRAG"><kbd><strong>UltraRAG</strong></kbd></a></div>
-      <p>A Low-Code MCP Framework for Building Complex and Innovative<br>RAG Pipelines<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/OpenBMB/UltraRAG"><kbd>UltraRAG</kbd></a></div>
+      <p>A Low-Code MCP Framework for Building Complex and Innovative<br>RAG Pipelines<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -4126,8 +4126,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/sentient-agi/ROMA"><kbd><strong>ROMA</strong></kbd></a></div>
-      <p>Recursive-Open-Meta-Agent v0.1 (Beta). A meta-agent<br>framework to build high-performance multi-agent systems.<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/sentient-agi/ROMA"><kbd>ROMA</kbd></a></div>
+      <p>Recursive-Open-Meta-Agent v0.1 (Beta). A meta-agent<br>framework to build high-performance multi-agent systems.<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -4141,8 +4141,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/hiyouga/EasyR1"><kbd><strong>EasyR1</strong></kbd></a></div>
-      <p>EasyR1: An Efficient, Scalable, Multi-Modality RL Training<br>Framework based on veRL<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/hiyouga/EasyR1"><kbd>EasyR1</kbd></a></div>
+      <p>EasyR1: An Efficient, Scalable, Multi-Modality RL Training<br>Framework based on veRL<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -4156,8 +4156,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/THUDM/slime"><kbd><strong>slime</strong></kbd></a></div>
-      <p>slime is an LLM post-training framework for RL Scaling.<br>&nbsp;<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/THUDM/slime"><kbd>slime</kbd></a></div>
+      <p>slime is an LLM post-training framework for RL Scaling.<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -4171,8 +4171,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/antvis/Infographic"><kbd><strong>Infographic</strong></kbd></a></div>
-      <p>🦋 An Infographic Generation and Rendering Framework, bring<br>words to life with AI!<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/antvis/Infographic"><kbd>Infographic</kbd></a></div>
+      <p>🦋 An Infographic Generation and Rendering Framework, bring<br>words to life with AI!<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -4186,8 +4186,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/TencentCloudADP/youtu-agent"><kbd><strong>youtu-agent</strong></kbd></a></div>
-      <p>A simple yet powerful agent framework that delivers with<br>open-source models<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/TencentCloudADP/youtu-agent"><kbd>youtu-agent</kbd></a></div>
+      <p>A simple yet powerful agent framework that delivers with<br>open-source models<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -4201,8 +4201,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/cactus-compute/cactus"><kbd><strong>cactus</strong></kbd></a></div>
-      <p>Low-latency AI engine for mobile devices & wearables<br>&nbsp;<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/cactus-compute/cactus"><kbd>cactus</kbd></a></div>
+      <p>Low-latency AI engine for mobile devices & wearables<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -4216,8 +4216,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/magnitudedev/browser-agent"><kbd><strong>browser-agent</strong></kbd></a></div>
-      <p>Open-source, vision-first browser agent<br>&nbsp;<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/magnitudedev/browser-agent"><kbd>browser-agent</kbd></a></div>
+      <p>Open-source, vision-first browser agent<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -4231,7 +4231,7 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/JetBrains/koog"><kbd><strong>koog</strong></kbd></a></div>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/JetBrains/koog"><kbd>koog</kbd></a></div>
       <p>Koog is the official Kotlin framework for building<br>predictable, fault-tolerant and enterprise-ready AI agents<br>across all platforms – from backend services to Android and<br>iOS, JV...</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
@@ -4246,7 +4246,7 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/SkyworkAI/DeepResearchAgent"><kbd><strong>DeepResearchAgent</strong></kbd></a></div>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/SkyworkAI/DeepResearchAgent"><kbd>DeepResearchAgent</kbd></a></div>
       <p>DeepResearchAgent is a hierarchical multi-agent system<br>designed not only for deep research tasks but also for<br>general-purpose task solving. The framework leverages a<br>top-level p...</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
@@ -4261,8 +4261,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/Sumanth077/ai-engineering-toolkit"><kbd><strong>ai-engineering-toolkit</strong></kbd></a></div>
-      <p>A curated list of 100+ libraries and frameworks for AI<br>engineers building with LLMs<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/Sumanth077/ai-engineering-toolkit"><kbd>ai-engineering-toolkit</kbd></a></div>
+      <p>A curated list of 100+ libraries and frameworks for AI<br>engineers building with LLMs<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -4276,8 +4276,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/MiroMindAI/miroflow"><kbd><strong>miroflow</strong></kbd></a></div>
-      <p>MiroFlow is an agent framework that enables tool-use agent<br>tasks, featuring a reproducible GAIA score of 82.4%.<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/MiroMindAI/miroflow"><kbd>miroflow</kbd></a></div>
+      <p>MiroFlow is an agent framework that enables tool-use agent<br>tasks, featuring a reproducible GAIA score of 82.4%.<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -4291,8 +4291,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/BIT-DataLab/Edit-Banana"><kbd><strong>Edit-Banana</strong></kbd></a></div>
-      <p>Edit Banana: A framework for converting statistical formats<br>into editable.<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/BIT-DataLab/Edit-Banana"><kbd>Edit-Banana</kbd></a></div>
+      <p>Edit Banana: A framework for converting statistical formats<br>into editable.<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -4306,7 +4306,7 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/darrenhinde/OpenAgentsControl"><kbd><strong>OpenAgentsControl</strong></kbd></a></div>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/darrenhinde/OpenAgentsControl"><kbd>OpenAgentsControl</kbd></a></div>
       <p>AI agent framework for plan-first development workflows with<br>approval-based execution. Multi-language support<br>(TypeScript, Python, Go, Rust) with automatic testing, code<br>review,...</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
@@ -4321,7 +4321,7 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/samugit83/redamon"><kbd><strong>redamon</strong></kbd></a></div>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/samugit83/redamon"><kbd>redamon</kbd></a></div>
       <p>An AI-powered agentic red team framework that automates<br>offensive security operations, from reconnaissance to<br>exploitation to post-exploitation, with zero human<br>intervention.</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
@@ -4336,7 +4336,7 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/polyuiislab/infiAgent"><kbd><strong>infiAgent</strong></kbd></a></div>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/polyuiislab/infiAgent"><kbd>infiAgent</kbd></a></div>
       <p>Build your own Cowork, AI Scientist and other SoTA Agents<br>just by editing config files. Support anthropic skills. An<br>infinite-horizon agent framework designed for<br>long-running,...</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
@@ -4351,8 +4351,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/deanpeters/Product-Manager-Skills"><kbd><strong>Product-Manager-Skills</strong></kbd></a></div>
-      <p>Product Management skills framework built on battle-tested<br>methods for Claude Code, Cowork, Codex, and AI agents.<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/deanpeters/Product-Manager-Skills"><kbd>Product-Manager-Skills</kbd></a></div>
+      <p>Product Management skills framework built on battle-tested<br>methods for Claude Code, Cowork, Codex, and AI agents.<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -4366,8 +4366,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/openakita/openakita"><kbd><strong>openakita</strong></kbd></a></div>
-      <p>An open-source AI assistant framework with skills and agent<br>architecture<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/openakita/openakita"><kbd>openakita</kbd></a></div>
+      <p>An open-source AI assistant framework with skills and agent<br>architecture<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -4381,8 +4381,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/sangrokjung/claude-forge"><kbd><strong>claude-forge</strong></kbd></a></div>
-      <p>Supercharge Claude Code with 11 AI agents, 36 commands & 15<br>skills — the claude-code plugin framework inspired by<br>oh-my-zsh. 6-layer security hooks included. 5-min install.</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/sangrokjung/claude-forge"><kbd>claude-forge</kbd></a></div>
+      <p>Supercharge Claude Code with 11 AI agents, 36 commands & 15<br>skills — the claude-code plugin framework inspired by<br>oh-my-zsh. 6-layer security hooks included. 5-min install.<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -4396,8 +4396,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div><a href="https://github.com/opencmit/alphora"><kbd><strong>alphora</strong></kbd></a></div>
-      <p>A Production-Ready Framework for Building Composable AI<br>Agents<br>&nbsp;</p>
+      <div style="font-size: 20px; font-weight: 700;"><a href="https://github.com/opencmit/alphora"><kbd>alphora</kbd></a></div>
+      <p>A Production-Ready Framework for Building Composable AI<br>Agents<br>&nbsp;<br>&nbsp;</p>
       <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
     </td>
     <td width="42%" valign="middle" align="center">
@@ -4456,5 +4456,5 @@ Stay ahead of the curve with these curated AI resources.
 Data is retrieved using the GitHub REST API and GitHub Actions.
 
 <div align="right">
-  <i>✨ Last Generated: March 05, 2026 - 09:47 UTC</i>
+  <i>✨ Last Generated: March 05, 2026 - 10:08 UTC</i>
 </div>
