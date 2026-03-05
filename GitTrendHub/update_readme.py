@@ -35,7 +35,7 @@ def parse_stars(val):
     except:
         return 0
 
-def format_desc_fixed(desc, max_chars=180, line_len=60):
+def format_desc_fixed(desc, max_chars=180, line_len=60, min_lines=3):
     if not desc:
         desc = "No description provided"
     text = desc.replace("\n", " ").strip()
@@ -54,6 +54,8 @@ def format_desc_fixed(desc, max_chars=180, line_len=60):
             current = w
     if current:
         chunks.append(current)
+    if len(chunks) < min_lines:
+        chunks.extend(["&nbsp;"] * (min_lines - len(chunks)))
     return "<br>".join(chunks)
 
 def generate_transparent_png(filepath, width=1, height=1):
@@ -122,13 +124,16 @@ def fetch_repo_stats(repo_path, _api_errors=None):
 
 def generate_svg_card(e):
     # Modern SVG card identifying the repo stats
-    accent = e.get("accent", "#4dabf7")
+    accents = e.get("accents") or [e.get("accent", "#4dabf7")]
+    accents = [a for a in accents if a]
+    if not accents:
+        accents = ["#4dabf7"]
     growth_color = "#3fb950" if e['growth'] > 0 else "#f85149"
     growth_icon = "▲" if e['growth'] > 0 else "▼"
     
     svg = f"""<svg width="400" height="150" viewBox="0 0 400 150" fill="none" xmlns="http://www.w3.org/2000/svg">
   <rect x="0.5" y="0.5" width="399" height="149" rx="9.5" fill="#0d1117" stroke="#30363d"/>
-  <rect x="0.5" y="0.5" width="6" height="149" rx="3" fill="{accent}"/>
+  {"".join([f'<rect x=\"0.5\" y=\"0.5\" width=\"6\" height=\"74\" rx=\"3\" fill=\"{accents[0]}\"/>' if len(accents)>1 else f'<rect x=\"0.5\" y=\"0.5\" width=\"6\" height=\"149\" rx=\"3\" fill=\"{accents[0]}\"/>' , f'<rect x=\"0.5\" y=\"75.5\" width=\"6\" height=\"74\" rx=\"3\" fill=\"{accents[1]}\"/>' if len(accents)>1 else '' ])}
   <text x="20" y="35" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#58a6ff">{e['name']}</text>
   <text x="20" y="55" font-family="Arial, sans-serif" font-size="12" fill="#8b949e">{e['repo_path']}</text>
   
@@ -239,6 +244,18 @@ def generate_markdown(projects_data, base_dir):
         for idx, key in enumerate(category_keys)
     }
 
+    # Build repo -> accents map to handle repos listed in multiple sections
+    repo_accents = {}
+    for category_key, category_data in projects_data.items():
+        accent = accent_by_category.get(category_key, "#4dabf7")
+        for repo in category_data.get("repos", []) or []:
+            repo_path = repo.get("url_path")
+            if not repo_path:
+                continue
+            repo_accents.setdefault(repo_path, [])
+            if accent not in repo_accents[repo_path]:
+                repo_accents[repo_path].append(accent)
+
     for category_key, category_data in projects_data.items():
         title = category_data.get("title", category_key.title())
         section_emoji = extract_leading_emoji(title)
@@ -291,11 +308,12 @@ def generate_markdown(projects_data, base_dir):
                 "category": title,
                 "category_id": category_key,
                 "status_tag": data_status,
-                "accent": accent
+                "accent": accent,
+                "accents": repo_accents.get(repo["url_path"], [accent])[:2],
             }
             
-            # Generate local custom SVG
-            svg_filename = f"{e['repo_path'].replace('/', '_')}.svg"
+            # Generate local custom SVG (include category to avoid overwriting)
+            svg_filename = f"{e['repo_path'].replace('/', '_')}_{category_key}.svg"
             svg_path = os.path.join(assets_dir, svg_filename)
             with open(svg_path, "w", encoding="utf-8") as f:
                 f.write(generate_svg_card(e))
