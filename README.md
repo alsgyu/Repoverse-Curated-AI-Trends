@@ -744,7 +744,7 @@
   <tr>
     <td width="58%" valign="top">
       <div style="line-height: 1.1;"><a href="https://github.com/langchain-ai/langchain"><kbd><span style="font-size: 30px; font-weight: 800;">langchain</span></kbd></a></div>
-      <p style="line-height: 1.5;">The agent engineering platform<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
+      <p style="line-height: 1.5;">The original Swiss Army Knife that turned every developer<br>into an AI engineer overnight. With more integrations than<br>your favorite app store, if it has an API, we’ve already<br>wra...</p>
     </td>
     <td width="42%" valign="middle" align="center">
       <img src="GitTrendHub/assets/langchain-ai_langchain_agents.svg" alt="langchain stats" width="400">
@@ -3170,7 +3170,7 @@
   <tr>
     <td width="58%" valign="top">
       <div style="line-height: 1.1;"><a href="https://github.com/langchain-ai/langchain"><kbd><span style="font-size: 30px; font-weight: 800;">langchain</span></kbd></a></div>
-      <p style="line-height: 1.5;">The agent engineering platform<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
+      <p style="line-height: 1.5;">The original Swiss Army Knife that turned every developer<br>into an AI engineer overnight. With more integrations than<br>your favorite app store, if it has an API, we’ve already<br>wra...</p>
     </td>
     <td width="42%" valign="middle" align="center">
       <img src="GitTrendHub/assets/langchain-ai_langchain_frameworks.svg" alt="langchain stats" width="400">
@@ -4123,28 +4123,21 @@
 
 ---
 
-## 🤝 Join the AI Hub Community
+## 🤝 Contribute (Super Simple)
 
-This repo gets better when people submit **high-signal repos** and **small iterative improvements**.
+You only need **three steps**. Add or update repos in one place, and everything else is generated for you.
 
-| Contribution | Best for | How to do it |
-|---|---|---|
-| **Suggest a repo (fastest)** | Anyone | Open an issue using the **Repo suggestion** template (`Issues → New issue`). |
-| **Add / update a repo** | Curators | Edit `GitTrendHub/projects.json`, run `python3 update_readme.py`, then open a PR. |
-| **Improve the generator** | Engineers | Improve `GitTrendHub/update_readme.py` or the CLI (`GitTrendHub/cli.py`), then open a PR. |
-| **Fix data quality** | Everyone | Report broken links/descriptions with a minimal repro (repo URL + section). |
+1. `git pull` (if you’re not on the latest)
+2. Edit `GitTrendHub/projects.json` and add **repo name, url, description**:
+   - Example entry:
+     ```json
+     { "url_path": "owner/repo", "manual_desc": "One‑line description you want shown." }
+     ```
+3. Run `python3 update_readme.py` (updates `README.md` and `docs/search-index.json`)
 
-### Quick start (PR)
+That’s it. Commit and push when you’re ready.
 
-1. Fork this repo
-2. Update `GitTrendHub/projects.json`
-3. Regenerate outputs: `python3 update_readme.py`
-4. Commit `README.md` and `docs/search-index.json`
-5. Open a PR
-
-### Full guide
-
-See [`CONTRIBUTING.md`](CONTRIBUTING.md).
+See [`CONTRIBUTING.md`](CONTRIBUTING.md) if you want more detail.
 
 ---
 
@@ -4166,5 +4159,5 @@ Stay ahead of the curve with these curated AI resources.
 Data is retrieved using the GitHub REST API and GitHub Actions.
 
 <div align="right">
-  <i>✨ Last Generated: March 05, 2026 - 13:04 UTC</i>
+  <i>✨ Last Generated: March 05, 2026 - 13:33 UTC</i>
 </div>
