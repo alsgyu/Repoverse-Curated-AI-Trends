@@ -292,12 +292,16 @@ def generate_markdown(projects_data, base_dir):
         for repo in repos:
             stats = fetch_repo_stats(repo["url_path"], api_errors)
             
+            manual_desc = repo.get("manual_desc")
             if stats:
                 current_stars = stats.get("stargazers_count", 0)
                 last_stars = parse_stars(repo.get("last_stars", current_stars))
                 growth = current_stars - last_stars
                 repo["last_stars"] = current_stars
-                repo["last_desc"] = (stats.get("description") or "No description provided").replace("|", "\\|")
+                if manual_desc:
+                    repo["last_desc"] = manual_desc.replace("|", "\\|")
+                else:
+                    repo["last_desc"] = (stats.get("description") or "No description provided").replace("|", "\\|")
                 repo["last_lang"] = stats.get("language") or "N/A"
                 repo["last_forks"] = stats.get("forks_count", 0)
                 data_status = ""
@@ -311,7 +315,7 @@ def generate_markdown(projects_data, base_dir):
                 "repo_path": repo["url_path"],
                 "name": repo["url_path"].split("/")[-1],
                 "html_url": f"https://github.com/{repo['url_path']}",
-                "description": repo.get("last_desc", "Description not available"),
+                "description": (manual_desc or repo.get("last_desc", "Description not available")),
                 "language": repo.get("last_lang", "N/A"),
                 "forks": repo.get("last_forks", 0),
                 "stars": current_stars,

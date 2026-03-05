@@ -5,35 +5,35 @@
     "repos": [
       {
         "url_path": "vllm-project/vllm",
-        "last_stars": 72077,
+        "last_stars": 72097,
         "last_desc": "A high-throughput and memory-efficient inference and serving engine for LLMs",
         "last_lang": "Python",
-        "last_forks": 13976
+        "last_forks": 13981
       },
       {
         "url_path": "google/adk-python",
-        "last_stars": 18173,
+        "last_stars": 18177,
         "last_desc": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
         "last_lang": "Python",
-        "last_forks": 3009
+        "last_forks": 3012
       },
       {
         "url_path": "sgl-project/sglang",
-        "last_stars": 24111,
+        "last_stars": 24114,
         "last_desc": "SGLang is a high-performance serving framework for large language models and multimodal models.",
         "last_lang": "Python",
-        "last_forks": 4658
+        "last_forks": 4660
       },
       {
         "url_path": "labring/FastGPT",
-        "last_stars": 27276,
+        "last_stars": 27279,
         "last_desc": "FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.",
         "last_lang": "TypeScript",
-        "last_forks": 6948
+        "last_forks": 6947
       },
       {
         "url_path": "google/adk-go",
-        "last_stars": 7077,
+        "last_stars": 7081,
         "last_desc": "An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
         "last_lang": "Go",
         "last_forks": 563
@@ -47,21 +47,21 @@
       },
       {
         "url_path": "mlc-ai/mlc-llm",
-        "last_stars": 22116,
+        "last_stars": 22118,
         "last_desc": "Universal LLM Deployment Engine with ML Compilation",
         "last_lang": "Python",
         "last_forks": 1948
       },
       {
         "url_path": "osaurus-ai/osaurus",
-        "last_stars": 3948,
+        "last_stars": 3951,
         "last_desc": "AI edge infrastructure for macOS. Run local or cloud models, share tools across apps via MCP, and power AI workflows with a native, always-on runtime.",
         "last_lang": "Swift",
         "last_forks": 163
       },
       {
         "url_path": "NVIDIA/TensorRT-LLM",
-        "last_stars": 13004,
+        "last_stars": 13006,
         "last_desc": "TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in a performant way.",
         "last_lang": "Python",
         "last_forks": 2144
@@ -82,17 +82,17 @@
       },
       {
         "url_path": "Lightning-AI/litgpt",
-        "last_stars": 13209,
+        "last_stars": 13210,
         "last_desc": "20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.",
         "last_lang": "Python",
-        "last_forks": 1405
+        "last_forks": 1406
       },
       {
         "url_path": "ray-project/ray",
-        "last_stars": 41594,
+        "last_stars": 41596,
         "last_desc": "Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.",
         "last_lang": "Python",
-        "last_forks": 7289
+        "last_forks": 7290
       },
       {
         "url_path": "microsoft/promptflow",
@@ -131,21 +131,21 @@
       },
       {
         "url_path": "xorbitsai/inference",
-        "last_stars": 9095,
+        "last_stars": 9097,
         "last_desc": "Swap GPT for any LLM by changing a single line of code. Xinference lets you run open-source, speech, and multimodal models on cloud, on-prem, or your laptop \u2014 all through one unified, production-ready inference API.",
         "last_lang": "Python",
         "last_forks": 799
       },
       {
         "url_path": "Zipstack/unstract",
-        "last_stars": 6468,
+        "last_stars": 6469,
         "last_desc": "LLM-Driven Extraction of Unstructured Data \u2014 Built for API Deployments & ETL Pipeline Workflows",
         "last_lang": "Python",
         "last_forks": 614
       },
       {
         "url_path": "InternLM/lmdeploy",
-        "last_stars": 7651,
+        "last_stars": 7652,
         "last_desc": "LMDeploy is a toolkit for compressing, deploying, and serving LLMs.",
         "last_lang": "Python",
         "last_forks": 659
@@ -166,8 +166,8 @@
       },
       {
         "url_path": "OpenMind/OM1",
-        "last_stars": 2667,
-        "last_desc": "The open-source answer to autonomous general-purpose agents. Raw, unbridled power for those who want to build the everything agent.",
+        "last_stars": 2668,
+        "last_desc": "Modular AI runtime for robots",
         "last_lang": "Python",
         "last_forks": 962
       },
@@ -180,10 +180,10 @@
       },
       {
         "url_path": "waybarrios/vllm-mlx",
-        "last_stars": 497,
+        "last_stars": 499,
         "last_desc": "OpenAI and Anthropic compatible server for Apple Silicon. Run LLMs and vision-language models (Llama, Qwen-VL, LLaVA) with continuous batching, MCP tool calling, and multimodal support. Native MLX backend, 400+ tok/s. Works with Claude Code.",
         "last_lang": "Python",
-        "last_forks": 67
+        "last_forks": 68
       },
       {
         "url_path": "SmythOS/sre",
@@ -194,10 +194,10 @@
       },
       {
         "url_path": "vllm-project/llm-compressor",
-        "last_stars": 2813,
+        "last_stars": 2815,
         "last_desc": "Transformers-compatible library for applying various compression algorithms to LLMs for optimized deployment with vLLM",
         "last_lang": "Python",
-        "last_forks": 419
+        "last_forks": 420
       },
       {
         "url_path": "containers/ramalama",
@@ -208,7 +208,7 @@
       },
       {
         "url_path": "botpress/botpress",
-        "last_stars": 14581,
+        "last_stars": 14582,
         "last_desc": "The open-source hub to build & deploy GPT/LLM Agents \u26a1\ufe0f",
         "last_lang": "TypeScript",
         "last_forks": 2249
@@ -222,28 +222,29 @@
       },
       {
         "url_path": "Netflix/metaflow",
-        "last_stars": 9902,
+        "last_stars": 9904,
         "last_desc": "Netflix-grade infrastructure for humans who just want to code. Scale your ML from a laptop to the cloud without losing your mind or your data.",
+        "manual_desc": "Netflix-grade infrastructure for humans who just want to code. Scale your ML from a laptop to the cloud without losing your mind or your data.",
         "last_lang": "Python",
         "last_forks": 1115
       },
       {
         "url_path": "google/adk-js",
-        "last_stars": 864,
+        "last_stars": 866,
         "last_desc": "An open-source, code-first Typescript toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
         "last_lang": "TypeScript",
         "last_forks": 102
       },
       {
         "url_path": "nottelabs/notte",
-        "last_stars": 1895,
+        "last_stars": 1898,
         "last_desc": "\ud83c\udf38 Best framework to build web agents, and deploy serverless web automation functions on reliable browser infra.",
         "last_lang": "Python",
         "last_forks": 170
       },
       {
         "url_path": "ModelTC/LightLLM",
-        "last_stars": 3926,
+        "last_stars": 3927,
         "last_desc": "LightLLM is a Python-based LLM (Large Language Model) inference and serving framework, notable for its lightweight design, easy scalability, and high-speed performance.",
         "last_lang": "Python",
         "last_forks": 304
@@ -265,7 +266,7 @@
       {
         "url_path": "run-llama/llama_deploy",
         "last_stars": 2075,
-        "last_desc": "Microservices for your LlamaIndex agents to live their best lives. Scaling your LLM workflows from a single script to a distributed powerhouse.",
+        "last_desc": "Deploy your agentic worfklows to production",
         "last_lang": "Python",
         "last_forks": 228
       },
@@ -292,7 +293,7 @@
       },
       {
         "url_path": "BlackSnufkin/LitterBox",
-        "last_stars": 1316,
+        "last_stars": 1317,
         "last_desc": "A secure sandbox environment for malware developers and red teamers to test payloads against detection mechanisms before deployment. Integrates with LLM agents via MCP for enhanced analysis capabilities.",
         "last_lang": "YARA",
         "last_forks": 148
@@ -306,7 +307,7 @@
       },
       {
         "url_path": "sgl-project/SpecForge",
-        "last_stars": 719,
+        "last_stars": 721,
         "last_desc": "Train speculative decoding models effortlessly and port them smoothly to SGLang serving.",
         "last_lang": "Python",
         "last_forks": 168
@@ -321,7 +322,7 @@
       {
         "url_path": "langchain-ai/langserve",
         "last_stars": 2279,
-        "last_desc": "Turn your LangChain logic into a production API before your coffee gets cold. The bridge between it works on my machine and it's live for the world.",
+        "last_desc": "LangServe \ud83e\udd9c\ufe0f\ud83c\udfd3",
         "last_lang": "JavaScript",
         "last_forks": 264
       },
@@ -361,73 +362,73 @@
     "repos": [
       {
         "url_path": "zeroclaw-labs/zeroclaw",
-        "last_stars": 22353,
+        "last_stars": 22425,
         "last_desc": "Fast, small, and fully autonomous AI assistant infrastructure \u2014 deploy anywhere, swap anything \ud83e\udd80",
         "last_lang": "Rust",
-        "last_forks": 2961
+        "last_forks": 2970
       },
       {
         "url_path": "vercel-labs/agent-browser",
-        "last_stars": 18856,
-        "last_desc": "Giving your AI eyes and fingers to navigate the wild, open web. Automating the internet one click at a time, no API required.",
+        "last_stars": 18928,
+        "last_desc": "Browser automation CLI for AI agents",
         "last_lang": "Rust",
-        "last_forks": 1104
+        "last_forks": 1109
       },
       {
         "url_path": "zai-org/Open-AutoGLM",
-        "last_stars": 23996,
+        "last_stars": 24012,
         "last_desc": "An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone",
         "last_lang": "Python",
-        "last_forks": 3798
+        "last_forks": 3800
       },
       {
         "url_path": "snarktank/ralph",
-        "last_stars": 12055,
+        "last_stars": 12072,
         "last_desc": "Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete. ",
         "last_lang": "TypeScript",
-        "last_forks": 1305
+        "last_forks": 1306
       },
       {
         "url_path": "Yeachan-Heo/oh-my-claudecode",
-        "last_stars": 8443,
+        "last_stars": 8470,
         "last_desc": "Teams-first Multi-agent orchestration for Claude Code",
         "last_lang": "TypeScript",
         "last_forks": 588
       },
       {
         "url_path": "wshobson/agents",
-        "last_stars": 30271,
+        "last_stars": 30288,
         "last_desc": "Intelligent automation and multi-agent orchestration for Claude Code",
         "last_lang": "Python",
-        "last_forks": 3314
+        "last_forks": 3316
       },
       {
         "url_path": "virattt/dexter",
-        "last_stars": 17104,
+        "last_stars": 17117,
         "last_desc": "An autonomous agent for deep financial research",
         "last_lang": "TypeScript",
-        "last_forks": 2088
+        "last_forks": 2087
       },
       {
         "url_path": "ComposioHQ/agent-orchestrator",
-        "last_stars": 3664,
+        "last_stars": 3683,
         "last_desc": " Agentic orchestrator for parallel coding agents \u2014 plans tasks, spawns agents, and autonomously handles CI    fixes, merge conflicts, and code reviews.",
         "last_lang": "TypeScript",
-        "last_forks": 413
+        "last_forks": 416
       },
       {
         "url_path": "langchain-ai/langchain",
-        "last_stars": 128316,
+        "last_stars": 128339,
         "last_desc": "The agent engineering platform",
         "last_lang": "Python",
-        "last_forks": 21073
+        "last_forks": 21077
       },
       {
         "url_path": "cline/cline",
-        "last_stars": 58640,
+        "last_stars": 58646,
         "last_desc": "Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.",
         "last_lang": "TypeScript",
-        "last_forks": 5897
+        "last_forks": 5898
       },
       {
         "url_path": "ruvnet/ruflo",
@@ -607,7 +608,7 @@
       {
         "url_path": "langchain-ai/langgraph",
         "last_stars": 25591,
-        "last_desc": "Giving your agents a map and a memory for complex, loopy workflows. Because real-world logic isn't a straight line; it’s a state machine.",
+        "last_desc": "Giving your agents a map and a memory for complex, loopy workflows. Because real-world logic isn't a straight line; it\u2019s a state machine.",
         "last_lang": "Python",
         "last_forks": 4452
       },
@@ -649,7 +650,7 @@
       {
         "url_path": "pydantic/pydantic-ai",
         "last_stars": 15244,
-        "last_desc": "Agentic logic for developers who actually care about type-safety. Strict validation meets loose AI dreams—the "Senior Dev" of agent frameworks.",
+        "last_desc": "Agentic logic for developers who actually care about type-safety. Strict validation meets loose AI dreams\u2014the \"Senior Dev\" of agent frameworks.",
         "last_lang": "Python",
         "last_forks": 1717
       },
@@ -907,7 +908,7 @@
       {
         "url_path": "jamesmurdza/awesome-ai-devtools",
         "last_stars": 3589,
-        "last_desc": "The only bookmarks folder you’ll ever need for building the future. A curated map through the chaotic, fast-moving world of AI tooling.",
+        "last_desc": "The only bookmarks folder you\u2019ll ever need for building the future. A curated map through the chaotic, fast-moving world of AI tooling.",
         "last_lang": "N/A",
         "last_forks": 484
       },
@@ -977,7 +978,7 @@
       {
         "url_path": "vinhnx/VTCode",
         "last_stars": 418,
-        "last_desc": "VS Code, evolved for a world where agents do the heavy lifting. An IDE that doesn't just highlight your code—it helps write the story.",
+        "last_desc": "VS Code, evolved for a world where agents do the heavy lifting. An IDE that doesn't just highlight your code\u2014it helps write the story.",
         "last_lang": "Rust",
         "last_forks": 38
       },
@@ -1074,7 +1075,7 @@
       {
         "url_path": "AUTOMATIC1111/stable-diffusion-webui",
         "last_stars": 161496,
-        "last_desc": "The Swiss Army knife of AI art—if a feature isn't here, it probably doesn't exist yet. A UI so powerful it makes your GPU sweat and your creativity explode.",
+        "last_desc": "The Swiss Army knife of AI art\u2014if a feature isn't here, it probably doesn't exist yet. A UI so powerful it makes your GPU sweat and your creativity explode.",
         "last_lang": "Python",
         "last_forks": 30118
       },
@@ -1200,7 +1201,7 @@
       {
         "url_path": "YILS-LIN/short-video-factory",
         "last_stars": 3528,
-        "last_desc": "The assembly line for viral content—just feed it an idea and watch the TikToks roll out. Becoming a content creator while you sleep; because the factory never takes a coffee break.",
+        "last_desc": "The assembly line for viral content\u2014just feed it an idea and watch the TikToks roll out. Becoming a content creator while you sleep; because the factory never takes a coffee break.",
         "last_lang": "TypeScript",
         "last_forks": 515
       },
@@ -1242,7 +1243,7 @@
       {
         "url_path": "camenduru/stable-diffusion-webui-colab",
         "last_stars": 15959,
-        "last_desc": "Borrowing Google’s GPUs because your laptop sounds like a jet engine trying to take off. High-end diffusion for the hardware-challenged artist.",
+        "last_desc": "Borrowing Google\u2019s GPUs because your laptop sounds like a jet engine trying to take off. High-end diffusion for the hardware-challenged artist.",
         "last_lang": "Jupyter Notebook",
         "last_forks": 2654
       },
@@ -1312,7 +1313,7 @@
       {
         "url_path": "VectorSpaceLab/OmniGen",
         "last_stars": 4310,
-        "last_desc": "The everything bagel of diffusion models—one model for generation, editing, and more. Why switch models when you have a unified genius that does it all?",
+        "last_desc": "The everything bagel of diffusion models\u2014one model for generation, editing, and more. Why switch models when you have a unified genius that does it all?",
         "last_lang": "Jupyter Notebook",
         "last_forks": 368
       },
@@ -1403,7 +1404,7 @@
       {
         "url_path": "MochiDiffusion/MochiDiffusion",
         "last_stars": 7841,
-        "last_desc": "Native Stable Diffusion that makes your Mac’s Neural Engine actually work for its living. Generating art so cool it keeps your MacBook’s fans completely silent.",
+        "last_desc": "Native Stable Diffusion that makes your Mac\u2019s Neural Engine actually work for its living. Generating art so cool it keeps your MacBook\u2019s fans completely silent.",
         "last_lang": "Swift",
         "last_forks": 361
       },
@@ -1745,7 +1746,7 @@
       {
         "url_path": "langchain-ai/langgraph",
         "last_stars": 25592,
-        "last_desc": "Giving your agents a map and a memory for complex, loopy workflows. Because real-world logic isn't a straight line; it’s a state machine.",
+        "last_desc": "Giving your agents a map and a memory for complex, loopy workflows. Because real-world logic isn't a straight line; it\u2019s a state machine.",
         "last_lang": "Python",
         "last_forks": 4452
       },
@@ -1773,7 +1774,7 @@
       {
         "url_path": "pydantic/pydantic-ai",
         "last_stars": 15244,
-        "last_desc": "Agentic logic for developers who actually care about type-safety. Strict validation meets loose AI dreams—the "Senior Dev" of agent frameworks.",
+        "last_desc": "Agentic logic for developers who actually care about type-safety. Strict validation meets loose AI dreams\u2014the \"Senior Dev\" of agent frameworks.",
         "last_lang": "Python",
         "last_forks": 1717
       },
@@ -1948,7 +1949,7 @@
       {
         "url_path": "confident-ai/deepeval",
         "last_stars": 13939,
-        "last_desc": "Unit testing for LLMs because vibes-based testing isn't a real production strategy. Quantitative sanity for your qualitative prompts—don't ship without it.",
+        "last_desc": "Unit testing for LLMs because vibes-based testing isn't a real production strategy. Quantitative sanity for your qualitative prompts\u2014don't ship without it.",
         "last_lang": "Python",
         "last_forks": 1277
       },
@@ -2032,7 +2033,7 @@
       {
         "url_path": "magnitudedev/browser-agent",
         "last_stars": 3979,
-        "last_desc": "An agent that surfs the web so you don't have to deal with cookies and pop-ups. It clicks the buttons you’re too lazy to find and navigates the web like a pro.",
+        "last_desc": "An agent that surfs the web so you don't have to deal with cookies and pop-ups. It clicks the buttons you\u2019re too lazy to find and navigates the web like a pro.",
         "last_lang": "TypeScript",
         "last_forks": 217
       },
@@ -2053,7 +2054,7 @@
       {
         "url_path": "livekit/agents",
         "last_stars": 9562,
-        "last_desc": "AI that doesn't just process—it listens, speaks, and vibes with you in real-time. The heartbeat of conversational AI, built for those who find latency to be a four-letter word.",
+        "last_desc": "AI that doesn't just process\u2014it listens, speaks, and vibes with you in real-time. The heartbeat of conversational AI, built for those who find latency to be a four-letter word.",
         "last_lang": "Python",
         "last_forks": 2877
       }
