@@ -1,0 +1,10 @@
+<svg width="94" height="36" viewBox="0 0 94 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#51cf66"/>
+      <stop offset="100%" stop-color="#3a7bd5"/>
+    </linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="93" height="35" rx="7" fill="url(#g)" stroke="#1f242a"/>
+  <text x="14" y="22.0" text-anchor="start" font-family="Arial, sans-serif" font-size="22" font-weight="800" fill="#ffffff" textLength="70" lengthAdjust="spacingAndGlyphs">CoexistAI</text>
+</svg>

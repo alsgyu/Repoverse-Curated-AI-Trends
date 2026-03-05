@@ -87,6 +87,11 @@ def generate_title_badge_svg(text, accent, width=260, height=36):
     safe_text = (text or "").replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
     text_x = 14
     text_y = height / 2 + 4
+    max_text_width = max(40, width - 24)
+    estimated_text_width = len(text or "") * 12
+    length_attrs = ""
+    if estimated_text_width > max_text_width:
+        length_attrs = f' textLength="{max_text_width}" lengthAdjust="spacingAndGlyphs"'
     return f"""<svg width="{width}" height="{height}" viewBox="0 0 {width} {height}" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
@@ -95,7 +100,7 @@ def generate_title_badge_svg(text, accent, width=260, height=36):
     </linearGradient>
   </defs>
   <rect x="0.5" y="0.5" width="{width-1}" height="{height-1}" rx="7" fill="url(#g)" stroke="#1f242a"/>
-  <text x="{text_x}" y="{text_y}" text-anchor="start" font-family="Arial, sans-serif" font-size="22" font-weight="800" fill="#ffffff">{safe_text}</text>
+  <text x="{text_x}" y="{text_y}" text-anchor="start" font-family="Arial, sans-serif" font-size="22" font-weight="800" fill="#ffffff"{length_attrs}>{safe_text}</text>
 </svg>"""
 
 def language_color(name):
