@@ -5,35 +5,35 @@
     "repos": [
       {
         "url_path": "vllm-project/vllm",
-        "last_stars": 72049,
+        "last_stars": 72051,
         "last_desc": "A high-throughput and memory-efficient inference and serving engine for LLMs",
         "last_lang": "Python",
         "last_forks": 13971
       },
       {
         "url_path": "google/adk-python",
-        "last_stars": 18166,
+        "last_stars": 18167,
         "last_desc": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
         "last_lang": "Python",
         "last_forks": 3009
       },
       {
         "url_path": "sgl-project/sglang",
-        "last_stars": 24099,
+        "last_stars": 24101,
         "last_desc": "SGLang is a high-performance serving framework for large language models and multimodal models.",
         "last_lang": "Python",
-        "last_forks": 4652
+        "last_forks": 4653
       },
       {
         "url_path": "labring/FastGPT",
-        "last_stars": 27270,
+        "last_stars": 27271,
         "last_desc": "FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.",
         "last_lang": "TypeScript",
         "last_forks": 6947
       },
       {
         "url_path": "google/adk-go",
-        "last_stars": 7074,
+        "last_stars": 7075,
         "last_desc": "An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
         "last_lang": "Go",
         "last_forks": 563
@@ -222,7 +222,7 @@
       },
       {
         "url_path": "Netflix/metaflow",
-        "last_stars": 9900,
+        "last_stars": 9901,
         "last_desc": "Build, Manage and Deploy AI/ML Systems",
         "last_lang": "Python",
         "last_forks": 1114
@@ -236,7 +236,7 @@
       },
       {
         "url_path": "nottelabs/notte",
-        "last_stars": 1886,
+        "last_stars": 1887,
         "last_desc": "\ud83c\udf38 Best framework to build web agents, and deploy serverless web automation functions on reliable browser infra.",
         "last_lang": "Python",
         "last_forks": 168
@@ -348,7 +348,7 @@
       },
       {
         "url_path": "Haohao-end/LMForge-End-to-End-LLMOps-Platform-for-Multi-Model-Agents",
-        "last_stars": 617,
+        "last_stars": 616,
         "last_desc": "AI Agent Development Platform - Supports multiple models (OpenAI/DeepSeek/Wenxin/Tongyi), knowledge base management, workflow automation, and enterprise-grade security. Built with Flask + Vue3 + LangChain, featuring one-click Docker deployment.",
         "last_lang": "Python",
         "last_forks": 63
@@ -361,35 +361,35 @@
     "repos": [
       {
         "url_path": "zeroclaw-labs/zeroclaw",
-        "last_stars": 22267,
+        "last_stars": 22275,
         "last_desc": "Fast, small, and fully autonomous AI assistant infrastructure \u2014 deploy anywhere, swap anything \ud83e\udd80",
         "last_lang": "Rust",
-        "last_forks": 2944
+        "last_forks": 2945
       },
       {
         "url_path": "vercel-labs/agent-browser",
-        "last_stars": 18763,
+        "last_stars": 18767,
         "last_desc": "Browser automation CLI for AI agents",
         "last_lang": "Rust",
         "last_forks": 1098
       },
       {
         "url_path": "zai-org/Open-AutoGLM",
-        "last_stars": 23979,
+        "last_stars": 23980,
         "last_desc": "An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone",
         "last_lang": "Python",
         "last_forks": 3797
       },
       {
         "url_path": "snarktank/ralph",
-        "last_stars": 12035,
+        "last_stars": 12036,
         "last_desc": "Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete. ",
         "last_lang": "TypeScript",
         "last_forks": 1306
       },
       {
         "url_path": "Yeachan-Heo/oh-my-claudecode",
-        "last_stars": 8372,
+        "last_stars": 8378,
         "last_desc": "Teams-first Multi-agent orchestration for Claude Code",
         "last_lang": "TypeScript",
         "last_forks": 582
@@ -410,14 +410,14 @@
       },
       {
         "url_path": "ComposioHQ/agent-orchestrator",
-        "last_stars": 3619,
+        "last_stars": 3624,
         "last_desc": " Agentic orchestrator for parallel coding agents \u2014 plans tasks, spawns agents, and autonomously handles CI    fixes, merge conflicts, and code reviews.",
         "last_lang": "TypeScript",
-        "last_forks": 404
+        "last_forks": 405
       },
       {
         "url_path": "langchain-ai/langchain",
-        "last_stars": 128276,
+        "last_stars": 128277,
         "last_desc": "The agent engineering platform",
         "last_lang": "Python",
         "last_forks": 21064
@@ -431,17 +431,17 @@
       },
       {
         "url_path": "ruvnet/ruflo",
-        "last_stars": 18851,
+        "last_stars": 18854,
         "last_desc": "\ud83c\udf0a The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
         "last_lang": "TypeScript",
         "last_forks": 2096
       },
       {
         "url_path": "openai/symphony",
-        "last_stars": 2030,
+        "last_stars": 2067,
         "last_desc": "Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.",
         "last_lang": "Elixir",
-        "last_forks": 119
+        "last_forks": 120
       },
       {
         "url_path": "Fosowl/agenticSeek",
@@ -459,7 +459,7 @@
       },
       {
         "url_path": "CherryHQ/cherry-studio",
-        "last_stars": 40742,
+        "last_stars": 40744,
         "last_desc": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
         "last_lang": "TypeScript",
         "last_forks": 3760
@@ -522,10 +522,10 @@
       },
       {
         "url_path": "cft0808/edict",
-        "last_stars": 1286,
+        "last_stars": 1303,
         "last_desc": "\ud83c\udfdb\ufe0f \u4e09\u7701\u516d\u90e8\u5236 \u00b7 OpenClaw Multi-Agent Orchestration System \u2014 9 specialized AI agents with real-time dashboard, model config, and full audit trails",
         "last_lang": "Python",
-        "last_forks": 117
+        "last_forks": 118
       },
       {
         "url_path": "mastra-ai/mastra",
@@ -571,7 +571,7 @@
       },
       {
         "url_path": "elizaOS/eliza",
-        "last_stars": 17688,
+        "last_stars": 17689,
         "last_desc": "Autonomous agents for everyone",
         "last_lang": "TypeScript",
         "last_forks": 5450
@@ -613,7 +613,7 @@
       },
       {
         "url_path": "yohey-w/multi-agent-shogun",
-        "last_stars": 1020,
+        "last_stars": 1021,
         "last_desc": "Samurai-inspired multi-agent system for Claude Code. Orchestrate parallel AI tasks via tmux with shogun \u2192 karo \u2192 ashigaru hierarchy.",
         "last_lang": "Shell",
         "last_forks": 226
@@ -641,7 +641,7 @@
       },
       {
         "url_path": "microsoft/agent-framework",
-        "last_stars": 7665,
+        "last_stars": 7666,
         "last_desc": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.",
         "last_lang": "Python",
         "last_forks": 1256
@@ -690,14 +690,14 @@
       },
       {
         "url_path": "vxcontrol/pentagi",
-        "last_stars": 9054,
+        "last_stars": 9055,
         "last_desc": "\u2728 Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
         "last_lang": "Go",
-        "last_forks": 1027
+        "last_forks": 1028
       },
       {
         "url_path": "khoj-ai/khoj",
-        "last_stars": 33063,
+        "last_stars": 33066,
         "last_desc": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.",
         "last_lang": "Python",
         "last_forks": 2025
@@ -717,14 +717,14 @@
     "repos": [
       {
         "url_path": "manaflow-ai/cmux",
-        "last_stars": 4071,
+        "last_stars": 4073,
         "last_desc": "Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents",
         "last_lang": "Swift",
         "last_forks": 222
       },
       {
         "url_path": "farion1231/cc-switch",
-        "last_stars": 23791,
+        "last_stars": 23798,
         "last_desc": "A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemini CLI.",
         "last_lang": "TypeScript",
         "last_forks": 1466
@@ -741,25 +741,25 @@
         "last_stars": 2465,
         "last_desc": "\ud83c\udf83 A fast, out-of-the-box terminal built for AI coding.",
         "last_lang": "Rust",
-        "last_forks": 114
+        "last_forks": 115
       },
       {
         "url_path": "superset-sh/superset",
-        "last_stars": 4850,
+        "last_stars": 4852,
         "last_desc": "IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine",
         "last_lang": "TypeScript",
         "last_forks": 301
       },
       {
         "url_path": "can1357/oh-my-pi",
-        "last_stars": 1682,
+        "last_stars": 1683,
         "last_desc": "\u2325  AI Coding agent for the terminal \u2014 hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
         "last_lang": "TypeScript",
         "last_forks": 133
       },
       {
         "url_path": "Maciek-roboblog/Claude-Code-Usage-Monitor",
-        "last_stars": 6789,
+        "last_stars": 6790,
         "last_desc": "Real-time Claude Code usage monitor with predictions and warnings",
         "last_lang": "Python",
         "last_forks": 331
@@ -787,7 +787,7 @@
       },
       {
         "url_path": "harshkedia177/axon",
-        "last_stars": 465,
+        "last_stars": 466,
         "last_desc": "Graph-powered code intelligence engine \u2014 indexes codebases into a knowledge graph, exposed via MCP tools for AI agents and a CLI for developers.",
         "last_lang": "Python",
         "last_forks": 80
@@ -815,7 +815,7 @@
       },
       {
         "url_path": "chenhg5/cc-connect",
-        "last_stars": 361,
+        "last_stars": 362,
         "last_desc": "Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from anywhere \u2014 no public IP required for most platforms.",
         "last_lang": "Go",
         "last_forks": 35
@@ -843,7 +843,7 @@
       },
       {
         "url_path": "SaladDay/cc-switch-cli",
-        "last_stars": 776,
+        "last_stars": 775,
         "last_desc": "\u2b50\ufe0f A cross-platform CLI All-in-One assistant tool for Claude Code, Codex & Gemini CLI.",
         "last_lang": "Rust",
         "last_forks": 42
@@ -860,7 +860,7 @@
         "last_stars": 1401,
         "last_desc": "A beautiful local-first coding agent running in your terminal - built by the community for the community \u2692",
         "last_lang": "TypeScript",
-        "last_forks": 129
+        "last_forks": 130
       },
       {
         "url_path": "neiii/bridle",
@@ -962,7 +962,7 @@
       },
       {
         "url_path": "purocean/yn",
-        "last_stars": 6548,
+        "last_stars": 6549,
         "last_desc": "A highly extensible Markdown editor. Version control, AI Copilot, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, Reveal.js, plug-in, and macro replacement.",
         "last_lang": "TypeScript",
         "last_forks": 931
@@ -1087,7 +1087,7 @@
       },
       {
         "url_path": "comfyanonymous/ComfyUI",
-        "last_stars": 104882,
+        "last_stars": 104883,
         "last_desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
         "last_lang": "Python",
         "last_forks": 12023
@@ -1100,14 +1100,14 @@
     "repos": [
       {
         "url_path": "huggingface/transformers",
-        "last_stars": 157400,
+        "last_stars": 157402,
         "last_desc": "\ud83e\udd17 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
         "last_lang": "Python",
         "last_forks": 32287
       },
       {
         "url_path": "langchain-ai/langchain",
-        "last_stars": 128276,
+        "last_stars": 128277,
         "last_desc": "The agent engineering platform",
         "last_lang": "Python",
         "last_forks": 21064
