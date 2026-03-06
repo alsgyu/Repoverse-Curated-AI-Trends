@@ -276,6 +276,10 @@ def generate_markdown(projects_data, base_dir):
     # Custom accent for LLM Engines & Platforms
     if "llm_engines" in accent_by_category:
         accent_by_category["llm_engines"] = "#f25877"  # warm rose
+    # Title badge accents (can differ from section accent)
+    title_accent_by_category = dict(accent_by_category)
+    if "llm_engines" in title_accent_by_category:
+        title_accent_by_category["llm_engines"] = "#6b3d7a"  # deep purple
 
     # Build repo -> accents map to handle repos listed in multiple sections
     repo_accents = {}
@@ -293,6 +297,7 @@ def generate_markdown(projects_data, base_dir):
         title = category_data.get("title", category_key.title())
         section_emoji = extract_leading_emoji(title)
         accent = accent_by_category.get(category_key, "#4dabf7")
+        title_accent = title_accent_by_category.get(category_key, accent)
         bar_hash = hashlib.sha1(accent.encode("utf-8")).hexdigest()[:8]
         bar_filename = f"section_bar_{category_key}_{bar_hash}.png"
         bar_path = os.path.join(assets_dir, bar_filename)
@@ -358,7 +363,7 @@ def generate_markdown(projects_data, base_dir):
             
             e["svg_asset"] = f"assets/{svg_filename}"
             title_width = min(420, max(120, int(12 * len(e["name"]) + 60)))
-            title_svg = generate_title_badge_svg(e["name"], accent, width=title_width, height=38)
+            title_svg = generate_title_badge_svg(e["name"], title_accent, width=title_width, height=38)
             title_hash = hashlib.sha1(title_svg.encode("utf-8")).hexdigest()[:8]
             title_filename = f"title_{e['repo_path'].replace('/', '_')}_{category_key}_{title_hash}.svg"
             title_path = os.path.join(title_dir, title_filename)
