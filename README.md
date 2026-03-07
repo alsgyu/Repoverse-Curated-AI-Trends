@@ -1,12 +1,10 @@
 <div align="center">
   <img src="GitTrendHub/image4.jpg" alt="AI TrendHub Banner" width="400">
-
+</div>
 
 # AI TrendHub – The Pulse of Artificial Intelligence
 
 > 💡 **Specializing in AI:** This dashboard focuses exclusively on the rapidly evolving AI ecosystem, tracking the most impactful projects across engines, agents, and generative tools.
-
-</div>
 
 ---
 
@@ -21,18 +19,16 @@
 
 | # | Section | Repos | What you'll find |
 |:--:|---|:--:|---|
-| 1 | [🤖 LLM Engines & Platforms](#llm_engines) | 50 | Local and cloud LLM runtimes, inference servers, open-source model launchers |
-| 2 | [🛠️ AI Agents & Orchestration](#agents) | 50 | Autonomous agents, multi-agent orchestration, browser and tool integration |
-| 3 | [💻 AI-Powered CLI & DevTools](#cli_tools) | 50 | AI pair programming in terminal and IDE, code automation, CLI tools |
-| 4 | [🎨 Generative Art & Vision](#art_vision) | 70 | Image and video generation, diffusion models, generative AI UI and APIs |
-| 5 | [🧠 Research & Core Frameworks](#frameworks) | 70 | ML/NLP frameworks, agent platforms, research-grade core libraries |
+| 1 | [🤖 LLM Engines & Platforms](#llm_engines) | 40 | Local and cloud LLM runtimes, inference servers, open-source model launchers |
+| 2 | [🛠️ AI Agents & Orchestration](#agents) | 39 | Autonomous agents, multi-agent orchestration, browser and tool integration |
+| 3 | [💻 AI-Powered CLI & DevTools](#cli_tools) | 38 | AI pair programming in terminal and IDE, code automation, CLI tools |
+| 4 | [🎨 Generative Art & Vision](#art_vision) | 56 | Image and video generation, diffusion models, generative AI UI and APIs |
+| 5 | [🧠 Research & Core Frameworks](#frameworks) | 52 | ML/NLP frameworks, agent platforms, research-grade core libraries |
 
 **Other Sections**
-- [🤝 Community & Participation](#how-to-contribute) — How to contribute, PR guide, community
-- [🌐 AI Resource Navigator](#ai-resource-navigator) — Curated links: trends, news, tool discovery
-- [📝 Data Summary](#data-summary) — Data source and last generated timestamp
-
----
+- 6. [🤝 Community & Participation](#how-to-contribute) — How to contribute, PR guide, community
+- 7. [🌐 AI Resource Navigator](#ai-resource-navigator) — Curated links: trends, news, tool discovery
+- 8. [📝 Data Summary](#data-summary) — Data source and last generated timestamp
 
 <h2 id='llm_engines'>🤖 LLM Engines & Platforms</h2>
 <p><img src="GitTrendHub/assets/section_bar_llm_engines_5419d11c.png" alt="" width="24" height="6"> Section color</p>
@@ -420,54 +416,12 @@
   <tr>
     <td width="58%" valign="top">
       <div>
-        <a href="https://github.com/julep-ai/julep"><img src="GitTrendHub/assets/title_badges/title_julep-ai_julep_llm_engines_9d44cf41.svg" alt="julep" height="38"></a>
-      </div>
-      <p style="line-height: 1.5;">Deploy serverless AI workflows at scale. Firebase for AI<br>agents<br>&nbsp;<br>&nbsp;</p>
-    </td>
-    <td width="42%" valign="middle" align="center">
-      <a href="https://github.com/julep-ai/julep"><img src="GitTrendHub/assets/julep-ai_julep_llm_engines.svg" alt="julep stats" width="400"></a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="right">
-      <a href="#llm_engines"><kbd>🤖 Back to Section</kbd></a> · <a href="#contents"><kbd>📑 Contents</kbd></a>
-    </td>
-  </tr>
-</table>
-<div style="height: 16px;"></div>
-
-
-<table width="100%" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="58%" valign="top">
-      <div>
         <a href="https://github.com/Zipstack/unstract"><img src="GitTrendHub/assets/title_badges/title_Zipstack_unstract_llm_engines_147cf05a.svg" alt="unstract" height="38"></a>
       </div>
       <p style="line-height: 1.5;">LLM-Driven Extraction of Unstructured Data — Built for API<br>Deployments & ETL Pipeline Workflows<br>&nbsp;<br>&nbsp;</p>
     </td>
     <td width="42%" valign="middle" align="center">
       <a href="https://github.com/Zipstack/unstract"><img src="GitTrendHub/assets/Zipstack_unstract_llm_engines.svg" alt="unstract stats" width="400"></a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="right">
-      <a href="#llm_engines"><kbd>🤖 Back to Section</kbd></a> · <a href="#contents"><kbd>📑 Contents</kbd></a>
-    </td>
-  </tr>
-</table>
-<div style="height: 16px;"></div>
-
-
-<table width="100%" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="58%" valign="top">
-      <div>
-        <a href="https://github.com/PacktPublishing/LLM-Engineers-Handbook"><img src="GitTrendHub/assets/title_badges/title_PacktPublishing_LLM-Engineers-Handbook_llm_engines_7e55412e.svg" alt="LLM-Engineers-Handbook" height="38"></a>
-      </div>
-      <p style="line-height: 1.5;">The LLM's practical guide: From the fundamentals to<br>deploying advanced LLM and RAG apps to AWS using LLMOps best<br>practices<br>&nbsp;</p>
-    </td>
-    <td width="42%" valign="middle" align="center">
-      <a href="https://github.com/PacktPublishing/LLM-Engineers-Handbook"><img src="GitTrendHub/assets/PacktPublishing_LLM-Engineers-Handbook_llm_engines.svg" alt="LLM-Engineers-Handbook stats" width="400"></a>
     </td>
   </tr>
   <tr>
@@ -567,27 +521,6 @@
   <tr>
     <td width="58%" valign="top">
       <div>
-        <a href="https://github.com/Intelligent-Internet/ii-agent"><img src="GitTrendHub/assets/title_badges/title_Intelligent-Internet_ii-agent_llm_engines_dcc1b1e8.svg" alt="ii-agent" height="38"></a>
-      </div>
-      <p style="line-height: 1.5;">II-Agent: a new open-source framework to build and deploy<br>intelligent agents<br>&nbsp;<br>&nbsp;</p>
-    </td>
-    <td width="42%" valign="middle" align="center">
-      <a href="https://github.com/Intelligent-Internet/ii-agent"><img src="GitTrendHub/assets/Intelligent-Internet_ii-agent_llm_engines.svg" alt="ii-agent stats" width="400"></a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="right">
-      <a href="#llm_engines"><kbd>🤖 Back to Section</kbd></a> · <a href="#contents"><kbd>📑 Contents</kbd></a>
-    </td>
-  </tr>
-</table>
-<div style="height: 16px;"></div>
-
-
-<table width="100%" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="58%" valign="top">
-      <div>
         <a href="https://github.com/vllm-project/llm-compressor"><img src="GitTrendHub/assets/title_badges/title_vllm-project_llm-compressor_llm_engines_f3c9387e.svg" alt="llm-compressor" height="38"></a>
       </div>
       <p style="line-height: 1.5;">Transformers-compatible library for applying various<br>compression algorithms to LLMs for optimized deployment with<br>vLLM<br>&nbsp;</p>
@@ -615,27 +548,6 @@
     </td>
     <td width="42%" valign="middle" align="center">
       <a href="https://github.com/michaelfeil/infinity"><img src="GitTrendHub/assets/michaelfeil_infinity_llm_engines.svg" alt="infinity stats" width="400"></a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="right">
-      <a href="#llm_engines"><kbd>🤖 Back to Section</kbd></a> · <a href="#contents"><kbd>📑 Contents</kbd></a>
-    </td>
-  </tr>
-</table>
-<div style="height: 16px;"></div>
-
-
-<table width="100%" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="58%" valign="top">
-      <div>
-        <a href="https://github.com/OpenMind/OM1"><img src="GitTrendHub/assets/title_badges/title_OpenMind_OM1_llm_engines_6a74ad1f.svg" alt="OM1" height="38"></a>
-      </div>
-      <p style="line-height: 1.5;">The open-source answer to autonomous general-purpose agents.<br>Raw, unbridled power for those who want to build the<br>everything agent.<br>&nbsp;</p>
-    </td>
-    <td width="42%" valign="middle" align="center">
-      <a href="https://github.com/OpenMind/OM1"><img src="GitTrendHub/assets/OpenMind_OM1_llm_engines.svg" alt="OM1 stats" width="400"></a>
     </td>
   </tr>
   <tr>
@@ -756,54 +668,12 @@
   <tr>
     <td width="58%" valign="top">
       <div>
-        <a href="https://github.com/nottelabs/notte"><img src="GitTrendHub/assets/title_badges/title_nottelabs_notte_llm_engines_7fc46f0c.svg" alt="notte" height="38"></a>
-      </div>
-      <p style="line-height: 1.5;">🌸 Best framework to build web agents, and deploy serverless<br>web automation functions on reliable browser infra.<br>&nbsp;<br>&nbsp;</p>
-    </td>
-    <td width="42%" valign="middle" align="center">
-      <a href="https://github.com/nottelabs/notte"><img src="GitTrendHub/assets/nottelabs_notte_llm_engines.svg" alt="notte stats" width="400"></a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="right">
-      <a href="#llm_engines"><kbd>🤖 Back to Section</kbd></a> · <a href="#contents"><kbd>📑 Contents</kbd></a>
-    </td>
-  </tr>
-</table>
-<div style="height: 16px;"></div>
-
-
-<table width="100%" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="58%" valign="top">
-      <div>
         <a href="https://github.com/google/adk-java"><img src="GitTrendHub/assets/title_badges/title_google_adk-java_llm_engines_8b704754.svg" alt="adk-java" height="38"></a>
       </div>
       <p style="line-height: 1.5;">An open-source, code-first Java toolkit for building,<br>evaluating, and deploying sophisticated AI agents with<br>flexibility and control.<br>&nbsp;</p>
     </td>
     <td width="42%" valign="middle" align="center">
       <a href="https://github.com/google/adk-java"><img src="GitTrendHub/assets/google_adk-java_llm_engines.svg" alt="adk-java stats" width="400"></a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="right">
-      <a href="#llm_engines"><kbd>🤖 Back to Section</kbd></a> · <a href="#contents"><kbd>📑 Contents</kbd></a>
-    </td>
-  </tr>
-</table>
-<div style="height: 16px;"></div>
-
-
-<table width="100%" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="58%" valign="top">
-      <div>
-        <a href="https://github.com/BlackSnufkin/LitterBox"><img src="GitTrendHub/assets/title_badges/title_BlackSnufkin_LitterBox_llm_engines_0d040400.svg" alt="LitterBox" height="38"></a>
-      </div>
-      <p style="line-height: 1.5;">A secure sandbox environment for malware developers and red<br>teamers to test payloads against detection mechanisms before<br>deployment. Integrates with LLM agents via MCP for enhan...<br>&nbsp;</p>
-    </td>
-    <td width="42%" valign="middle" align="center">
-      <a href="https://github.com/BlackSnufkin/LitterBox"><img src="GitTrendHub/assets/BlackSnufkin_LitterBox_llm_engines.svg" alt="LitterBox stats" width="400"></a>
     </td>
   </tr>
   <tr>
@@ -882,54 +752,12 @@
   <tr>
     <td width="58%" valign="top">
       <div>
-        <a href="https://github.com/docker/compose-for-agents"><img src="GitTrendHub/assets/title_badges/title_docker_compose-for-agents_llm_engines_a1b05229.svg" alt="compose-for-agents" height="38"></a>
-      </div>
-      <p style="line-height: 1.5;">Build and run AI agents using Docker Compose. A collection<br>of ready-to-use examples for orchestrating open-source LLMs,<br>tools, and agent runtimes.<br>&nbsp;</p>
-    </td>
-    <td width="42%" valign="middle" align="center">
-      <a href="https://github.com/docker/compose-for-agents"><img src="GitTrendHub/assets/docker_compose-for-agents_llm_engines.svg" alt="compose-for-agents stats" width="400"></a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="right">
-      <a href="#llm_engines"><kbd>🤖 Back to Section</kbd></a> · <a href="#contents"><kbd>📑 Contents</kbd></a>
-    </td>
-  </tr>
-</table>
-<div style="height: 16px;"></div>
-
-
-<table width="100%" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="58%" valign="top">
-      <div>
         <a href="https://github.com/xpander-ai/xpander.ai"><img src="GitTrendHub/assets/title_badges/title_xpander-ai_xpander.ai_llm_engines_23ffb542.svg" alt="xpander.ai" height="38"></a>
       </div>
       <p style="line-height: 1.5;">xpander.ai is the runtime and control plane to build, run,<br>and ship reliable AI agents fast and anywhere<br>&nbsp;<br>&nbsp;</p>
     </td>
     <td width="42%" valign="middle" align="center">
       <a href="https://github.com/xpander-ai/xpander.ai"><img src="GitTrendHub/assets/xpander-ai_xpander.ai_llm_engines.svg" alt="xpander.ai stats" width="400"></a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="right">
-      <a href="#llm_engines"><kbd>🤖 Back to Section</kbd></a> · <a href="#contents"><kbd>📑 Contents</kbd></a>
-    </td>
-  </tr>
-</table>
-<div style="height: 16px;"></div>
-
-
-<table width="100%" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="58%" valign="top">
-      <div>
-        <a href="https://github.com/kossakovsky/n8n-install"><img src="GitTrendHub/assets/title_badges/title_kossakovsky_n8n-install_llm_engines_d1db94e1.svg" alt="n8n-install" height="38"></a>
-      </div>
-      <p style="line-height: 1.5;">🚀 Self-hosted AI automation platform. Deploy n8n, Ollama,<br>Flowise, RAG, Supabase & 30+ tools with one command. Auto<br>HTTPS. Free Zapier/Make alternative.<br>&nbsp;</p>
-    </td>
-    <td width="42%" valign="middle" align="center">
-      <a href="https://github.com/kossakovsky/n8n-install"><img src="GitTrendHub/assets/kossakovsky_n8n-install_llm_engines.svg" alt="n8n-install stats" width="400"></a>
     </td>
   </tr>
   <tr>
@@ -972,48 +800,6 @@
     </td>
     <td width="42%" valign="middle" align="center">
       <a href="https://github.com/tile-ai/TileRT"><img src="GitTrendHub/assets/tile-ai_TileRT_llm_engines.svg" alt="TileRT stats" width="400"></a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="right">
-      <a href="#llm_engines"><kbd>🤖 Back to Section</kbd></a> · <a href="#contents"><kbd>📑 Contents</kbd></a>
-    </td>
-  </tr>
-</table>
-<div style="height: 16px;"></div>
-
-
-<table width="100%" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="58%" valign="top">
-      <div>
-        <a href="https://github.com/Haohao-end/LMForge-End-to-End-LLMOps-Platform-for-Multi-Model-Agents"><img src="GitTrendHub/assets/title_badges/title_Haohao-end_LMForge-End-to-End-LLMOps-Platform-for-Multi-Model-Agents_llm_engines_a728dbf4.svg" alt="LMForge-End-to-End-LLMOps-Platform-for-Multi-Model-Agents" height="38"></a>
-      </div>
-      <p style="line-height: 1.5;">AI Agent Development Platform - Supports multiple models<br>(OpenAI/DeepSeek/Wenxin/Tongyi), knowledge base management,<br>workflow automation, and enterprise-grade security. Built<br>wi...</p>
-    </td>
-    <td width="42%" valign="middle" align="center">
-      <a href="https://github.com/Haohao-end/LMForge-End-to-End-LLMOps-Platform-for-Multi-Model-Agents"><img src="GitTrendHub/assets/Haohao-end_LMForge-End-to-End-LLMOps-Platform-for-Multi-Model-Agents_llm_engines.svg" alt="LMForge-End-to-End-LLMOps-Platform-for-Multi-Model-Agents stats" width="400"></a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="right">
-      <a href="#llm_engines"><kbd>🤖 Back to Section</kbd></a> · <a href="#contents"><kbd>📑 Contents</kbd></a>
-    </td>
-  </tr>
-</table>
-<div style="height: 16px;"></div>
-
-
-<table width="100%" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="58%" valign="top">
-      <div>
-        <a href="https://github.com/alirezarezvani/claude-code-skill-factory"><img src="GitTrendHub/assets/title_badges/title_alirezarezvani_claude-code-skill-factory_llm_engines_1fe1c729.svg" alt="claude-code-skill-factory" height="38"></a>
-      </div>
-      <p style="line-height: 1.5;">Claude Code Skill Factory — A powerful open-source toolkit<br>for building and deploying production-ready Claude Skills,<br>Code Agents, custom Slash Commands, and LLM Prompts at<br>scal...</p>
-    </td>
-    <td width="42%" valign="middle" align="center">
-      <a href="https://github.com/alirezarezvani/claude-code-skill-factory"><img src="GitTrendHub/assets/alirezarezvani_claude-code-skill-factory_llm_engines.svg" alt="claude-code-skill-factory stats" width="400"></a>
     </td>
   </tr>
   <tr>
@@ -1389,12 +1175,12 @@
   <tr>
     <td width="58%" valign="top">
       <div>
-        <a href="https://github.com/vercel-labs/agent-browser"><img src="GitTrendHub/assets/title_badges/title_vercel-labs_agent-browser_agents_2ee72bdd.svg" alt="agent-browser" height="38"></a>
+        <a href="https://github.com/openai/openai-agents-python"><img src="GitTrendHub/assets/title_badges/title_openai_openai-agents-python_agents_ab041301.svg" alt="openai-agents-python" height="38"></a>
       </div>
-      <p style="line-height: 1.5;">Giving your AI eyes and fingers to navigate the wild, open<br>web. Automating the internet one click at a time, no API<br>required.<br>&nbsp;</p>
+      <p style="line-height: 1.5;">A lightweight, powerful framework for multi-agent workflows<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
     </td>
     <td width="42%" valign="middle" align="center">
-      <a href="https://github.com/vercel-labs/agent-browser"><img src="GitTrendHub/assets/vercel-labs_agent-browser_agents.svg" alt="agent-browser stats" width="400"></a>
+      <a href="https://github.com/openai/openai-agents-python"><img src="GitTrendHub/assets/openai_openai-agents-python_agents.svg" alt="openai-agents-python stats" width="400"></a>
     </td>
   </tr>
   <tr>
@@ -1410,12 +1196,12 @@
   <tr>
     <td width="58%" valign="top">
       <div>
-        <a href="https://github.com/openai/openai-agents-python"><img src="GitTrendHub/assets/title_badges/title_openai_openai-agents-python_agents_ab041301.svg" alt="openai-agents-python" height="38"></a>
+        <a href="https://github.com/vercel-labs/agent-browser"><img src="GitTrendHub/assets/title_badges/title_vercel-labs_agent-browser_agents_2ee72bdd.svg" alt="agent-browser" height="38"></a>
       </div>
-      <p style="line-height: 1.5;">A lightweight, powerful framework for multi-agent workflows<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
+      <p style="line-height: 1.5;">Giving your AI eyes and fingers to navigate the wild, open<br>web. Automating the internet one click at a time, no API<br>required.<br>&nbsp;</p>
     </td>
     <td width="42%" valign="middle" align="center">
-      <a href="https://github.com/openai/openai-agents-python"><img src="GitTrendHub/assets/openai_openai-agents-python_agents.svg" alt="openai-agents-python stats" width="400"></a>
+      <a href="https://github.com/vercel-labs/agent-browser"><img src="GitTrendHub/assets/vercel-labs_agent-browser_agents.svg" alt="agent-browser stats" width="400"></a>
     </td>
   </tr>
   <tr>
@@ -1830,12 +1616,12 @@
   <tr>
     <td width="58%" valign="top">
       <div>
-        <a href="https://github.com/ComposioHQ/agent-orchestrator"><img src="GitTrendHub/assets/title_badges/title_ComposioHQ_agent-orchestrator_agents_3ebdd3c3.svg" alt="agent-orchestrator" height="38"></a>
+        <a href="https://github.com/ruc-datalab/DeepAnalyze"><img src="GitTrendHub/assets/title_badges/title_ruc-datalab_DeepAnalyze_agents_0c63b43c.svg" alt="DeepAnalyze" height="38"></a>
       </div>
-      <p style="line-height: 1.5;">Agentic orchestrator for parallel coding agents — plans<br>tasks, spawns agents, and autonomously handles CI fixes,<br>merge conflicts, and code reviews.<br>&nbsp;</p>
+      <p style="line-height: 1.5;">DeepAnalyze is the first agentic LLM for autonomous data<br>science. 🎈你的AI数据分析师，自动分析大量数据，一键生成专业分析报告！<br>&nbsp;<br>&nbsp;</p>
     </td>
     <td width="42%" valign="middle" align="center">
-      <a href="https://github.com/ComposioHQ/agent-orchestrator"><img src="GitTrendHub/assets/ComposioHQ_agent-orchestrator_agents.svg" alt="agent-orchestrator stats" width="400"></a>
+      <a href="https://github.com/ruc-datalab/DeepAnalyze"><img src="GitTrendHub/assets/ruc-datalab_DeepAnalyze_agents.svg" alt="DeepAnalyze stats" width="400"></a>
     </td>
   </tr>
   <tr>
@@ -1851,12 +1637,12 @@
   <tr>
     <td width="58%" valign="top">
       <div>
-        <a href="https://github.com/ruc-datalab/DeepAnalyze"><img src="GitTrendHub/assets/title_badges/title_ruc-datalab_DeepAnalyze_agents_0c63b43c.svg" alt="DeepAnalyze" height="38"></a>
+        <a href="https://github.com/ComposioHQ/agent-orchestrator"><img src="GitTrendHub/assets/title_badges/title_ComposioHQ_agent-orchestrator_agents_3ebdd3c3.svg" alt="agent-orchestrator" height="38"></a>
       </div>
-      <p style="line-height: 1.5;">DeepAnalyze is the first agentic LLM for autonomous data<br>science. 🎈你的AI数据分析师，自动分析大量数据，一键生成专业分析报告！<br>&nbsp;<br>&nbsp;</p>
+      <p style="line-height: 1.5;">Agentic orchestrator for parallel coding agents — plans<br>tasks, spawns agents, and autonomously handles CI fixes,<br>merge conflicts, and code reviews.<br>&nbsp;</p>
     </td>
     <td width="42%" valign="middle" align="center">
-      <a href="https://github.com/ruc-datalab/DeepAnalyze"><img src="GitTrendHub/assets/ruc-datalab_DeepAnalyze_agents.svg" alt="DeepAnalyze stats" width="400"></a>
+      <a href="https://github.com/ComposioHQ/agent-orchestrator"><img src="GitTrendHub/assets/ComposioHQ_agent-orchestrator_agents.svg" alt="agent-orchestrator stats" width="400"></a>
     </td>
   </tr>
   <tr>
@@ -1893,243 +1679,12 @@
   <tr>
     <td width="58%" valign="top">
       <div>
-        <a href="https://github.com/michaelshimeles/ralphy"><img src="GitTrendHub/assets/title_badges/title_michaelshimeles_ralphy_agents_084a0eb2.svg" alt="ralphy" height="38"></a>
-      </div>
-      <p style="line-height: 1.5;">My Ralph Wiggum setup, an autonomous bash script that runs<br>Claude Code, Codex, OpenCode, Cursor agent, Qwen & Droid in<br>a loop until your PRD is complete.<br>&nbsp;</p>
-    </td>
-    <td width="42%" valign="middle" align="center">
-      <a href="https://github.com/michaelshimeles/ralphy"><img src="GitTrendHub/assets/michaelshimeles_ralphy_agents.svg" alt="ralphy stats" width="400"></a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="right">
-      <a href="#agents"><kbd>🛠️ Back to Section</kbd></a> · <a href="#contents"><kbd>📑 Contents</kbd></a>
-    </td>
-  </tr>
-</table>
-<div style="height: 16px;"></div>
-
-
-<table width="100%" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="58%" valign="top">
-      <div>
         <a href="https://github.com/openai/symphony"><img src="GitTrendHub/assets/title_badges/title_openai_symphony_agents_5a3766dd.svg" alt="symphony" height="38"></a>
       </div>
       <p style="line-height: 1.5;">Symphony turns project work into isolated, autonomous<br>implementation runs, allowing teams to manage work instead<br>of supervising coding agents.<br>&nbsp;</p>
     </td>
     <td width="42%" valign="middle" align="center">
       <a href="https://github.com/openai/symphony"><img src="GitTrendHub/assets/openai_symphony_agents.svg" alt="symphony stats" width="400"></a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="right">
-      <a href="#agents"><kbd>🛠️ Back to Section</kbd></a> · <a href="#contents"><kbd>📑 Contents</kbd></a>
-    </td>
-  </tr>
-</table>
-<div style="height: 16px;"></div>
-
-
-<table width="100%" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="58%" valign="top">
-      <div>
-        <a href="https://github.com/abhi1693/openclaw-mission-control"><img src="GitTrendHub/assets/title_badges/title_abhi1693_openclaw-mission-control_agents_c46a4fa6.svg" alt="openclaw-mission-control" height="38"></a>
-      </div>
-      <p style="line-height: 1.5;">AI Agent Orchestration Dashboard - Manage AI agents, assign<br>tasks, and coordinate multi-agent collaboration via OpenClaw<br>Gateway.<br>&nbsp;</p>
-    </td>
-    <td width="42%" valign="middle" align="center">
-      <a href="https://github.com/abhi1693/openclaw-mission-control"><img src="GitTrendHub/assets/abhi1693_openclaw-mission-control_agents.svg" alt="openclaw-mission-control stats" width="400"></a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="right">
-      <a href="#agents"><kbd>🛠️ Back to Section</kbd></a> · <a href="#contents"><kbd>📑 Contents</kbd></a>
-    </td>
-  </tr>
-</table>
-<div style="height: 16px;"></div>
-
-
-<table width="100%" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="58%" valign="top">
-      <div>
-        <a href="https://github.com/samugit83/redamon"><img src="GitTrendHub/assets/title_badges/title_samugit83_redamon_agents_ceac24a6.svg" alt="redamon" height="38"></a>
-      </div>
-      <p style="line-height: 1.5;">An AI-powered agentic red team framework that automates<br>offensive security operations, from reconnaissance to<br>exploitation to post-exploitation, with zero human<br>intervention.</p>
-    </td>
-    <td width="42%" valign="middle" align="center">
-      <a href="https://github.com/samugit83/redamon"><img src="GitTrendHub/assets/samugit83_redamon_agents.svg" alt="redamon stats" width="400"></a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="right">
-      <a href="#agents"><kbd>🛠️ Back to Section</kbd></a> · <a href="#contents"><kbd>📑 Contents</kbd></a>
-    </td>
-  </tr>
-</table>
-<div style="height: 16px;"></div>
-
-
-<table width="100%" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="58%" valign="top">
-      <div>
-        <a href="https://github.com/cft0808/edict"><img src="GitTrendHub/assets/title_badges/title_cft0808_edict_agents_45695725.svg" alt="edict" height="38"></a>
-      </div>
-      <p style="line-height: 1.5;">🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9<br>specialized AI agents with real-time dashboard, model<br>config, and full audit trails<br>&nbsp;</p>
-    </td>
-    <td width="42%" valign="middle" align="center">
-      <a href="https://github.com/cft0808/edict"><img src="GitTrendHub/assets/cft0808_edict_agents.svg" alt="edict stats" width="400"></a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="right">
-      <a href="#agents"><kbd>🛠️ Back to Section</kbd></a> · <a href="#contents"><kbd>📑 Contents</kbd></a>
-    </td>
-  </tr>
-</table>
-<div style="height: 16px;"></div>
-
-
-<table width="100%" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="58%" valign="top">
-      <div>
-        <a href="https://github.com/crshdn/mission-control"><img src="GitTrendHub/assets/title_badges/title_crshdn_mission-control_agents_22d7d1a2.svg" alt="mission-control" height="38"></a>
-      </div>
-      <p style="line-height: 1.5;">AI Agent Orchestration Dashboard - Manage AI agents, assign<br>tasks, and coordinate multi-agent collaboration via OpenClaw<br>Gateway.<br>&nbsp;</p>
-    </td>
-    <td width="42%" valign="middle" align="center">
-      <a href="https://github.com/crshdn/mission-control"><img src="GitTrendHub/assets/crshdn_mission-control_agents.svg" alt="mission-control stats" width="400"></a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="right">
-      <a href="#agents"><kbd>🛠️ Back to Section</kbd></a> · <a href="#contents"><kbd>📑 Contents</kbd></a>
-    </td>
-  </tr>
-</table>
-<div style="height: 16px;"></div>
-
-
-<table width="100%" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="58%" valign="top">
-      <div>
-        <a href="https://github.com/yohey-w/multi-agent-shogun"><img src="GitTrendHub/assets/title_badges/title_yohey-w_multi-agent-shogun_agents_85edcd32.svg" alt="multi-agent-shogun" height="38"></a>
-      </div>
-      <p style="line-height: 1.5;">Samurai-inspired multi-agent system for Claude Code.<br>Orchestrate parallel AI tasks via tmux with shogun → karo →<br>ashigaru hierarchy.<br>&nbsp;</p>
-    </td>
-    <td width="42%" valign="middle" align="center">
-      <a href="https://github.com/yohey-w/multi-agent-shogun"><img src="GitTrendHub/assets/yohey-w_multi-agent-shogun_agents.svg" alt="multi-agent-shogun stats" width="400"></a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="right">
-      <a href="#agents"><kbd>🛠️ Back to Section</kbd></a> · <a href="#contents"><kbd>📑 Contents</kbd></a>
-    </td>
-  </tr>
-</table>
-<div style="height: 16px;"></div>
-
-
-<table width="100%" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="58%" valign="top">
-      <div>
-        <a href="https://github.com/deanpeters/Product-Manager-Skills"><img src="GitTrendHub/assets/title_badges/title_deanpeters_Product-Manager-Skills_agents_56254155.svg" alt="Product-Manager-Skills" height="38"></a>
-      </div>
-      <p style="line-height: 1.5;">Product Management skills framework built on battle-tested<br>methods for Claude Code, Cowork, Codex, and AI agents.<br>&nbsp;<br>&nbsp;</p>
-    </td>
-    <td width="42%" valign="middle" align="center">
-      <a href="https://github.com/deanpeters/Product-Manager-Skills"><img src="GitTrendHub/assets/deanpeters_Product-Manager-Skills_agents.svg" alt="Product-Manager-Skills stats" width="400"></a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="right">
-      <a href="#agents"><kbd>🛠️ Back to Section</kbd></a> · <a href="#contents"><kbd>📑 Contents</kbd></a>
-    </td>
-  </tr>
-</table>
-<div style="height: 16px;"></div>
-
-
-<table width="100%" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="58%" valign="top">
-      <div>
-        <a href="https://github.com/stephengpope/thepopebot"><img src="GitTrendHub/assets/title_badges/title_stephengpope_thepopebot_agents_2741bafa.svg" alt="thepopebot" height="38"></a>
-      </div>
-      <p style="line-height: 1.5;">The Pope Bot is an autonomous AI agent that you can<br>configure and build to do just about anything you want, all<br>day, everyday, 24/7.<br>&nbsp;</p>
-    </td>
-    <td width="42%" valign="middle" align="center">
-      <a href="https://github.com/stephengpope/thepopebot"><img src="GitTrendHub/assets/stephengpope_thepopebot_agents.svg" alt="thepopebot stats" width="400"></a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="right">
-      <a href="#agents"><kbd>🛠️ Back to Section</kbd></a> · <a href="#contents"><kbd>📑 Contents</kbd></a>
-    </td>
-  </tr>
-</table>
-<div style="height: 16px;"></div>
-
-
-<table width="100%" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="58%" valign="top">
-      <div>
-        <a href="https://github.com/openakita/openakita"><img src="GitTrendHub/assets/title_badges/title_openakita_openakita_agents_340177c9.svg" alt="openakita" height="38"></a>
-      </div>
-      <p style="line-height: 1.5;">An open-source AI assistant framework with skills and agent<br>architecture<br>&nbsp;<br>&nbsp;</p>
-    </td>
-    <td width="42%" valign="middle" align="center">
-      <a href="https://github.com/openakita/openakita"><img src="GitTrendHub/assets/openakita_openakita_agents.svg" alt="openakita stats" width="400"></a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="right">
-      <a href="#agents"><kbd>🛠️ Back to Section</kbd></a> · <a href="#contents"><kbd>📑 Contents</kbd></a>
-    </td>
-  </tr>
-</table>
-<div style="height: 16px;"></div>
-
-
-<table width="100%" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="58%" valign="top">
-      <div>
-        <a href="https://github.com/ygwyg/MAHORAGA"><img src="GitTrendHub/assets/title_badges/title_ygwyg_MAHORAGA_agents_61b07b79.svg" alt="MAHORAGA" height="38"></a>
-      </div>
-      <p style="line-height: 1.5;">autonomous trading agent powered by social sentiment<br>analysis and ai that learns, grows, and adapts<br>&nbsp;<br>&nbsp;</p>
-    </td>
-    <td width="42%" valign="middle" align="center">
-      <a href="https://github.com/ygwyg/MAHORAGA"><img src="GitTrendHub/assets/ygwyg_MAHORAGA_agents.svg" alt="MAHORAGA stats" width="400"></a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="right">
-      <a href="#agents"><kbd>🛠️ Back to Section</kbd></a> · <a href="#contents"><kbd>📑 Contents</kbd></a>
-    </td>
-  </tr>
-</table>
-<div style="height: 16px;"></div>
-
-
-<table width="100%" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="58%" valign="top">
-      <div>
-        <a href="https://github.com/jayminwest/overstory"><img src="GitTrendHub/assets/title_badges/title_jayminwest_overstory_agents_26fcbf1d.svg" alt="overstory" height="38"></a>
-      </div>
-      <p style="line-height: 1.5;">Multi-agent orchestration for AI coding agents — pluggable<br>runtime adapters for Claude Code, Pi, and more<br>&nbsp;<br>&nbsp;</p>
-    </td>
-    <td width="42%" valign="middle" align="center">
-      <a href="https://github.com/jayminwest/overstory"><img src="GitTrendHub/assets/jayminwest_overstory_agents.svg" alt="overstory stats" width="400"></a>
     </td>
   </tr>
   <tr>
@@ -2358,27 +1913,6 @@
   <tr>
     <td width="58%" valign="top">
       <div>
-        <a href="https://github.com/jamesmurdza/awesome-ai-devtools"><img src="GitTrendHub/assets/title_badges/title_jamesmurdza_awesome-ai-devtools_cli_tools_97c84ce2.svg" alt="awesome-ai-devtools" height="38"></a>
-      </div>
-      <p style="line-height: 1.5;">The only bookmarks folder you’ll ever need for building the<br>future. A curated map through the chaotic, fast-moving world<br>of AI tooling.<br>&nbsp;</p>
-    </td>
-    <td width="42%" valign="middle" align="center">
-      <a href="https://github.com/jamesmurdza/awesome-ai-devtools"><img src="GitTrendHub/assets/jamesmurdza_awesome-ai-devtools_cli_tools.svg" alt="awesome-ai-devtools stats" width="400"></a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="right">
-      <a href="#cli_tools"><kbd>💻 Back to Section</kbd></a> · <a href="#contents"><kbd>📑 Contents</kbd></a>
-    </td>
-  </tr>
-</table>
-<div style="height: 16px;"></div>
-
-
-<table width="100%" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="58%" valign="top">
-      <div>
         <a href="https://github.com/smallcloudai/refact"><img src="GitTrendHub/assets/title_badges/title_smallcloudai_refact_cli_tools_a8302cab.svg" alt="refact" height="38"></a>
       </div>
       <p style="line-height: 1.5;">AI Agent that handles engineering tasks end-to-end:<br>integrates with developers’ tools, plans, executes, and<br>iterates until it achieves a successful result.<br>&nbsp;</p>
@@ -2421,27 +1955,6 @@
   <tr>
     <td width="58%" valign="top">
       <div>
-        <a href="https://github.com/cirosantilli/china-dictatorship"><img src="GitTrendHub/assets/title_badges/title_cirosantilli_china-dictatorship_cli_tools_f6602f76.svg" alt="china-dictatorship" height="38"></a>
-      </div>
-      <p style="line-height: 1.5;">Documenting the digital receipts of history that some would<br>rather forget. Because the truth shouldn't have an<br>expiration date in the age of information.<br>&nbsp;</p>
-    </td>
-    <td width="42%" valign="middle" align="center">
-      <a href="https://github.com/cirosantilli/china-dictatorship"><img src="GitTrendHub/assets/cirosantilli_china-dictatorship_cli_tools.svg" alt="china-dictatorship stats" width="400"></a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="right">
-      <a href="#cli_tools"><kbd>💻 Back to Section</kbd></a> · <a href="#contents"><kbd>📑 Contents</kbd></a>
-    </td>
-  </tr>
-</table>
-<div style="height: 16px;"></div>
-
-
-<table width="100%" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="58%" valign="top">
-      <div>
         <a href="https://github.com/tw93/Kaku"><img src="GitTrendHub/assets/title_badges/title_tw93_Kaku_cli_tools_7178561e.svg" alt="Kaku" height="38"></a>
       </div>
       <p style="line-height: 1.5;">🎃 A fast, out-of-the-box terminal built for AI coding.<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
@@ -2469,27 +1982,6 @@
     </td>
     <td width="42%" valign="middle" align="center">
       <a href="https://github.com/generalaction/emdash"><img src="GitTrendHub/assets/generalaction_emdash_cli_tools.svg" alt="emdash stats" width="400"></a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="right">
-      <a href="#cli_tools"><kbd>💻 Back to Section</kbd></a> · <a href="#contents"><kbd>📑 Contents</kbd></a>
-    </td>
-  </tr>
-</table>
-<div style="height: 16px;"></div>
-
-
-<table width="100%" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="58%" valign="top">
-      <div>
-        <a href="https://github.com/yaolifeng0629/Awesome-independent-tools"><img src="GitTrendHub/assets/title_badges/title_yaolifeng0629_Awesome-independent-tools_cli_tools_747b6a9a.svg" alt="Awesome-independent-tools" height="38"></a>
-      </div>
-      <p style="line-height: 1.5;">收录独立开发、AI出海领域最新、最实用的工具与资源（Build Faster with Better Tools）<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
-    </td>
-    <td width="42%" valign="middle" align="center">
-      <a href="https://github.com/yaolifeng0629/Awesome-independent-tools"><img src="GitTrendHub/assets/yaolifeng0629_Awesome-independent-tools_cli_tools.svg" alt="Awesome-independent-tools stats" width="400"></a>
     </td>
   </tr>
   <tr>
@@ -2715,27 +2207,6 @@
   <tr>
     <td width="58%" valign="top">
       <div>
-        <a href="https://github.com/theNetworkChuck/ai-in-the-terminal"><img src="GitTrendHub/assets/title_badges/title_theNetworkChuck_ai-in-the-terminal_cli_tools_ce553264.svg" alt="ai-in-the-terminal" height="38"></a>
-      </div>
-      <p style="line-height: 1.5;">Complete companion guide for NetworkChuck's 'AI in the<br>Terminal' video - Gemini CLI, Claude Code, Codex, and<br>opencode workflows<br>&nbsp;</p>
-    </td>
-    <td width="42%" valign="middle" align="center">
-      <a href="https://github.com/theNetworkChuck/ai-in-the-terminal"><img src="GitTrendHub/assets/theNetworkChuck_ai-in-the-terminal_cli_tools.svg" alt="ai-in-the-terminal stats" width="400"></a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="right">
-      <a href="#cli_tools"><kbd>💻 Back to Section</kbd></a> · <a href="#contents"><kbd>📑 Contents</kbd></a>
-    </td>
-  </tr>
-</table>
-<div style="height: 16px;"></div>
-
-
-<table width="100%" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="58%" valign="top">
-      <div>
         <a href="https://github.com/ClickHouse/mcp-clickhouse"><img src="GitTrendHub/assets/title_badges/title_ClickHouse_mcp-clickhouse_cli_tools_65aaa392.svg" alt="mcp-clickhouse" height="38"></a>
       </div>
       <p style="line-height: 1.5;">Real-time analytics meets the Model Context Protocol for<br>instant insights. Feeding your AI the data it needs at the<br>legendary speed of ClickHouse.<br>&nbsp;</p>
@@ -2904,27 +2375,6 @@
   <tr>
     <td width="58%" valign="top">
       <div>
-        <a href="https://github.com/vinhnx/VTCode"><img src="GitTrendHub/assets/title_badges/title_vinhnx_VTCode_cli_tools_aae3064a.svg" alt="VTCode" height="38"></a>
-      </div>
-      <p style="line-height: 1.5;">VS Code, evolved for a world where agents do the heavy<br>lifting. An IDE that doesn't just highlight your code—it<br>helps write the story.<br>&nbsp;</p>
-    </td>
-    <td width="42%" valign="middle" align="center">
-      <a href="https://github.com/vinhnx/VTCode"><img src="GitTrendHub/assets/vinhnx_VTCode_cli_tools.svg" alt="VTCode stats" width="400"></a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="right">
-      <a href="#cli_tools"><kbd>💻 Back to Section</kbd></a> · <a href="#contents"><kbd>📑 Contents</kbd></a>
-    </td>
-  </tr>
-</table>
-<div style="height: 16px;"></div>
-
-
-<table width="100%" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="58%" valign="top">
-      <div>
         <a href="https://github.com/0xranx/OpenContext"><img src="GitTrendHub/assets/title_badges/title_0xranx_OpenContext_cli_tools_cb4cd0a0.svg" alt="OpenContext" height="38"></a>
       </div>
       <p style="line-height: 1.5;">A personal context store for AI agents and assistants—reuse<br>your existing coding agent CLI (Codex/Claude/OpenCode) with<br>built‑in Skills/tools and a desktop GUI to capture, searc...<br>&nbsp;</p>
@@ -2967,48 +2417,6 @@
   <tr>
     <td width="58%" valign="top">
       <div>
-        <a href="https://github.com/CelaDaniel/free-ai-resources-x"><img src="GitTrendHub/assets/title_badges/title_CelaDaniel_free-ai-resources-x_cli_tools_9c0a89e3.svg" alt="free-ai-resources-x" height="38"></a>
-      </div>
-      <p style="line-height: 1.5;">Teaching AI to adapt on the fly without the heavy-duty<br>retraining process. Personalized creativity that remembers<br>your style perfectly, every single time.<br>&nbsp;</p>
-    </td>
-    <td width="42%" valign="middle" align="center">
-      <a href="https://github.com/CelaDaniel/free-ai-resources-x"><img src="GitTrendHub/assets/CelaDaniel_free-ai-resources-x_cli_tools.svg" alt="free-ai-resources-x stats" width="400"></a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="right">
-      <a href="#cli_tools"><kbd>💻 Back to Section</kbd></a> · <a href="#contents"><kbd>📑 Contents</kbd></a>
-    </td>
-  </tr>
-</table>
-<div style="height: 16px;"></div>
-
-
-<table width="100%" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="58%" valign="top">
-      <div>
-        <a href="https://github.com/shuyu-labs/WebCode"><img src="GitTrendHub/assets/title_badges/title_shuyu-labs_WebCode_cli_tools_feb17f29.svg" alt="WebCode" height="38"></a>
-      </div>
-      <p style="line-height: 1.5;">WebCode is a browser-based AI coding platform that lets you<br>remotely run CLI assistants like Claude Code and Codex. Code<br>anywhere with just a web browser. We’re also adding an o...<br>&nbsp;</p>
-    </td>
-    <td width="42%" valign="middle" align="center">
-      <a href="https://github.com/shuyu-labs/WebCode"><img src="GitTrendHub/assets/shuyu-labs_WebCode_cli_tools.svg" alt="WebCode stats" width="400"></a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="right">
-      <a href="#cli_tools"><kbd>💻 Back to Section</kbd></a> · <a href="#contents"><kbd>📑 Contents</kbd></a>
-    </td>
-  </tr>
-</table>
-<div style="height: 16px;"></div>
-
-
-<table width="100%" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="58%" valign="top">
-      <div>
         <a href="https://github.com/chenhg5/cc-connect"><img src="GitTrendHub/assets/title_badges/title_chenhg5_cc-connect_cli_tools_229d1480.svg" alt="cc-connect" height="38"></a>
       </div>
       <p style="line-height: 1.5;">Bridge local AI coding agents (Claude Code, Cursor, Gemini<br>CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk,<br>Slack, Telegram, Discord, LINE, WeChat Work). Chat with<br>you...</p>
@@ -3030,54 +2438,12 @@
   <tr>
     <td width="58%" valign="top">
       <div>
-        <a href="https://github.com/cporter202/ai-agent-tools"><img src="GitTrendHub/assets/title_badges/title_cporter202_ai-agent-tools_cli_tools_c92768f6.svg" alt="ai-agent-tools" height="38"></a>
-      </div>
-      <p style="line-height: 1.5;">A curated collection of AI tools, utilities, and resources<br>for developers and creators<br>&nbsp;<br>&nbsp;</p>
-    </td>
-    <td width="42%" valign="middle" align="center">
-      <a href="https://github.com/cporter202/ai-agent-tools"><img src="GitTrendHub/assets/cporter202_ai-agent-tools_cli_tools.svg" alt="ai-agent-tools stats" width="400"></a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="right">
-      <a href="#cli_tools"><kbd>💻 Back to Section</kbd></a> · <a href="#contents"><kbd>📑 Contents</kbd></a>
-    </td>
-  </tr>
-</table>
-<div style="height: 16px;"></div>
-
-
-<table width="100%" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="58%" valign="top">
-      <div>
         <a href="https://github.com/nwiizo/tfmcp"><img src="GitTrendHub/assets/title_badges/title_nwiizo_tfmcp_cli_tools_11d9dff4.svg" alt="tfmcp" height="38"></a>
       </div>
       <p style="line-height: 1.5;">🌍 Terraform Model Context Protocol (MCP) Tool - An<br>experimental CLI tool that enables AI assistants to manage<br>and operate Terraform environments. Supports reading<br>Terraform conf...</p>
     </td>
     <td width="42%" valign="middle" align="center">
       <a href="https://github.com/nwiizo/tfmcp"><img src="GitTrendHub/assets/nwiizo_tfmcp_cli_tools.svg" alt="tfmcp stats" width="400"></a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="right">
-      <a href="#cli_tools"><kbd>💻 Back to Section</kbd></a> · <a href="#contents"><kbd>📑 Contents</kbd></a>
-    </td>
-  </tr>
-</table>
-<div style="height: 16px;"></div>
-
-
-<table width="100%" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="58%" valign="top">
-      <div>
-        <a href="https://github.com/inmve/awesome-ai-coding-techniques"><img src="GitTrendHub/assets/title_badges/title_inmve_awesome-ai-coding-techniques_cli_tools_1d38a0b9.svg" alt="awesome-ai-coding-techniques" height="38"></a>
-      </div>
-      <p style="line-height: 1.5;">Vector search at the speed of thought, keeping your data<br>in-memory and out of the slow lane. Because waiting for a<br>database response is so 2024.<br>&nbsp;</p>
-    </td>
-    <td width="42%" valign="middle" align="center">
-      <a href="https://github.com/inmve/awesome-ai-coding-techniques"><img src="GitTrendHub/assets/inmve_awesome-ai-coding-techniques_cli_tools.svg" alt="awesome-ai-coding-techniques stats" width="400"></a>
     </td>
   </tr>
   <tr>
@@ -3130,72 +2496,6 @@
 </table>
 <div style="height: 16px;"></div>
 
-
-<table width="100%" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="58%" valign="top">
-      <div>
-        <a href="https://github.com/awslabs/iam-policy-autopilot"><img src="GitTrendHub/assets/title_badges/title_awslabs_iam-policy-autopilot_cli_tools_382a4c2f.svg" alt="iam-policy-autopilot" height="38"></a>
-      </div>
-      <p style="line-height: 1.5;">IAM Policy Autopilot is an open source static code analysis<br>tool that helps you quickly create baseline AWS IAM policies<br>that you can refine as your application evolves. This to...<br>&nbsp;</p>
-    </td>
-    <td width="42%" valign="middle" align="center">
-      <a href="https://github.com/awslabs/iam-policy-autopilot"><img src="GitTrendHub/assets/awslabs_iam-policy-autopilot_cli_tools.svg" alt="iam-policy-autopilot stats" width="400"></a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="right">
-      <a href="#cli_tools"><kbd>💻 Back to Section</kbd></a> · <a href="#contents"><kbd>📑 Contents</kbd></a>
-    </td>
-  </tr>
-</table>
-<div style="height: 16px;"></div>
-
-
-<table width="100%" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="58%" valign="top">
-      <div>
-        <a href="https://github.com/amrit110/oli"><img src="GitTrendHub/assets/title_badges/title_amrit110_oli_cli_tools_45e0d573.svg" alt="oli" height="38"></a>
-      </div>
-      <p style="line-height: 1.5;">The AI teammate that actually reads your documentation and<br>remembers it. Solving GitHub issues while you're still<br>trying to name the branch.<br>&nbsp;</p>
-    </td>
-    <td width="42%" valign="middle" align="center">
-      <a href="https://github.com/amrit110/oli"><img src="GitTrendHub/assets/amrit110_oli_cli_tools.svg" alt="oli stats" width="400"></a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="right">
-      <a href="#cli_tools"><kbd>💻 Back to Section</kbd></a> · <a href="#contents"><kbd>📑 Contents</kbd></a>
-    </td>
-  </tr>
-</table>
-<div style="height: 16px;"></div>
-
-
-<table width="100%" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="58%" valign="top">
-      <div>
-        <a href="https://github.com/scarletkc/vexor"><img src="GitTrendHub/assets/title_badges/title_scarletkc_vexor_cli_tools_68e7159a.svg" alt="vexor" height="38"></a>
-      </div>
-      <p style="line-height: 1.5;">Vector operations made lean, mean, and incredibly easy to<br>manage. Handling your embeddings without the overhead of a<br>legacy enterprise database.<br>&nbsp;</p>
-    </td>
-    <td width="42%" valign="middle" align="center">
-      <a href="https://github.com/scarletkc/vexor"><img src="GitTrendHub/assets/scarletkc_vexor_cli_tools.svg" alt="vexor stats" width="400"></a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="right">
-      <a href="#cli_tools"><kbd>💻 Back to Section</kbd></a> · <a href="#contents"><kbd>📑 Contents</kbd></a>
-    </td>
-  </tr>
-</table>
-<div style="height: 16px;"></div>
-
-
----
-
 <h2 id='art_vision'>🎨 Generative Art & Vision</h2>
 <p><img src="GitTrendHub/assets/section_bar_art_vision_f7a2db09.png" alt="" width="24" height="6"> Section color</p>
 
@@ -3210,48 +2510,6 @@
     </td>
     <td width="42%" valign="middle" align="center">
       <a href="https://github.com/AUTOMATIC1111/stable-diffusion-webui"><img src="GitTrendHub/assets/AUTOMATIC1111_stable-diffusion-webui_art_vision.svg" alt="stable-diffusion-webui stats" width="400"></a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="right">
-      <a href="#art_vision"><kbd>🎨 Back to Section</kbd></a> · <a href="#contents"><kbd>📑 Contents</kbd></a>
-    </td>
-  </tr>
-</table>
-<div style="height: 16px;"></div>
-
-
-<table width="100%" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="58%" valign="top">
-      <div>
-        <a href="https://github.com/mudler/LocalAI"><img src="GitTrendHub/assets/title_badges/title_mudler_LocalAI_art_vision_22d5cdaa.svg" alt="LocalAI" height="38"></a>
-      </div>
-      <p style="line-height: 1.5;">:robot: The free, Open Source alternative to OpenAI, Claude<br>and others. Self-hosted and local-first. Drop-in<br>replacement, running on consumer-grade hardware. No GPU<br>required. R...</p>
-    </td>
-    <td width="42%" valign="middle" align="center">
-      <a href="https://github.com/mudler/LocalAI"><img src="GitTrendHub/assets/mudler_LocalAI_art_vision.svg" alt="LocalAI stats" width="400"></a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="right">
-      <a href="#art_vision"><kbd>🎨 Back to Section</kbd></a> · <a href="#contents"><kbd>📑 Contents</kbd></a>
-    </td>
-  </tr>
-</table>
-<div style="height: 16px;"></div>
-
-
-<table width="100%" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="58%" valign="top">
-      <div>
-        <a href="https://github.com/ShareX/ShareX"><img src="GitTrendHub/assets/title_badges/title_ShareX_ShareX_art_vision_a6fa713c.svg" alt="ShareX" height="38"></a>
-      </div>
-      <p style="line-height: 1.5;">ShareX is a free and open-source application that enables<br>users to capture or record any area of their screen with a<br>single keystroke. It also supports uploading images, text,<br>a...</p>
-    </td>
-    <td width="42%" valign="middle" align="center">
-      <a href="https://github.com/ShareX/ShareX"><img src="GitTrendHub/assets/ShareX_ShareX_art_vision.svg" alt="ShareX stats" width="400"></a>
     </td>
   </tr>
   <tr>
@@ -3288,54 +2546,12 @@
   <tr>
     <td width="58%" valign="top">
       <div>
-        <a href="https://github.com/KurtBestor/Hitomi-Downloader"><img src="GitTrendHub/assets/title_badges/title_KurtBestor_Hitomi-Downloader_art_vision_a2321cfd.svg" alt="Hitomi-Downloader" height="38"></a>
-      </div>
-      <p style="line-height: 1.5;">:cake: Desktop utility to download images/videos/music/text<br>from various websites, and more.<br>&nbsp;<br>&nbsp;</p>
-    </td>
-    <td width="42%" valign="middle" align="center">
-      <a href="https://github.com/KurtBestor/Hitomi-Downloader"><img src="GitTrendHub/assets/KurtBestor_Hitomi-Downloader_art_vision.svg" alt="Hitomi-Downloader stats" width="400"></a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="right">
-      <a href="#art_vision"><kbd>🎨 Back to Section</kbd></a> · <a href="#contents"><kbd>📑 Contents</kbd></a>
-    </td>
-  </tr>
-</table>
-<div style="height: 16px;"></div>
-
-
-<table width="100%" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="58%" valign="top">
-      <div>
         <a href="https://github.com/invoke-ai/InvokeAI"><img src="GitTrendHub/assets/title_badges/title_invoke-ai_InvokeAI_art_vision_7f763e4d.svg" alt="InvokeAI" height="38"></a>
       </div>
       <p style="line-height: 1.5;">Invoke is a leading creative engine for Stable Diffusion<br>models, empowering professionals, artists, and enthusiasts<br>to generate and create visual media using the latest<br>AI-drive...</p>
     </td>
     <td width="42%" valign="middle" align="center">
       <a href="https://github.com/invoke-ai/InvokeAI"><img src="GitTrendHub/assets/invoke-ai_InvokeAI_art_vision.svg" alt="InvokeAI stats" width="400"></a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="right">
-      <a href="#art_vision"><kbd>🎨 Back to Section</kbd></a> · <a href="#contents"><kbd>📑 Contents</kbd></a>
-    </td>
-  </tr>
-</table>
-<div style="height: 16px;"></div>
-
-
-<table width="100%" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="58%" valign="top">
-      <div>
-        <a href="https://github.com/PicoTrex/Awesome-Nano-Banana-images"><img src="GitTrendHub/assets/title_badges/title_PicoTrex_Awesome-Nano-Banana-images_art_vision_52850ff3.svg" alt="Awesome-Nano-Banana-images" height="38"></a>
-      </div>
-      <p style="line-height: 1.5;">A curated collection of fun and creative examples generated<br>with Nano Banana & Nano Banana Pro🍌, Gemini-2.5-flash-image<br>based model. We also release Nano-consistent-150K openly...<br>&nbsp;</p>
-    </td>
-    <td width="42%" valign="middle" align="center">
-      <a href="https://github.com/PicoTrex/Awesome-Nano-Banana-images"><img src="GitTrendHub/assets/PicoTrex_Awesome-Nano-Banana-images_art_vision.svg" alt="Awesome-Nano-Banana-images stats" width="400"></a>
     </td>
   </tr>
   <tr>
@@ -3603,96 +2819,12 @@
   <tr>
     <td width="58%" valign="top">
       <div>
-        <a href="https://github.com/mylxsw/aidea"><img src="GitTrendHub/assets/title_badges/title_mylxsw_aidea_art_vision_374d6465.svg" alt="aidea" height="38"></a>
-      </div>
-      <p style="line-height: 1.5;">An APP that integrates mainstream large language models and<br>image generation models, built with Flutter, with fully<br>open-source code.<br>&nbsp;</p>
-    </td>
-    <td width="42%" valign="middle" align="center">
-      <a href="https://github.com/mylxsw/aidea"><img src="GitTrendHub/assets/mylxsw_aidea_art_vision.svg" alt="aidea stats" width="400"></a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="right">
-      <a href="#art_vision"><kbd>🎨 Back to Section</kbd></a> · <a href="#contents"><kbd>📑 Contents</kbd></a>
-    </td>
-  </tr>
-</table>
-<div style="height: 16px;"></div>
-
-
-<table width="100%" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="58%" valign="top">
-      <div>
-        <a href="https://github.com/enricoros/big-AGI"><img src="GitTrendHub/assets/title_badges/title_enricoros_big-AGI_art_vision_d8bcdc58.svg" alt="big-AGI" height="38"></a>
-      </div>
-      <p style="line-height: 1.5;">AI suite powered by state-of-the-art models and providing<br>advanced AI/AGI functions. Includes AI personas, AGI<br>functions, world-class Beam multi-model chats,<br>text-to-image, voic...</p>
-    </td>
-    <td width="42%" valign="middle" align="center">
-      <a href="https://github.com/enricoros/big-AGI"><img src="GitTrendHub/assets/enricoros_big-AGI_art_vision.svg" alt="big-AGI stats" width="400"></a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="right">
-      <a href="#art_vision"><kbd>🎨 Back to Section</kbd></a> · <a href="#contents"><kbd>📑 Contents</kbd></a>
-    </td>
-  </tr>
-</table>
-<div style="height: 16px;"></div>
-
-
-<table width="100%" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="58%" valign="top">
-      <div>
         <a href="https://github.com/leejet/stable-diffusion.cpp"><img src="GitTrendHub/assets/title_badges/title_leejet_stable-diffusion.cpp_art_vision_279ebe4f.svg" alt="stable-diffusion.cpp" height="38"></a>
       </div>
       <p style="line-height: 1.5;">Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...)<br>inference in pure C/C++<br>&nbsp;<br>&nbsp;</p>
     </td>
     <td width="42%" valign="middle" align="center">
       <a href="https://github.com/leejet/stable-diffusion.cpp"><img src="GitTrendHub/assets/leejet_stable-diffusion.cpp_art_vision.svg" alt="stable-diffusion.cpp stats" width="400"></a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="right">
-      <a href="#art_vision"><kbd>🎨 Back to Section</kbd></a> · <a href="#contents"><kbd>📑 Contents</kbd></a>
-    </td>
-  </tr>
-</table>
-<div style="height: 16px;"></div>
-
-
-<table width="100%" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="58%" valign="top">
-      <div>
-        <a href="https://github.com/showlab/Awesome-Video-Diffusion"><img src="GitTrendHub/assets/title_badges/title_showlab_Awesome-Video-Diffusion_art_vision_51044855.svg" alt="Awesome-Video-Diffusion" height="38"></a>
-      </div>
-      <p style="line-height: 1.5;">Your ultimate roadmap through the chaotic world of moving<br>pixels. The only bookmark you need to keep track of the AI<br>cinema revolution.<br>&nbsp;</p>
-    </td>
-    <td width="42%" valign="middle" align="center">
-      <a href="https://github.com/showlab/Awesome-Video-Diffusion"><img src="GitTrendHub/assets/showlab_Awesome-Video-Diffusion_art_vision.svg" alt="Awesome-Video-Diffusion stats" width="400"></a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="right">
-      <a href="#art_vision"><kbd>🎨 Back to Section</kbd></a> · <a href="#contents"><kbd>📑 Contents</kbd></a>
-    </td>
-  </tr>
-</table>
-<div style="height: 16px;"></div>
-
-
-<table width="100%" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="58%" valign="top">
-      <div>
-        <a href="https://github.com/promptslab/Awesome-Prompt-Engineering"><img src="GitTrendHub/assets/title_badges/title_promptslab_Awesome-Prompt-Engineering_art_vision_819d6b8e.svg" alt="Awesome-Prompt-Engineering" height="38"></a>
-      </div>
-      <p style="line-height: 1.5;">This repository contains a hand-curated resources for Prompt<br>Engineering with a focus on Generative Pre-trained<br>Transformer (GPT), ChatGPT, PaLM etc<br>&nbsp;</p>
-    </td>
-    <td width="42%" valign="middle" align="center">
-      <a href="https://github.com/promptslab/Awesome-Prompt-Engineering"><img src="GitTrendHub/assets/promptslab_Awesome-Prompt-Engineering_art_vision.svg" alt="Awesome-Prompt-Engineering stats" width="400"></a>
     </td>
   </tr>
   <tr>
@@ -3798,27 +2930,6 @@
     </td>
     <td width="42%" valign="middle" align="center">
       <a href="https://github.com/genmoai/mochi"><img src="GitTrendHub/assets/genmoai_mochi_art_vision.svg" alt="mochi stats" width="400"></a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="right">
-      <a href="#art_vision"><kbd>🎨 Back to Section</kbd></a> · <a href="#contents"><kbd>📑 Contents</kbd></a>
-    </td>
-  </tr>
-</table>
-<div style="height: 16px;"></div>
-
-
-<table width="100%" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="58%" valign="top">
-      <div>
-        <a href="https://github.com/Hunyuan-PromptEnhancer/PromptEnhancer"><img src="GitTrendHub/assets/title_badges/title_Hunyuan-PromptEnhancer_PromptEnhancer_art_vision_0c5e6244.svg" alt="PromptEnhancer" height="38"></a>
-      </div>
-      <p style="line-height: 1.5;">PromptEnhancer is a prompt-rewriting tool, refining prompts<br>into clearer, structured versions for better image<br>generation.<br>&nbsp;</p>
-    </td>
-    <td width="42%" valign="middle" align="center">
-      <a href="https://github.com/Hunyuan-PromptEnhancer/PromptEnhancer"><img src="GitTrendHub/assets/Hunyuan-PromptEnhancer_PromptEnhancer_art_vision.svg" alt="PromptEnhancer stats" width="400"></a>
     </td>
   </tr>
   <tr>
@@ -4128,27 +3239,6 @@
   <tr>
     <td width="58%" valign="top">
       <div>
-        <a href="https://github.com/antirez/iris.c"><img src="GitTrendHub/assets/title_badges/title_antirez_iris.c_art_vision_bf6f496e.svg" alt="iris.c" height="38"></a>
-      </div>
-      <p style="line-height: 1.5;">Neural networks in raw C for the minimalist who finds Python<br>too bloated. Small enough to understand every byte, fast<br>enough to put libraries to shame.<br>&nbsp;</p>
-    </td>
-    <td width="42%" valign="middle" align="center">
-      <a href="https://github.com/antirez/iris.c"><img src="GitTrendHub/assets/antirez_iris.c_art_vision.svg" alt="iris.c stats" width="400"></a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="right">
-      <a href="#art_vision"><kbd>🎨 Back to Section</kbd></a> · <a href="#contents"><kbd>📑 Contents</kbd></a>
-    </td>
-  </tr>
-</table>
-<div style="height: 16px;"></div>
-
-
-<table width="100%" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="58%" valign="top">
-      <div>
         <a href="https://github.com/zhouxiaoka/autoclip"><img src="GitTrendHub/assets/title_badges/title_zhouxiaoka_autoclip_art_vision_a85793e7.svg" alt="autoclip" height="38"></a>
       </div>
       <p style="line-height: 1.5;">Your AI film editor that has an uncanny knack for finding<br>the viral gold in your long footage. Extracting the best<br>moments without the ego of a Hollywood director.<br>&nbsp;</p>
@@ -4317,27 +3407,6 @@
   <tr>
     <td width="58%" valign="top">
       <div>
-        <a href="https://github.com/Dreamy-rain/gemini-business2api"><img src="GitTrendHub/assets/title_badges/title_Dreamy-rain_gemini-business2api_art_vision_f63ebc6e.svg" alt="gemini-business2api" height="38"></a>
-      </div>
-      <p style="line-height: 1.5;">Breaking Gemini out of its business suit and into a<br>developer-friendly API. The bridge that lets your custom<br>tools tap into Google's biggest brain without the red tape.<br>&nbsp;</p>
-    </td>
-    <td width="42%" valign="middle" align="center">
-      <a href="https://github.com/Dreamy-rain/gemini-business2api"><img src="GitTrendHub/assets/Dreamy-rain_gemini-business2api_art_vision.svg" alt="gemini-business2api stats" width="400"></a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="right">
-      <a href="#art_vision"><kbd>🎨 Back to Section</kbd></a> · <a href="#contents"><kbd>📑 Contents</kbd></a>
-    </td>
-  </tr>
-</table>
-<div style="height: 16px;"></div>
-
-
-<table width="100%" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="58%" valign="top">
-      <div>
         <a href="https://github.com/alichherawalla/off-grid-mobile-ai"><img src="GitTrendHub/assets/title_badges/title_alichherawalla_off-grid-mobile-ai_art_vision_4cb6a81d.svg" alt="off-grid-mobile-ai" height="38"></a>
       </div>
       <p style="line-height: 1.5;">The Swiss Army Knife of Offline AI. Chat, Speak, and<br>Generate Images - Privacy First, Zero Internet. Download an<br>LLM and use it on your mobile device. No data ever leaves<br>your p...</p>
@@ -4407,48 +3476,6 @@
     </td>
     <td width="42%" valign="middle" align="center">
       <a href="https://github.com/DAVIAN-Robotics/EgoX"><img src="GitTrendHub/assets/DAVIAN-Robotics_EgoX_art_vision.svg" alt="EgoX stats" width="400"></a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="right">
-      <a href="#art_vision"><kbd>🎨 Back to Section</kbd></a> · <a href="#contents"><kbd>📑 Contents</kbd></a>
-    </td>
-  </tr>
-</table>
-<div style="height: 16px;"></div>
-
-
-<table width="100%" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="58%" valign="top">
-      <div>
-        <a href="https://github.com/cporter202/automate-for-growth"><img src="GitTrendHub/assets/title_badges/title_cporter202_automate-for-growth_art_vision_bd3f3566.svg" alt="automate-for-growth" height="38"></a>
-      </div>
-      <p style="line-height: 1.5;">Complete guide to automating content for growth: Sora 2<br>video generation, brand authority automation, multi-platform<br>posting, bulk content creation, and API integration.<br>&nbsp;</p>
-    </td>
-    <td width="42%" valign="middle" align="center">
-      <a href="https://github.com/cporter202/automate-for-growth"><img src="GitTrendHub/assets/cporter202_automate-for-growth_art_vision.svg" alt="automate-for-growth stats" width="400"></a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="right">
-      <a href="#art_vision"><kbd>🎨 Back to Section</kbd></a> · <a href="#contents"><kbd>📑 Contents</kbd></a>
-    </td>
-  </tr>
-</table>
-<div style="height: 16px;"></div>
-
-
-<table width="100%" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="58%" valign="top">
-      <div>
-        <a href="https://github.com/ZeroLu/awesome-seedance"><img src="GitTrendHub/assets/title_badges/title_ZeroLu_awesome-seedance_art_vision_46e5092e.svg" alt="awesome-seedance" height="38"></a>
-      </div>
-      <p style="line-height: 1.5;">The ultimate collection of high-fidelity Seedance 2.0<br>prompts and Seedance AI resources. Discover Seedance 2.0 how<br>to use for cinematic film, anime, UGC, social media, meme<br>and...</p>
-    </td>
-    <td width="42%" valign="middle" align="center">
-      <a href="https://github.com/ZeroLu/awesome-seedance"><img src="GitTrendHub/assets/ZeroLu_awesome-seedance_art_vision.svg" alt="awesome-seedance stats" width="400"></a>
     </td>
   </tr>
   <tr>
@@ -4648,30 +3675,6 @@
 </table>
 <div style="height: 16px;"></div>
 
-
-<table width="100%" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="58%" valign="top">
-      <div>
-        <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"><img src="GitTrendHub/assets/title_badges/title_YouMind-OpenLab_awesome-seedance-2-prompts_art_vision_d638a008.svg" alt="awesome-seedance-2-prompts" height="38"></a>
-      </div>
-      <p style="line-height: 1.5;">🎬 500+ curated Seedance 2.0 video generation prompts —<br>cinematic, anime, UGC, ads, meme styles. Includes Seedance<br>API guides, character consistency tips, and advanced video<br>work...</p>
-    </td>
-    <td width="42%" valign="middle" align="center">
-      <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"><img src="GitTrendHub/assets/YouMind-OpenLab_awesome-seedance-2-prompts_art_vision.svg" alt="awesome-seedance-2-prompts stats" width="400"></a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="right">
-      <a href="#art_vision"><kbd>🎨 Back to Section</kbd></a> · <a href="#contents"><kbd>📑 Contents</kbd></a>
-    </td>
-  </tr>
-</table>
-<div style="height: 16px;"></div>
-
-
----
-
 <h2 id='frameworks'>🧠 Research & Core Frameworks</h2>
 <p><img src="GitTrendHub/assets/section_bar_frameworks_492cbab8.png" alt="" width="24" height="6"> Section color</p>
 
@@ -4728,27 +3731,6 @@
     </td>
     <td width="42%" valign="middle" align="center">
       <a href="https://github.com/langchain-ai/langchain"><img src="GitTrendHub/assets/langchain-ai_langchain_frameworks.svg" alt="langchain stats" width="400"></a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="right">
-      <a href="#frameworks"><kbd>🧠 Back to Section</kbd></a> · <a href="#contents"><kbd>📑 Contents</kbd></a>
-    </td>
-  </tr>
-</table>
-<div style="height: 16px;"></div>
-
-
-<table width="100%" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="58%" valign="top">
-      <div>
-        <a href="https://github.com/josephmisiti/awesome-machine-learning"><img src="GitTrendHub/assets/title_badges/title_josephmisiti_awesome-machine-learning_frameworks_95139456.svg" alt="awesome-machine-learning" height="38"></a>
-      </div>
-      <p style="line-height: 1.5;">A curated list of awesome Machine Learning frameworks,<br>libraries and software.<br>&nbsp;<br>&nbsp;</p>
-    </td>
-    <td width="42%" valign="middle" align="center">
-      <a href="https://github.com/josephmisiti/awesome-machine-learning"><img src="GitTrendHub/assets/josephmisiti_awesome-machine-learning_frameworks.svg" alt="awesome-machine-learning stats" width="400"></a>
     </td>
   </tr>
   <tr>
@@ -5667,27 +4649,6 @@
   <tr>
     <td width="58%" valign="top">
       <div>
-        <a href="https://github.com/aliasrobotics/cai"><img src="GitTrendHub/assets/title_badges/title_aliasrobotics_cai_frameworks_e808c8a9.svg" alt="cai" height="38"></a>
-      </div>
-      <p style="line-height: 1.5;">Cybersecurity AI (CAI), the framework for AI Security<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
-    </td>
-    <td width="42%" valign="middle" align="center">
-      <a href="https://github.com/aliasrobotics/cai"><img src="GitTrendHub/assets/aliasrobotics_cai_frameworks.svg" alt="cai stats" width="400"></a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="right">
-      <a href="#frameworks"><kbd>🧠 Back to Section</kbd></a> · <a href="#contents"><kbd>📑 Contents</kbd></a>
-    </td>
-  </tr>
-</table>
-<div style="height: 16px;"></div>
-
-
-<table width="100%" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="58%" valign="top">
-      <div>
         <a href="https://github.com/VoltAgent/voltagent"><img src="GitTrendHub/assets/title_badges/title_VoltAgent_voltagent_frameworks_da8c31af.svg" alt="voltagent" height="38"></a>
       </div>
       <p style="line-height: 1.5;">AI Agent Engineering Platform built on an Open Source<br>TypeScript AI Agent Framework<br>&nbsp;<br>&nbsp;</p>
@@ -5715,48 +4676,6 @@
     </td>
     <td width="42%" valign="middle" align="center">
       <a href="https://github.com/cocoindex-io/cocoindex"><img src="GitTrendHub/assets/cocoindex-io_cocoindex_frameworks.svg" alt="cocoindex stats" width="400"></a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="right">
-      <a href="#frameworks"><kbd>🧠 Back to Section</kbd></a> · <a href="#contents"><kbd>📑 Contents</kbd></a>
-    </td>
-  </tr>
-</table>
-<div style="height: 16px;"></div>
-
-
-<table width="100%" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="58%" valign="top">
-      <div>
-        <a href="https://github.com/OpenBMB/UltraRAG"><img src="GitTrendHub/assets/title_badges/title_OpenBMB_UltraRAG_frameworks_9d470ba7.svg" alt="UltraRAG" height="38"></a>
-      </div>
-      <p style="line-height: 1.5;">A Low-Code MCP Framework for Building Complex and Innovative<br>RAG Pipelines<br>&nbsp;<br>&nbsp;</p>
-    </td>
-    <td width="42%" valign="middle" align="center">
-      <a href="https://github.com/OpenBMB/UltraRAG"><img src="GitTrendHub/assets/OpenBMB_UltraRAG_frameworks.svg" alt="UltraRAG stats" width="400"></a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="right">
-      <a href="#frameworks"><kbd>🧠 Back to Section</kbd></a> · <a href="#contents"><kbd>📑 Contents</kbd></a>
-    </td>
-  </tr>
-</table>
-<div style="height: 16px;"></div>
-
-
-<table width="100%" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="58%" valign="top">
-      <div>
-        <a href="https://github.com/sentient-agi/ROMA"><img src="GitTrendHub/assets/title_badges/title_sentient-agi_ROMA_frameworks_e12a6f20.svg" alt="ROMA" height="38"></a>
-      </div>
-      <p style="line-height: 1.5;">Recursive-Open-Meta-Agent v0.1 (Beta). A meta-agent<br>framework to build high-performance multi-agent systems.<br>&nbsp;<br>&nbsp;</p>
-    </td>
-    <td width="42%" valign="middle" align="center">
-      <a href="https://github.com/sentient-agi/ROMA"><img src="GitTrendHub/assets/sentient-agi_ROMA_frameworks.svg" alt="ROMA stats" width="400"></a>
     </td>
   </tr>
   <tr>
@@ -5814,75 +4733,12 @@
   <tr>
     <td width="58%" valign="top">
       <div>
-        <a href="https://github.com/antvis/Infographic"><img src="GitTrendHub/assets/title_badges/title_antvis_Infographic_frameworks_5340d7f4.svg" alt="Infographic" height="38"></a>
-      </div>
-      <p style="line-height: 1.5;">🦋 An Infographic Generation and Rendering Framework, bring<br>words to life with AI!<br>&nbsp;<br>&nbsp;</p>
-    </td>
-    <td width="42%" valign="middle" align="center">
-      <a href="https://github.com/antvis/Infographic"><img src="GitTrendHub/assets/antvis_Infographic_frameworks.svg" alt="Infographic stats" width="400"></a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="right">
-      <a href="#frameworks"><kbd>🧠 Back to Section</kbd></a> · <a href="#contents"><kbd>📑 Contents</kbd></a>
-    </td>
-  </tr>
-</table>
-<div style="height: 16px;"></div>
-
-
-<table width="100%" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="58%" valign="top">
-      <div>
         <a href="https://github.com/TencentCloudADP/youtu-agent"><img src="GitTrendHub/assets/title_badges/title_TencentCloudADP_youtu-agent_frameworks_f167613a.svg" alt="youtu-agent" height="38"></a>
       </div>
       <p style="line-height: 1.5;">A simple yet powerful agent framework that delivers with<br>open-source models<br>&nbsp;<br>&nbsp;</p>
     </td>
     <td width="42%" valign="middle" align="center">
       <a href="https://github.com/TencentCloudADP/youtu-agent"><img src="GitTrendHub/assets/TencentCloudADP_youtu-agent_frameworks.svg" alt="youtu-agent stats" width="400"></a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="right">
-      <a href="#frameworks"><kbd>🧠 Back to Section</kbd></a> · <a href="#contents"><kbd>📑 Contents</kbd></a>
-    </td>
-  </tr>
-</table>
-<div style="height: 16px;"></div>
-
-
-<table width="100%" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="58%" valign="top">
-      <div>
-        <a href="https://github.com/cactus-compute/cactus"><img src="GitTrendHub/assets/title_badges/title_cactus-compute_cactus_frameworks_9f2940dd.svg" alt="cactus" height="38"></a>
-      </div>
-      <p style="line-height: 1.5;">Low-latency AI engine for mobile devices & wearables<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
-    </td>
-    <td width="42%" valign="middle" align="center">
-      <a href="https://github.com/cactus-compute/cactus"><img src="GitTrendHub/assets/cactus-compute_cactus_frameworks.svg" alt="cactus stats" width="400"></a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="right">
-      <a href="#frameworks"><kbd>🧠 Back to Section</kbd></a> · <a href="#contents"><kbd>📑 Contents</kbd></a>
-    </td>
-  </tr>
-</table>
-<div style="height: 16px;"></div>
-
-
-<table width="100%" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="58%" valign="top">
-      <div>
-        <a href="https://github.com/magnitudedev/browser-agent"><img src="GitTrendHub/assets/title_badges/title_magnitudedev_browser-agent_frameworks_167d5bda.svg" alt="browser-agent" height="38"></a>
-      </div>
-      <p style="line-height: 1.5;">An agent that surfs the web so you don't have to deal with<br>cookies and pop-ups. It clicks the buttons you’re too lazy<br>to find and navigates the web like a pro.<br>&nbsp;</p>
-    </td>
-    <td width="42%" valign="middle" align="center">
-      <a href="https://github.com/magnitudedev/browser-agent"><img src="GitTrendHub/assets/magnitudedev_browser-agent_frameworks.svg" alt="browser-agent stats" width="400"></a>
     </td>
   </tr>
   <tr>
@@ -5915,241 +4771,9 @@
 <div style="height: 16px;"></div>
 
 
-<table width="100%" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="58%" valign="top">
-      <div>
-        <a href="https://github.com/SkyworkAI/DeepResearchAgent"><img src="GitTrendHub/assets/title_badges/title_SkyworkAI_DeepResearchAgent_frameworks_56a3a009.svg" alt="DeepResearchAgent" height="38"></a>
-      </div>
-      <p style="line-height: 1.5;">DeepResearchAgent is a hierarchical multi-agent system<br>designed not only for deep research tasks but also for<br>general-purpose task solving. The framework leverages a<br>top-level p...</p>
-    </td>
-    <td width="42%" valign="middle" align="center">
-      <a href="https://github.com/SkyworkAI/DeepResearchAgent"><img src="GitTrendHub/assets/SkyworkAI_DeepResearchAgent_frameworks.svg" alt="DeepResearchAgent stats" width="400"></a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="right">
-      <a href="#frameworks"><kbd>🧠 Back to Section</kbd></a> · <a href="#contents"><kbd>📑 Contents</kbd></a>
-    </td>
-  </tr>
-</table>
-<div style="height: 16px;"></div>
-
-
-<table width="100%" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="58%" valign="top">
-      <div>
-        <a href="https://github.com/Sumanth077/ai-engineering-toolkit"><img src="GitTrendHub/assets/title_badges/title_Sumanth077_ai-engineering-toolkit_frameworks_58a92541.svg" alt="ai-engineering-toolkit" height="38"></a>
-      </div>
-      <p style="line-height: 1.5;">A curated list of 100+ libraries and frameworks for AI<br>engineers building with LLMs<br>&nbsp;<br>&nbsp;</p>
-    </td>
-    <td width="42%" valign="middle" align="center">
-      <a href="https://github.com/Sumanth077/ai-engineering-toolkit"><img src="GitTrendHub/assets/Sumanth077_ai-engineering-toolkit_frameworks.svg" alt="ai-engineering-toolkit stats" width="400"></a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="right">
-      <a href="#frameworks"><kbd>🧠 Back to Section</kbd></a> · <a href="#contents"><kbd>📑 Contents</kbd></a>
-    </td>
-  </tr>
-</table>
-<div style="height: 16px;"></div>
-
-
-<table width="100%" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="58%" valign="top">
-      <div>
-        <a href="https://github.com/MiroMindAI/miroflow"><img src="GitTrendHub/assets/title_badges/title_MiroMindAI_miroflow_frameworks_711d8871.svg" alt="miroflow" height="38"></a>
-      </div>
-      <p style="line-height: 1.5;">MiroFlow is an agent framework that enables tool-use agent<br>tasks, featuring a reproducible GAIA score of 82.4%.<br>&nbsp;<br>&nbsp;</p>
-    </td>
-    <td width="42%" valign="middle" align="center">
-      <a href="https://github.com/MiroMindAI/miroflow"><img src="GitTrendHub/assets/MiroMindAI_miroflow_frameworks.svg" alt="miroflow stats" width="400"></a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="right">
-      <a href="#frameworks"><kbd>🧠 Back to Section</kbd></a> · <a href="#contents"><kbd>📑 Contents</kbd></a>
-    </td>
-  </tr>
-</table>
-<div style="height: 16px;"></div>
-
-
-<table width="100%" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="58%" valign="top">
-      <div>
-        <a href="https://github.com/BIT-DataLab/Edit-Banana"><img src="GitTrendHub/assets/title_badges/title_BIT-DataLab_Edit-Banana_frameworks_0f5a701d.svg" alt="Edit-Banana" height="38"></a>
-      </div>
-      <p style="line-height: 1.5;">Edit Banana: A framework for converting statistical formats<br>into editable.<br>&nbsp;<br>&nbsp;</p>
-    </td>
-    <td width="42%" valign="middle" align="center">
-      <a href="https://github.com/BIT-DataLab/Edit-Banana"><img src="GitTrendHub/assets/BIT-DataLab_Edit-Banana_frameworks.svg" alt="Edit-Banana stats" width="400"></a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="right">
-      <a href="#frameworks"><kbd>🧠 Back to Section</kbd></a> · <a href="#contents"><kbd>📑 Contents</kbd></a>
-    </td>
-  </tr>
-</table>
-<div style="height: 16px;"></div>
-
-
-<table width="100%" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="58%" valign="top">
-      <div>
-        <a href="https://github.com/darrenhinde/OpenAgentsControl"><img src="GitTrendHub/assets/title_badges/title_darrenhinde_OpenAgentsControl_frameworks_f07ca1d5.svg" alt="OpenAgentsControl" height="38"></a>
-      </div>
-      <p style="line-height: 1.5;">AI agent framework for plan-first development workflows with<br>approval-based execution. Multi-language support<br>(TypeScript, Python, Go, Rust) with automatic testing, code<br>review,...</p>
-    </td>
-    <td width="42%" valign="middle" align="center">
-      <a href="https://github.com/darrenhinde/OpenAgentsControl"><img src="GitTrendHub/assets/darrenhinde_OpenAgentsControl_frameworks.svg" alt="OpenAgentsControl stats" width="400"></a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="right">
-      <a href="#frameworks"><kbd>🧠 Back to Section</kbd></a> · <a href="#contents"><kbd>📑 Contents</kbd></a>
-    </td>
-  </tr>
-</table>
-<div style="height: 16px;"></div>
-
-
-<table width="100%" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="58%" valign="top">
-      <div>
-        <a href="https://github.com/samugit83/redamon"><img src="GitTrendHub/assets/title_badges/title_samugit83_redamon_frameworks_0876a6de.svg" alt="redamon" height="38"></a>
-      </div>
-      <p style="line-height: 1.5;">An AI-powered agentic red team framework that automates<br>offensive security operations, from reconnaissance to<br>exploitation to post-exploitation, with zero human<br>intervention.</p>
-    </td>
-    <td width="42%" valign="middle" align="center">
-      <a href="https://github.com/samugit83/redamon"><img src="GitTrendHub/assets/samugit83_redamon_frameworks.svg" alt="redamon stats" width="400"></a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="right">
-      <a href="#frameworks"><kbd>🧠 Back to Section</kbd></a> · <a href="#contents"><kbd>📑 Contents</kbd></a>
-    </td>
-  </tr>
-</table>
-<div style="height: 16px;"></div>
-
-
-<table width="100%" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="58%" valign="top">
-      <div>
-        <a href="https://github.com/polyuiislab/infiAgent"><img src="GitTrendHub/assets/title_badges/title_polyuiislab_infiAgent_frameworks_d12eaf8d.svg" alt="infiAgent" height="38"></a>
-      </div>
-      <p style="line-height: 1.5;">Build your own Cowork, AI Scientist and other SoTA Agents<br>just by editing config files. Support anthropic skills. An<br>infinite-horizon agent framework designed for<br>long-running,...</p>
-    </td>
-    <td width="42%" valign="middle" align="center">
-      <a href="https://github.com/polyuiislab/infiAgent"><img src="GitTrendHub/assets/polyuiislab_infiAgent_frameworks.svg" alt="infiAgent stats" width="400"></a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="right">
-      <a href="#frameworks"><kbd>🧠 Back to Section</kbd></a> · <a href="#contents"><kbd>📑 Contents</kbd></a>
-    </td>
-  </tr>
-</table>
-<div style="height: 16px;"></div>
-
-
-<table width="100%" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="58%" valign="top">
-      <div>
-        <a href="https://github.com/deanpeters/Product-Manager-Skills"><img src="GitTrendHub/assets/title_badges/title_deanpeters_Product-Manager-Skills_frameworks_a05ee84a.svg" alt="Product-Manager-Skills" height="38"></a>
-      </div>
-      <p style="line-height: 1.5;">Product Management skills framework built on battle-tested<br>methods for Claude Code, Cowork, Codex, and AI agents.<br>&nbsp;<br>&nbsp;</p>
-    </td>
-    <td width="42%" valign="middle" align="center">
-      <a href="https://github.com/deanpeters/Product-Manager-Skills"><img src="GitTrendHub/assets/deanpeters_Product-Manager-Skills_frameworks.svg" alt="Product-Manager-Skills stats" width="400"></a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="right">
-      <a href="#frameworks"><kbd>🧠 Back to Section</kbd></a> · <a href="#contents"><kbd>📑 Contents</kbd></a>
-    </td>
-  </tr>
-</table>
-<div style="height: 16px;"></div>
-
-
-<table width="100%" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="58%" valign="top">
-      <div>
-        <a href="https://github.com/openakita/openakita"><img src="GitTrendHub/assets/title_badges/title_openakita_openakita_frameworks_4dd1d727.svg" alt="openakita" height="38"></a>
-      </div>
-      <p style="line-height: 1.5;">An open-source AI assistant framework with skills and agent<br>architecture<br>&nbsp;<br>&nbsp;</p>
-    </td>
-    <td width="42%" valign="middle" align="center">
-      <a href="https://github.com/openakita/openakita"><img src="GitTrendHub/assets/openakita_openakita_frameworks.svg" alt="openakita stats" width="400"></a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="right">
-      <a href="#frameworks"><kbd>🧠 Back to Section</kbd></a> · <a href="#contents"><kbd>📑 Contents</kbd></a>
-    </td>
-  </tr>
-</table>
-<div style="height: 16px;"></div>
-
-
-<table width="100%" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="58%" valign="top">
-      <div>
-        <a href="https://github.com/sangrokjung/claude-forge"><img src="GitTrendHub/assets/title_badges/title_sangrokjung_claude-forge_frameworks_c3dd5624.svg" alt="claude-forge" height="38"></a>
-      </div>
-      <p style="line-height: 1.5;">Supercharge Claude Code with 11 AI agents, 36 commands & 15<br>skills — the claude-code plugin framework inspired by<br>oh-my-zsh. 6-layer security hooks included. 5-min install.<br>&nbsp;</p>
-    </td>
-    <td width="42%" valign="middle" align="center">
-      <a href="https://github.com/sangrokjung/claude-forge"><img src="GitTrendHub/assets/sangrokjung_claude-forge_frameworks.svg" alt="claude-forge stats" width="400"></a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="right">
-      <a href="#frameworks"><kbd>🧠 Back to Section</kbd></a> · <a href="#contents"><kbd>📑 Contents</kbd></a>
-    </td>
-  </tr>
-</table>
-<div style="height: 16px;"></div>
-
-
-<table width="100%" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="58%" valign="top">
-      <div>
-        <a href="https://github.com/opencmit/alphora"><img src="GitTrendHub/assets/title_badges/title_opencmit_alphora_frameworks_835e545d.svg" alt="alphora" height="38"></a>
-      </div>
-      <p style="line-height: 1.5;">A Production-Ready Framework for Building Composable AI<br>Agents<br>&nbsp;<br>&nbsp;</p>
-    </td>
-    <td width="42%" valign="middle" align="center">
-      <a href="https://github.com/opencmit/alphora"><img src="GitTrendHub/assets/opencmit_alphora_frameworks.svg" alt="alphora stats" width="400"></a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="right">
-      <a href="#frameworks"><kbd>🧠 Back to Section</kbd></a> · <a href="#contents"><kbd>📑 Contents</kbd></a>
-    </td>
-  </tr>
-</table>
-<div style="height: 16px;"></div>
-
 <div align="center">
   <img src="GitTrendHub/image5.jpg" alt="Contribute Banner" width="500">
 </div>
-
----
 
 ---
 
@@ -6157,15 +4781,15 @@
 
 You only need **three steps**. Add or update repos in one place, and everything else is generated for you.
 
-1. `git pull` (if you’re not on the latest)
+1. Fork this repo (or sync your fork with upstream)
 2. Edit `GitTrendHub/projects.json` and add **repo name, url, description**:
    - Example entry:
      ```json
      { "url_path": "owner/repo", "manual_desc": "One‑line description you want shown." }
      ```
-3. Run `python3 update_readme.py` (updates `README.md` and `docs/search-index.json`)
+3. Run `python3 update_readme.py`, commit + push to your fork, then open a PR
 
-That’s it. Commit and push when you’re ready.
+That’s it. Open a PR when you’re ready.
 
 See [`CONTRIBUTING.md`](CONTRIBUTING.md) if you want more detail.
 
@@ -6189,5 +4813,5 @@ Stay ahead of the curve with these curated AI resources.
 Data is retrieved using the GitHub REST API and GitHub Actions.
 
 <div align="right">
-  <i>✨ Last Generated: March 06, 2026 - 15:36 UTC</i>
+  <i>✨ Last Generated: March 07, 2026 - 18:05 UTC</i>
 </div>

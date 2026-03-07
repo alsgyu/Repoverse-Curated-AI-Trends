@@ -213,7 +213,9 @@ STATIC_TOC_ENTRIES = [
 def generate_toc(projects_data):
     """Build Table of Contents as a GitHub-rendered Markdown table."""
     items = []
-    for category_key, category_data in projects_data.items():
+    category_keys = list(projects_data.keys())
+    for idx, category_key in enumerate(category_keys):
+        category_data = projects_data[category_key]
         title = category_data.get("title", category_key.title())
         desc = category_data.get("description", "")
         repo_count = len(category_data.get("repos", []) or [])
@@ -283,7 +285,8 @@ def generate_markdown(projects_data, base_dir):
 
     # Build repo -> accents map to handle repos listed in multiple sections
     repo_accents = {}
-    for category_key, category_data in projects_data.items():
+    for idx, category_key in enumerate(category_keys):
+        category_data = projects_data[category_key]
         accent = accent_by_category.get(category_key, "#4dabf7")
         for repo in category_data.get("repos", []) or []:
             repo_path = repo.get("url_path")
@@ -407,7 +410,8 @@ def generate_markdown(projects_data, base_dir):
 """
             sec_lines.append(card_html)
             
-        sec_lines.append("\n---\n")
+        if idx < len(category_keys) - 1:
+            sec_lines.append("\n---\n")
         dynamic_sections.append("\n".join(sec_lines))
 
     return "\n".join(dynamic_sections), search_index, api_errors

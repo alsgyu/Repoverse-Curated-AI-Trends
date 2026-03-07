@@ -31,15 +31,15 @@
 
 You only need **three steps**. Add or update repos in one place, and everything else is generated for you.
 
-1. `git pull` (if you’re not on the latest)
+1. Fork this repo (or sync your fork with upstream)
 2. Edit `GitTrendHub/projects.json` and add **repo name, url, description**:
    - Example entry:
      ```json
      { "url_path": "owner/repo", "manual_desc": "One‑line description you want shown." }
      ```
-3. Run `python3 update_readme.py` (updates `README.md` and `docs/search-index.json`)
+3. Run `python3 update_readme.py`, commit + push to your fork, then open a PR
 
-That’s it. Commit and push when you’re ready.
+That’s it. Open a PR when you’re ready.
 
 See [`CONTRIBUTING.md`](CONTRIBUTING.md) if you want more detail.
 

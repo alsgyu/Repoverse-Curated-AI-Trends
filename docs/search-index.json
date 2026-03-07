@@ -102,18 +102,6 @@
           "description": "High-speed Large Language Model Serving for Local Deployment"
         },
         {
-          "name": "ii-agent",
-          "url_path": "Intelligent-Internet/ii-agent",
-          "html_url": "https://github.com/Intelligent-Internet/ii-agent",
-          "description": "II-Agent: a new open-source framework to build and deploy intelligent agents"
-        },
-        {
-          "name": "julep",
-          "url_path": "julep-ai/julep",
-          "html_url": "https://github.com/julep-ai/julep",
-          "description": "Deploy serverless AI workflows at scale. Firebase for AI agents"
-        },
-        {
           "name": "inference",
           "url_path": "xorbitsai/inference",
           "html_url": "https://github.com/xorbitsai/inference",
@@ -132,22 +120,10 @@
           "description": "LMDeploy is a toolkit for compressing, deploying, and serving LLMs."
         },
         {
-          "name": "LLM-Engineers-Handbook",
-          "url_path": "PacktPublishing/LLM-Engineers-Handbook",
-          "html_url": "https://github.com/PacktPublishing/LLM-Engineers-Handbook",
-          "description": "The LLM's practical guide: From the fundamentals to deploying advanced LLM and RAG apps to AWS using LLMOps best practices"
-        },
-        {
           "name": "parallax",
           "url_path": "GradientHQ/parallax",
           "html_url": "https://github.com/GradientHQ/parallax",
           "description": "Parallax is a distributed model serving framework that lets you build your own AI cluster anywhere"
-        },
-        {
-          "name": "OM1",
-          "url_path": "OpenMind/OM1",
-          "html_url": "https://github.com/OpenMind/OM1",
-          "description": "The open-source answer to autonomous general-purpose agents. Raw, unbridled power for those who want to build the everything agent."
         },
         {
           "name": "TileRT",
@@ -204,22 +180,10 @@
           "description": "An open-source, code-first Typescript toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control."
         },
         {
-          "name": "notte",
-          "url_path": "nottelabs/notte",
-          "html_url": "https://github.com/nottelabs/notte",
-          "description": "🌸 Best framework to build web agents, and deploy serverless web automation functions on reliable browser infra."
-        },
-        {
           "name": "LightLLM",
           "url_path": "ModelTC/LightLLM",
           "html_url": "https://github.com/ModelTC/LightLLM",
           "description": "LightLLM is a Python-based LLM (Large Language Model) inference and serving framework, notable for its lightweight design, easy scalability, and high-speed performance."
-        },
-        {
-          "name": "claude-code-skill-factory",
-          "url_path": "alirezarezvani/claude-code-skill-factory",
-          "html_url": "https://github.com/alirezarezvani/claude-code-skill-factory",
-          "description": "Claude Code Skill Factory — A powerful open-source toolkit for building and deploying production-ready Claude Skills, Code Agents, custom Slash Commands, and LLM Prompts at scale. Easily generate stru..."
         },
         {
           "name": "xDiT",
@@ -252,18 +216,6 @@
           "description": "High-performance Inference and Deployment Toolkit for LLMs and VLMs based on PaddlePaddle"
         },
         {
-          "name": "LitterBox",
-          "url_path": "BlackSnufkin/LitterBox",
-          "html_url": "https://github.com/BlackSnufkin/LitterBox",
-          "description": "A secure sandbox environment for malware developers and red teamers to test payloads against detection mechanisms before deployment. Integrates with LLM agents via MCP for enhanced analysis capabiliti..."
-        },
-        {
-          "name": "compose-for-agents",
-          "url_path": "docker/compose-for-agents",
-          "html_url": "https://github.com/docker/compose-for-agents",
-          "description": "Build and run AI agents using Docker Compose. A collection of ready-to-use examples for orchestrating open-source LLMs, tools, and agent runtimes."
-        },
-        {
           "name": "SpecForge",
           "url_path": "sgl-project/SpecForge",
           "html_url": "https://github.com/sgl-project/SpecForge",
@@ -292,18 +244,6 @@
           "url_path": "yassa9/qwen600",
           "html_url": "https://github.com/yassa9/qwen600",
           "description": "Static suckless single batch CUDA-only qwen3-0.6B mini inference engine"
-        },
-        {
-          "name": "n8n-install",
-          "url_path": "kossakovsky/n8n-install",
-          "html_url": "https://github.com/kossakovsky/n8n-install",
-          "description": "🚀 Self-hosted AI automation platform. Deploy n8n, Ollama, Flowise, RAG, Supabase & 30+ tools with one command. Auto HTTPS. Free Zapier/Make alternative."
-        },
-        {
-          "name": "LMForge-End-to-End-LLMOps-Platform-for-Multi-Model-Agents",
-          "url_path": "Haohao-end/LMForge-End-to-End-LLMOps-Platform-for-Multi-Model-Agents",
-          "html_url": "https://github.com/Haohao-end/LMForge-End-to-End-LLMOps-Platform-for-Multi-Model-Agents",
-          "description": "AI Agent Development Platform - Supports multiple models (OpenAI/DeepSeek/Wenxin/Tongyi), knowledge base management, workflow automation, and enterprise-grade security. Built with Flask + Vue3 + LangC..."
         }
       ]
     },
@@ -439,46 +379,10 @@
           "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks."
         },
         {
-          "name": "ralphy",
-          "url_path": "michaelshimeles/ralphy",
-          "html_url": "https://github.com/michaelshimeles/ralphy",
-          "description": "My Ralph Wiggum setup, an autonomous bash script that runs Claude Code, Codex, OpenCode, Cursor agent, Qwen & Droid in a loop until your PRD is complete."
-        },
-        {
-          "name": "openclaw-mission-control",
-          "url_path": "abhi1693/openclaw-mission-control",
-          "html_url": "https://github.com/abhi1693/openclaw-mission-control",
-          "description": "AI Agent Orchestration Dashboard - Manage AI agents, assign tasks, and coordinate multi-agent collaboration via OpenClaw Gateway."
-        },
-        {
-          "name": "edict",
-          "url_path": "cft0808/edict",
-          "html_url": "https://github.com/cft0808/edict",
-          "description": "🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, and full audit trails"
-        },
-        {
           "name": "mastra",
           "url_path": "mastra-ai/mastra",
           "html_url": "https://github.com/mastra-ai/mastra",
           "description": "From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack."
-        },
-        {
-          "name": "mission-control",
-          "url_path": "crshdn/mission-control",
-          "html_url": "https://github.com/crshdn/mission-control",
-          "description": "AI Agent Orchestration Dashboard - Manage AI agents, assign tasks, and coordinate multi-agent collaboration via OpenClaw Gateway."
-        },
-        {
-          "name": "Product-Manager-Skills",
-          "url_path": "deanpeters/Product-Manager-Skills",
-          "html_url": "https://github.com/deanpeters/Product-Manager-Skills",
-          "description": "Product Management skills framework built on battle-tested methods for Claude Code, Cowork, Codex, and AI agents."
-        },
-        {
-          "name": "thepopebot",
-          "url_path": "stephengpope/thepopebot",
-          "html_url": "https://github.com/stephengpope/thepopebot",
-          "description": "The Pope Bot is an autonomous AI agent that you can configure and build to do just about anything you want, all day, everyday, 24/7."
         },
         {
           "name": "vibium",
@@ -497,12 +401,6 @@
           "url_path": "elizaOS/eliza",
           "html_url": "https://github.com/elizaOS/eliza",
           "description": "Not just a bot, but an autonomous agent with a soul and a social life. Building the next generation of on-chain personalities that actually talk back."
-        },
-        {
-          "name": "openakita",
-          "url_path": "openakita/openakita",
-          "html_url": "https://github.com/openakita/openakita",
-          "description": "An open-source AI assistant framework with skills and agent architecture"
         },
         {
           "name": "RagaAI-Catalyst",
@@ -527,12 +425,6 @@
           "url_path": "langchain-ai/langgraph",
           "html_url": "https://github.com/langchain-ai/langgraph",
           "description": "Giving your agents a map and a memory for complex, loopy workflows. Because real-world logic isn't a straight line; it’s a state machine."
-        },
-        {
-          "name": "multi-agent-shogun",
-          "url_path": "yohey-w/multi-agent-shogun",
-          "html_url": "https://github.com/yohey-w/multi-agent-shogun",
-          "description": "Samurai-inspired multi-agent system for Claude Code. Orchestrate parallel AI tasks via tmux with shogun → karo → ashigaru hierarchy."
         },
         {
           "name": "DeepAnalyze",
@@ -565,34 +457,16 @@
           "description": "Agentic logic for developers who actually care about type-safety. Strict validation meets loose AI dreams—the \"Senior Dev\" of agent frameworks."
         },
         {
-          "name": "MAHORAGA",
-          "url_path": "ygwyg/MAHORAGA",
-          "html_url": "https://github.com/ygwyg/MAHORAGA",
-          "description": "autonomous trading agent powered by social sentiment analysis and ai that learns, grows, and adapts"
-        },
-        {
           "name": "parlant",
           "url_path": "emcie-co/parlant",
           "html_url": "https://github.com/emcie-co/parlant",
           "description": "The conversational control layer for customer-facing AI agents - Parlant is a context-engineering framework optimized for controlling customer interactions."
         },
         {
-          "name": "overstory",
-          "url_path": "jayminwest/overstory",
-          "html_url": "https://github.com/jayminwest/overstory",
-          "description": "Multi-agent orchestration for AI coding agents — pluggable runtime adapters for Claude Code, Pi, and more"
-        },
-        {
           "name": "MemMachine",
           "url_path": "MemMachine/MemMachine",
           "html_url": "https://github.com/MemMachine/MemMachine",
           "description": "Universal memory layer for AI Agents. It provides scalable, extensible, and interoperable memory storage and retrieval to streamline AI agent state management for next-generation autonomous systems."
-        },
-        {
-          "name": "redamon",
-          "url_path": "samugit83/redamon",
-          "html_url": "https://github.com/samugit83/redamon",
-          "description": "An AI-powered agentic red team framework that automates offensive security operations, from reconnaissance to exploitation to post-exploitation, with zero human intervention."
         },
         {
           "name": "pentagi",
@@ -734,12 +608,6 @@
           "description": "⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex & Gemini CLI."
         },
         {
-          "name": "WebCode",
-          "url_path": "shuyu-labs/WebCode",
-          "html_url": "https://github.com/shuyu-labs/WebCode",
-          "description": "WebCode is a browser-based AI coding platform that lets you remotely run CLI assistants like Claude Code and Codex. Code anywhere with just a web browser. We’re also adding an office-assistant mode fo..."
-        },
-        {
           "name": "nanocoder",
           "url_path": "Nano-Collective/nanocoder",
           "html_url": "https://github.com/Nano-Collective/nanocoder",
@@ -750,12 +618,6 @@
           "url_path": "neiii/bridle",
           "html_url": "https://github.com/neiii/bridle",
           "description": "TUI / CLI config manager for agentic harnesses (Amp, Claude Code, Opencode, Goose, Copilot CLI, Crush, Droid)"
-        },
-        {
-          "name": "ai-in-the-terminal",
-          "url_path": "theNetworkChuck/ai-in-the-terminal",
-          "html_url": "https://github.com/theNetworkChuck/ai-in-the-terminal",
-          "description": "Complete companion guide for NetworkChuck's 'AI in the Terminal' video - Gemini CLI, Claude Code, Codex, and opencode workflows"
         },
         {
           "name": "OpenContext",
@@ -776,24 +638,6 @@
           "description": "An MCP server plus a CLI tool that indexes local code into a graph database to provide context to AI assistants."
         },
         {
-          "name": "Awesome-independent-tools",
-          "url_path": "yaolifeng0629/Awesome-independent-tools",
-          "html_url": "https://github.com/yaolifeng0629/Awesome-independent-tools",
-          "description": "收录独立开发、AI出海领域最新、最实用的工具与资源（Build Faster with Better Tools）"
-        },
-        {
-          "name": "awesome-ai-devtools",
-          "url_path": "jamesmurdza/awesome-ai-devtools",
-          "html_url": "https://github.com/jamesmurdza/awesome-ai-devtools",
-          "description": "The only bookmarks folder you’ll ever need for building the future. A curated map through the chaotic, fast-moving world of AI tooling."
-        },
-        {
-          "name": "ai-agent-tools",
-          "url_path": "cporter202/ai-agent-tools",
-          "html_url": "https://github.com/cporter202/ai-agent-tools",
-          "description": "A curated collection of AI tools, utilities, and resources for developers and creators"
-        },
-        {
           "name": "refact",
           "url_path": "smallcloudai/refact",
           "html_url": "https://github.com/smallcloudai/refact",
@@ -804,12 +648,6 @@
           "url_path": "XiaomingX/indie-hacker-tools-plus",
           "html_url": "https://github.com/XiaomingX/indie-hacker-tools-plus",
           "description": "Breaking the Lost in Translation curse for developers and AI alike. Your global passport for code and content that speaks every language fluently."
-        },
-        {
-          "name": "free-ai-resources-x",
-          "url_path": "CelaDaniel/free-ai-resources-x",
-          "html_url": "https://github.com/CelaDaniel/free-ai-resources-x",
-          "description": "Teaching AI to adapt on the fly without the heavy-duty retraining process. Personalized creativity that remembers your style perfectly, every single time."
         },
         {
           "name": "FuzzyAI",
@@ -842,40 +680,16 @@
           "description": "shai is a coding agent, your pair programming buddy that lives in the terminal. Written in rust with love <3"
         },
         {
-          "name": "VTCode",
-          "url_path": "vinhnx/VTCode",
-          "html_url": "https://github.com/vinhnx/VTCode",
-          "description": "VS Code, evolved for a world where agents do the heavy lifting. An IDE that doesn't just highlight your code—it helps write the story."
-        },
-        {
-          "name": "iam-policy-autopilot",
-          "url_path": "awslabs/iam-policy-autopilot",
-          "html_url": "https://github.com/awslabs/iam-policy-autopilot",
-          "description": "IAM Policy Autopilot is an open source static code analysis tool that helps you quickly create baseline AWS IAM policies that you can refine as your application evolves. This tool is available as a co..."
-        },
-        {
           "name": "mcp-client-for-ollama",
           "url_path": "jonigl/mcp-client-for-ollama",
           "html_url": "https://github.com/jonigl/mcp-client-for-ollama",
           "description": "A text-based user interface (TUI) client for interacting with MCP servers using Ollama. Features include agent mode, multi-server, model switching, streaming responses, tool management, human-in-the-l..."
         },
         {
-          "name": "vexor",
-          "url_path": "scarletkc/vexor",
-          "html_url": "https://github.com/scarletkc/vexor",
-          "description": "Vector operations made lean, mean, and incredibly easy to manage. Handling your embeddings without the overhead of a legacy enterprise database."
-        },
-        {
           "name": "mcp-clickhouse",
           "url_path": "ClickHouse/mcp-clickhouse",
           "html_url": "https://github.com/ClickHouse/mcp-clickhouse",
           "description": "Real-time analytics meets the Model Context Protocol for instant insights. Feeding your AI the data it needs at the legendary speed of ClickHouse."
-        },
-        {
-          "name": "awesome-ai-coding-techniques",
-          "url_path": "inmve/awesome-ai-coding-techniques",
-          "html_url": "https://github.com/inmve/awesome-ai-coding-techniques",
-          "description": "Vector search at the speed of thought, keeping your data in-memory and out of the slow lane. Because waiting for a database response is so 2024."
         },
         {
           "name": "probe",
@@ -906,18 +720,6 @@
           "url_path": "context-hub/generator",
           "html_url": "https://github.com/context-hub/generator",
           "description": "CTX: a tool that solves the context management gap when working with LLMs like ChatGPT or Claude. It helps developers organize and automatically collect information from their codebase into structured..."
-        },
-        {
-          "name": "china-dictatorship",
-          "url_path": "cirosantilli/china-dictatorship",
-          "html_url": "https://github.com/cirosantilli/china-dictatorship",
-          "description": "Documenting the digital receipts of history that some would rather forget. Because the truth shouldn't have an expiration date in the age of information."
-        },
-        {
-          "name": "oli",
-          "url_path": "amrit110/oli",
-          "html_url": "https://github.com/amrit110/oli",
-          "description": "The AI teammate that actually reads your documentation and remembers it. Solving GitHub issues while you're still trying to name the branch."
         }
       ]
     },
@@ -933,28 +735,10 @@
           "description": "The Swiss Army knife of AI art—if a feature isn't here, it probably doesn't exist yet. A UI so powerful it makes your GPU sweat and your creativity explode."
         },
         {
-          "name": "Awesome-Nano-Banana-images",
-          "url_path": "PicoTrex/Awesome-Nano-Banana-images",
-          "html_url": "https://github.com/PicoTrex/Awesome-Nano-Banana-images",
-          "description": "A curated collection of fun and creative examples generated with Nano Banana & Nano Banana Pro🍌, Gemini-2.5-flash-image based model. We also release Nano-consistent-150K openly to support the communit..."
-        },
-        {
           "name": "HunyuanVideo-1.5",
           "url_path": "Tencent-Hunyuan/HunyuanVideo-1.5",
           "html_url": "https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5",
           "description": "HunyuanVideo-1.5: A leading lightweight video generation model"
-        },
-        {
-          "name": "iris.c",
-          "url_path": "antirez/iris.c",
-          "html_url": "https://github.com/antirez/iris.c",
-          "description": "Neural networks in raw C for the minimalist who finds Python too bloated. Small enough to understand every byte, fast enough to put libraries to shame."
-        },
-        {
-          "name": "LocalAI",
-          "url_path": "mudler/LocalAI",
-          "html_url": "https://github.com/mudler/LocalAI",
-          "description": ":robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers,..."
         },
         {
           "name": "paperbanana",
@@ -1017,18 +801,6 @@
           "description": "Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The sol..."
         },
         {
-          "name": "awesome-seedance",
-          "url_path": "ZeroLu/awesome-seedance",
-          "html_url": "https://github.com/ZeroLu/awesome-seedance",
-          "description": "The ultimate collection of high-fidelity Seedance 2.0 prompts and Seedance AI resources. Discover Seedance 2.0 how to use for cinematic film, anime, UGC, social media, meme and advertising. Includes S..."
-        },
-        {
-          "name": "PromptEnhancer",
-          "url_path": "Hunyuan-PromptEnhancer/PromptEnhancer",
-          "html_url": "https://github.com/Hunyuan-PromptEnhancer/PromptEnhancer",
-          "description": "PromptEnhancer is a prompt-rewriting tool, refining prompts into clearer, structured versions for better image generation."
-        },
-        {
           "name": "HunyuanImage-3.0",
           "url_path": "Tencent-Hunyuan/HunyuanImage-3.0",
           "html_url": "https://github.com/Tencent-Hunyuan/HunyuanImage-3.0",
@@ -1063,12 +835,6 @@
           "url_path": "thu-ml/Causal-Forcing",
           "html_url": "https://github.com/thu-ml/Causal-Forcing",
           "description": "Official codebase for \"Causal Forcing: Autoregressive Diffusion Distillation Done Right for High-Quality Real-Time Interactive Video Generation\""
-        },
-        {
-          "name": "gemini-business2api",
-          "url_path": "Dreamy-rain/gemini-business2api",
-          "html_url": "https://github.com/Dreamy-rain/gemini-business2api",
-          "description": "Breaking Gemini out of its business suit and into a developer-friendly API. The bridge that lets your custom tools tap into Google's biggest brain without the red tape."
         },
         {
           "name": "stable-diffusion-webui-colab",
@@ -1113,18 +879,6 @@
           "description": "text and image to video generation: CogVideoX (2024) and CogVideo (ICLR 2023)"
         },
         {
-          "name": "Hitomi-Downloader",
-          "url_path": "KurtBestor/Hitomi-Downloader",
-          "html_url": "https://github.com/KurtBestor/Hitomi-Downloader",
-          "description": ":cake: Desktop utility to download images/videos/music/text from various websites, and more."
-        },
-        {
-          "name": "ShareX",
-          "url_path": "ShareX/ShareX",
-          "html_url": "https://github.com/ShareX/ShareX",
-          "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types t..."
-        },
-        {
           "name": "easydiffusion",
           "url_path": "easydiffusion/easydiffusion",
           "html_url": "https://github.com/easydiffusion/easydiffusion",
@@ -1149,12 +903,6 @@
           "description": "Multi-Platform Package Manager for Stable Diffusion"
         },
         {
-          "name": "aidea",
-          "url_path": "mylxsw/aidea",
-          "html_url": "https://github.com/mylxsw/aidea",
-          "description": "An APP that integrates mainstream large language models and image generation models, built with Flutter, with fully open-source code."
-        },
-        {
           "name": "ttt-video-dit",
           "url_path": "test-time-training/ttt-video-dit",
           "html_url": "https://github.com/test-time-training/ttt-video-dit",
@@ -1177,12 +925,6 @@
           "url_path": "HKUDS/ViMax",
           "html_url": "https://github.com/HKUDS/ViMax",
           "description": "\"ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)\""
-        },
-        {
-          "name": "awesome-seedance-2-prompts",
-          "url_path": "YouMind-OpenLab/awesome-seedance-2-prompts",
-          "html_url": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
-          "description": "🎬 500+ curated Seedance 2.0 video generation prompts — cinematic, anime, UGC, ads, meme styles. Includes Seedance API guides, character consistency tips, and advanced video workflows."
         },
         {
           "name": "Hunyuan3D-1",
@@ -1215,12 +957,6 @@
           "description": "Native Stable Diffusion that makes your Mac’s Neural Engine actually work for its living. Generating art so cool it keeps your MacBook’s fans completely silent."
         },
         {
-          "name": "automate-for-growth",
-          "url_path": "cporter202/automate-for-growth",
-          "html_url": "https://github.com/cporter202/automate-for-growth",
-          "description": "Complete guide to automating content for growth: Sora 2 video generation, brand authority automation, multi-platform posting, bulk content creation, and API integration."
-        },
-        {
           "name": "LongLive",
           "url_path": "NVlabs/LongLive",
           "html_url": "https://github.com/NVlabs/LongLive",
@@ -1249,12 +985,6 @@
           "url_path": "brycedrennan/imaginAIry",
           "html_url": "https://github.com/brycedrennan/imaginAIry",
           "description": "The batteries-included Pythonic way to generate art without the UI clutter. Just pip install and watch your terminal start dreaming in color."
-        },
-        {
-          "name": "big-AGI",
-          "url_path": "enricoros/big-AGI",
-          "html_url": "https://github.com/enricoros/big-AGI",
-          "description": "AI suite powered by state-of-the-art models and providing advanced AI/AGI functions. Includes AI personas, AGI functions, world-class Beam multi-model chats, text-to-image, voice, response streaming, ..."
         },
         {
           "name": "mochi",
@@ -1323,12 +1053,6 @@
           "description": "We present StableAvatar, the first end-to-end video diffusion transformer, which synthesizes infinite-length high-quality audio-driven avatar videos without any post-processing, conditioned on a refer..."
         },
         {
-          "name": "Awesome-Video-Diffusion",
-          "url_path": "showlab/Awesome-Video-Diffusion",
-          "html_url": "https://github.com/showlab/Awesome-Video-Diffusion",
-          "description": "Your ultimate roadmap through the chaotic world of moving pixels. The only bookmark you need to keep track of the AI cinema revolution."
-        },
-        {
           "name": "NeMo-Retriever",
           "url_path": "NVIDIA/NeMo-Retriever",
           "html_url": "https://github.com/NVIDIA/NeMo-Retriever",
@@ -1339,12 +1063,6 @@
           "url_path": "SamurAIGPT/AI-Youtube-Shorts-Generator",
           "html_url": "https://github.com/SamurAIGPT/AI-Youtube-Shorts-Generator",
           "description": "A python tool that uses GPT-4, FFmpeg, and OpenCV to automatically analyze videos, extract the most interesting sections, and crop them for an improved viewing experience."
-        },
-        {
-          "name": "Awesome-Prompt-Engineering",
-          "url_path": "promptslab/Awesome-Prompt-Engineering",
-          "html_url": "https://github.com/promptslab/Awesome-Prompt-Engineering",
-          "description": "This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc "
         }
       ]
     },
@@ -1408,12 +1126,6 @@
           "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. "
         },
         {
-          "name": "Edit-Banana",
-          "url_path": "BIT-DataLab/Edit-Banana",
-          "html_url": "https://github.com/BIT-DataLab/Edit-Banana",
-          "description": "Edit Banana: A framework for converting statistical formats into editable."
-        },
-        {
           "name": "12-factor-agents",
           "url_path": "humanlayer/12-factor-agents",
           "html_url": "https://github.com/humanlayer/12-factor-agents",
@@ -1462,12 +1174,6 @@
           "description": "From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack."
         },
         {
-          "name": "Product-Manager-Skills",
-          "url_path": "deanpeters/Product-Manager-Skills",
-          "html_url": "https://github.com/deanpeters/Product-Manager-Skills",
-          "description": "Product Management skills framework built on battle-tested methods for Claude Code, Cowork, Codex, and AI agents."
-        },
-        {
           "name": "sglang",
           "url_path": "sgl-project/sglang",
           "html_url": "https://github.com/sgl-project/sglang",
@@ -1478,12 +1184,6 @@
           "url_path": "elizaOS/eliza",
           "html_url": "https://github.com/elizaOS/eliza",
           "description": "Not just a bot, but an autonomous agent with a soul and a social life. Building the next generation of on-chain personalities that actually talk back."
-        },
-        {
-          "name": "openakita",
-          "url_path": "openakita/openakita",
-          "html_url": "https://github.com/openakita/openakita",
-          "description": "An open-source AI assistant framework with skills and agent architecture"
         },
         {
           "name": "RagaAI-Catalyst",
@@ -1508,12 +1208,6 @@
           "url_path": "langchain-ai/langgraph",
           "html_url": "https://github.com/langchain-ai/langgraph",
           "description": "Giving your agents a map and a memory for complex, loopy workflows. Because real-world logic isn't a straight line; it’s a state machine."
-        },
-        {
-          "name": "Infographic",
-          "url_path": "antvis/Infographic",
-          "html_url": "https://github.com/antvis/Infographic",
-          "description": "🦋 An Infographic Generation and Rendering Framework, bring words to life with AI!"
         },
         {
           "name": "agent-zero",
@@ -1558,12 +1252,6 @@
           "description": "A simple yet powerful agent framework that delivers with open-source models"
         },
         {
-          "name": "redamon",
-          "url_path": "samugit83/redamon",
-          "html_url": "https://github.com/samugit83/redamon",
-          "description": "An AI-powered agentic red team framework that automates offensive security operations, from reconnaissance to exploitation to post-exploitation, with zero human intervention."
-        },
-        {
           "name": "eino",
           "url_path": "cloudwego/eino",
           "html_url": "https://github.com/cloudwego/eino",
@@ -1574,12 +1262,6 @@
           "url_path": "HKUDS/AutoAgent",
           "html_url": "https://github.com/HKUDS/AutoAgent",
           "description": "\"AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework\""
-        },
-        {
-          "name": "cai",
-          "url_path": "aliasrobotics/cai",
-          "html_url": "https://github.com/aliasrobotics/cai",
-          "description": "Cybersecurity AI (CAI), the framework for AI Security"
         },
         {
           "name": "voltagent",
@@ -1618,18 +1300,6 @@
           "description": "Data transformation framework for AI. Ultra performant, with incremental processing.  🌟 Star if you like it!"
         },
         {
-          "name": "awesome-machine-learning",
-          "url_path": "josephmisiti/awesome-machine-learning",
-          "html_url": "https://github.com/josephmisiti/awesome-machine-learning",
-          "description": "A curated list of awesome Machine Learning frameworks, libraries and software."
-        },
-        {
-          "name": "ROMA",
-          "url_path": "sentient-agi/ROMA",
-          "html_url": "https://github.com/sentient-agi/ROMA",
-          "description": "Recursive-Open-Meta-Agent v0.1 (Beta). A meta-agent framework to build high-performance multi-agent systems."
-        },
-        {
           "name": "llmware",
           "url_path": "llmware-ai/llmware",
           "html_url": "https://github.com/llmware-ai/llmware",
@@ -1652,12 +1322,6 @@
           "url_path": "alibaba/spring-ai-alibaba",
           "html_url": "https://github.com/alibaba/spring-ai-alibaba",
           "description": "Bringing the power of Alibaba's AI ecosystem to the world of Enterprise Java. Serious AI for serious Spring developers who mean business."
-        },
-        {
-          "name": "infiAgent",
-          "url_path": "polyuiislab/infiAgent",
-          "html_url": "https://github.com/polyuiislab/infiAgent",
-          "description": "Build your own Cowork, AI Scientist and other SoTA Agents just by editing config files. Support anthropic skills. An infinite-horizon agent framework designed for long-running, complex tasks."
         },
         {
           "name": "evals",
@@ -1684,40 +1348,10 @@
           "description": "Unit testing for LLMs because vibes-based testing isn't a real production strategy. Quantitative sanity for your qualitative prompts—don't ship without it."
         },
         {
-          "name": "cactus",
-          "url_path": "cactus-compute/cactus",
-          "html_url": "https://github.com/cactus-compute/cactus",
-          "description": "Low-latency AI engine for mobile devices & wearables"
-        },
-        {
-          "name": "claude-forge",
-          "url_path": "sangrokjung/claude-forge",
-          "html_url": "https://github.com/sangrokjung/claude-forge",
-          "description": "Supercharge Claude Code with 11 AI agents, 36 commands & 15 skills — the claude-code plugin framework inspired by oh-my-zsh. 6-layer security hooks included. 5-min install."
-        },
-        {
-          "name": "UltraRAG",
-          "url_path": "OpenBMB/UltraRAG",
-          "html_url": "https://github.com/OpenBMB/UltraRAG",
-          "description": "A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines"
-        },
-        {
-          "name": "ai-engineering-toolkit",
-          "url_path": "Sumanth077/ai-engineering-toolkit",
-          "html_url": "https://github.com/Sumanth077/ai-engineering-toolkit",
-          "description": "A curated list of 100+ libraries and frameworks for AI engineers building with LLMs"
-        },
-        {
           "name": "agent-squad",
           "url_path": "awslabs/agent-squad",
           "html_url": "https://github.com/awslabs/agent-squad",
           "description": "Flexible and powerful framework for managing multiple AI agents and handling complex conversations"
-        },
-        {
-          "name": "miroflow",
-          "url_path": "MiroMindAI/miroflow",
-          "html_url": "https://github.com/MiroMindAI/miroflow",
-          "description": "MiroFlow is an agent framework that enables tool-use agent tasks, featuring a reproducible GAIA score of 82.4%."
         },
         {
           "name": "EasyR1",
@@ -1738,34 +1372,10 @@
           "description": "Orchestrating agents at scale without the infrastructure nightmare. The conductor for your AI agent symphony, ensuring everyone stays in sync."
         },
         {
-          "name": "OpenAgentsControl",
-          "url_path": "darrenhinde/OpenAgentsControl",
-          "html_url": "https://github.com/darrenhinde/OpenAgentsControl",
-          "description": "AI agent framework for plan-first development workflows with approval-based execution. Multi-language support (TypeScript, Python, Go, Rust) with automatic testing, code review, and validation built f..."
-        },
-        {
-          "name": "alphora",
-          "url_path": "opencmit/alphora",
-          "html_url": "https://github.com/opencmit/alphora",
-          "description": "A Production-Ready Framework for Building Composable AI Agents"
-        },
-        {
-          "name": "browser-agent",
-          "url_path": "magnitudedev/browser-agent",
-          "html_url": "https://github.com/magnitudedev/browser-agent",
-          "description": "An agent that surfs the web so you don't have to deal with cookies and pop-ups. It clicks the buttons you’re too lazy to find and navigates the web like a pro."
-        },
-        {
           "name": "langchain4j",
           "url_path": "langchain4j/langchain4j",
           "html_url": "https://github.com/langchain4j/langchain4j",
           "description": "LangChain4j is an open-source Java library that simplifies the integration of LLMs into Java applications through a unified API, providing access to popular LLMs and vector databases. It makes impleme..."
-        },
-        {
-          "name": "DeepResearchAgent",
-          "url_path": "SkyworkAI/DeepResearchAgent",
-          "html_url": "https://github.com/SkyworkAI/DeepResearchAgent",
-          "description": "DeepResearchAgent is a hierarchical multi-agent system designed not only for deep research tasks but also for general-purpose task solving. The framework leverages a top-level planning agent to coordi..."
         },
         {
           "name": "agents",
