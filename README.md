@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="GitTrendHub/image4.png" alt="AI TrendHub Banner" width="400">
+  <img src="GitTrendHub/image4.jpg" alt="AI TrendHub Banner" width="400">
 
 
 # AI TrendHub – The Pulse of Artificial Intelligence
@@ -1087,9 +1087,6 @@
 </table>
 <div style="height: 16px;"></div>
 
-
----
-
 <h2 id='agents'>🛠️ AI Agents & Orchestration</h2>
 <p><img src="GitTrendHub/assets/section_bar_agents_77ed1540.png" alt="" width="24" height="6"> Section color</p>
 
@@ -2142,9 +2139,6 @@
   </tr>
 </table>
 <div style="height: 16px;"></div>
-
-
----
 
 <h2 id='cli_tools'>💻 AI-Powered CLI & DevTools</h2>
 <p><img src="GitTrendHub/assets/section_bar_cli_tools_cca3c3ed.png" alt="" width="24" height="6"> Section color</p>
@@ -6151,9 +6145,11 @@
 </table>
 <div style="height: 16px;"></div>
 
+<div align="center">
+  <img src="GitTrendHub/image5.jpg" alt="Contribute Banner" width="500">
+</div>
 
 ---
-
 
 ---
 
