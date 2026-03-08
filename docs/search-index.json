@@ -27,7 +27,7 @@
           "name": "FastGPT",
           "url_path": "labring/FastGPT",
           "html_url": "https://github.com/labring/FastGPT",
-          "description": "FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letti..."
+          "description": "LLM knowledge platform with data processing, RAG retrieval, and visual workflows."
         },
         {
           "name": "adk-go",
@@ -39,7 +39,7 @@
           "name": "KrillinAI",
           "url_path": "krillinai/KrillinAI",
           "html_url": "https://github.com/krillinai/KrillinAI",
-          "description": "Video translation and dubbing tool powered by LLMs. The video translator offers 100 language translations and one-click full-process deployment. The video translation output is optimized for platforms..."
+          "description": "LLM-powered video translation and dubbing with one-click pipeline and many languages."
         },
         {
           "name": "mlc-llm",
@@ -57,13 +57,13 @@
           "name": "TensorRT-LLM",
           "url_path": "NVIDIA/TensorRT-LLM",
           "html_url": "https://github.com/NVIDIA/TensorRT-LLM",
-          "description": "TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT ..."
+          "description": "Python API to define LLMs and run fast NVIDIA GPU inference with TensorRT-LLM."
         },
         {
           "name": "nexa-sdk",
           "url_path": "NexaAI/nexa-sdk",
           "html_url": "https://github.com/NexaAI/nexa-sdk",
-          "description": "Run frontier LLMs and VLMs with day-0 model support across GPU, NPU, and CPU, with comprehensive runtime coverage for PC (Python/C++), mobile (Android & iOS), and Linux/IoT (Arm64 & x86 Docker). Suppo..."
+          "description": "Run frontier LLMs/VLMs on GPU/NPU/CPU across PC, mobile, and Linux/IoT."
         },
         {
           "name": "oumi",
@@ -105,7 +105,7 @@
           "name": "inference",
           "url_path": "xorbitsai/inference",
           "html_url": "https://github.com/xorbitsai/inference",
-          "description": "Swap GPT for any LLM by changing a single line of code. Xinference lets you run open-source, speech, and multimodal models on cloud, on-prem, or your laptop — all through one unified, production-ready..."
+          "description": "Xinference: swap GPT for open models via one unified, production-ready API."
         },
         {
           "name": "unstract",
@@ -135,13 +135,13 @@
           "name": "vllm-mlx",
           "url_path": "waybarrios/vllm-mlx",
           "html_url": "https://github.com/waybarrios/vllm-mlx",
-          "description": "OpenAI and Anthropic compatible server for Apple Silicon. Run LLMs and vision-language models (Llama, Qwen-VL, LLaVA) with continuous batching, MCP tool calling, and multimodal support. Native MLX bac..."
+          "description": "OpenAI-style server for Apple Silicon running LLM/VLMs on MLX."
         },
         {
           "name": "sre",
           "url_path": "SmythOS/sre",
           "html_url": "https://github.com/SmythOS/sre",
-          "description": "The SmythOS Runtime Environment (SRE) is an open-source, cloud-native runtime for agentic AI. Secure, modular, and production-ready, it lets developers build, run, and manage intelligent agents across..."
+          "description": "Open-source runtime to build, run, and manage agentic AI across local/cloud/edge."
         },
         {
           "name": "llm-compressor",
@@ -153,7 +153,7 @@
           "name": "ramalama",
           "url_path": "containers/ramalama",
           "html_url": "https://github.com/containers/ramalama",
-          "description": "RamaLama is an open-source developer tool that simplifies the local serving of AI models from any source and facilitates their use for inference in production, all through the familiar language of con..."
+          "description": "Container-friendly local model serving with a developer-first CLI."
         },
         {
           "name": "botpress",
@@ -183,7 +183,7 @@
           "name": "LightLLM",
           "url_path": "ModelTC/LightLLM",
           "html_url": "https://github.com/ModelTC/LightLLM",
-          "description": "LightLLM is a Python-based LLM (Large Language Model) inference and serving framework, notable for its lightweight design, easy scalability, and high-speed performance."
+          "description": "Lightweight, scalable LLM inference server focused on speed."
         },
         {
           "name": "xDiT",
@@ -201,7 +201,7 @@
           "name": "Model-Optimizer",
           "url_path": "NVIDIA/Model-Optimizer",
           "html_url": "https://github.com/NVIDIA/Model-Optimizer",
-          "description": "A unified library of SOTA model optimization techniques like quantization, pruning, distillation, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks lik..."
+          "description": "Unified model optimization (quantize/prune/distill/spec-decode) for faster inference."
         },
         {
           "name": "infinity",
@@ -237,7 +237,7 @@
           "name": "TransformerEngine",
           "url_path": "NVIDIA/TransformerEngine",
           "html_url": "https://github.com/NVIDIA/TransformerEngine",
-          "description": "A library for accelerating Transformer models on NVIDIA GPUs, including using 8-bit and 4-bit floating point (FP8 and FP4) precision on Hopper, Ada and Blackwell GPUs, to provide better performance wi..."
+          "description": "NVIDIA library for faster Transformer training/inference with FP8/FP4 on new GPUs."
         },
         {
           "name": "qwen600",
@@ -298,25 +298,25 @@
           "name": "agent-orchestrator",
           "url_path": "ComposioHQ/agent-orchestrator",
           "html_url": "https://github.com/ComposioHQ/agent-orchestrator",
-          "description": " Agentic orchestrator for parallel coding agents — plans tasks, spawns agents, and autonomously handles CI    fixes, merge conflicts, and code reviews."
+          "description": "Parallel coding-agent orchestrator with planning, CI fixes, and merge handling."
         },
         {
           "name": "langchain",
           "url_path": "langchain-ai/langchain",
           "html_url": "https://github.com/langchain-ai/langchain",
-          "description": "The original Swiss Army Knife that turned every developer into an AI engineer overnight. With more integrations than your favorite app store, if it has an API, we’ve already wrapped it for you."
+          "description": "LangChain: huge integration hub for LLM apps, tools, and agents."
         },
         {
           "name": "cline",
           "url_path": "cline/cline",
           "html_url": "https://github.com/cline/cline",
-          "description": "Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way."
+          "description": "IDE-native autonomous coding agent with safe, step-by-step permissions."
         },
         {
           "name": "ruflo",
           "url_path": "ruvnet/ruflo",
           "html_url": "https://github.com/ruvnet/ruflo",
-          "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade archite..."
+          "description": "Claude-focused orchestration for multi-agent swarms, workflows, and RAG systems."
         },
         {
           "name": "symphony",
@@ -328,7 +328,7 @@
           "name": "agenticSeek",
           "url_path": "Fosowl/agenticSeek",
           "html_url": "https://github.com/Fosowl/agenticSeek",
-          "description": "Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin9938..."
+          "description": "Fully local autonomous agent that browses and codes without API bills."
         },
         {
           "name": "MetaGPT",
@@ -376,7 +376,7 @@
           "name": "crewAI",
           "url_path": "crewAIInc/crewAI",
           "html_url": "https://github.com/crewAIInc/crewAI",
-          "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks."
+          "description": "Multi-agent orchestration for role-based collaboration on complex tasks."
         },
         {
           "name": "mastra",
@@ -394,7 +394,7 @@
           "name": "hexstrike-ai",
           "url_path": "0x4m4/hexstrike-ai",
           "html_url": "https://github.com/0x4m4/hexstrike-ai",
-          "description": "HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug boun..."
+          "description": "MCP server that lets agents run 150+ security tools for automated pentesting."
         },
         {
           "name": "eliza",
@@ -406,7 +406,7 @@
           "name": "RagaAI-Catalyst",
           "url_path": "raga-ai-hub/RagaAI-Catalyst",
           "html_url": "https://github.com/raga-ai-hub/RagaAI-Catalyst",
-          "description": "Python SDK for Agent AI Observability, Monitoring and Evaluation Framework. Includes features like agent, llm and tools tracing, debugging multi-agentic system, self-hosted dashboard and advanced anal..."
+          "description": "SDK for agent/LLM observability: tracing, debugging, and analytics dashboards."
         },
         {
           "name": "nanobrowser",
@@ -460,13 +460,13 @@
           "name": "parlant",
           "url_path": "emcie-co/parlant",
           "html_url": "https://github.com/emcie-co/parlant",
-          "description": "The conversational control layer for customer-facing AI agents - Parlant is a context-engineering framework optimized for controlling customer interactions."
+          "description": "Control layer for customer-facing agents - context engineering for safer dialogs."
         },
         {
           "name": "MemMachine",
           "url_path": "MemMachine/MemMachine",
           "html_url": "https://github.com/MemMachine/MemMachine",
-          "description": "Universal memory layer for AI Agents. It provides scalable, extensible, and interoperable memory storage and retrieval to streamline AI agent state management for next-generation autonomous systems."
+          "description": "Interoperable memory layer for agents: store, retrieve, and share state."
         },
         {
           "name": "pentagi",
@@ -478,7 +478,7 @@
           "name": "khoj",
           "url_path": "khoj-ai/khoj",
           "html_url": "https://github.com/khoj-ai/khoj",
-          "description": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI ..."
+          "description": "Self-hosted AI second brain for web/docs search, custom agents, and automations."
         },
         {
           "name": "voltagent",
@@ -581,7 +581,7 @@
           "name": "cc-connect",
           "url_path": "chenhg5/cc-connect",
           "html_url": "https://github.com/chenhg5/cc-connect",
-          "description": "Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from..."
+          "description": "Bridge local coding agents to chat apps (Slack/Discord/Lark/etc.) for remote control."
         },
         {
           "name": "agtx",
@@ -599,7 +599,7 @@
           "name": "gemini-mcp-tool",
           "url_path": "jamubc/gemini-mcp-tool",
           "html_url": "https://github.com/jamubc/gemini-mcp-tool",
-          "description": "MCP server that enables AI assistants to interact with Google Gemini CLI, leveraging Gemini's massive token window for large file analysis and codebase understanding"
+          "description": "MCP server that plugs Gemini CLI into assistants for huge-context analysis."
         },
         {
           "name": "cc-switch-cli",
@@ -623,7 +623,7 @@
           "name": "OpenContext",
           "url_path": "0xranx/OpenContext",
           "html_url": "https://github.com/0xranx/OpenContext",
-          "description": "A personal context store for AI agents and assistants—reuse your existing coding agent CLI (Codex/Claude/OpenCode) with built‑in Skills/tools and a desktop GUI to capture, search, and reuse project kn..."
+          "description": "Personal context store for coding agents with skills/tools and a desktop UI."
         },
         {
           "name": "claude-code.nvim",
@@ -641,7 +641,7 @@
           "name": "refact",
           "url_path": "smallcloudai/refact",
           "html_url": "https://github.com/smallcloudai/refact",
-          "description": "AI Agent that handles engineering tasks end-to-end: integrates with developers’ tools, plans, executes, and iterates until it achieves a successful result."
+          "description": "AI agent that plans and executes engineering tasks end-to-end."
         },
         {
           "name": "indie-hacker-tools-plus",
@@ -653,7 +653,7 @@
           "name": "FuzzyAI",
           "url_path": "cyberark/FuzzyAI",
           "html_url": "https://github.com/cyberark/FuzzyAI",
-          "description": "A powerful tool for automated LLM fuzzing. It is designed to help developers and security researchers identify and mitigate potential jailbreaks in their LLM APIs."
+          "description": "Automated LLM fuzzing to uncover jailbreaks and weaknesses in APIs."
         },
         {
           "name": "llxprt-code",
@@ -671,7 +671,7 @@
           "name": "yn",
           "url_path": "purocean/yn",
           "html_url": "https://github.com/purocean/yn",
-          "description": "A highly extensible Markdown editor. Version control, AI Copilot, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, Reveal.js, plug-in, and macr..."
+          "description": "Extensible Markdown editor with AI copilot, versioning, mind maps, and macros."
         },
         {
           "name": "shai",
@@ -683,7 +683,7 @@
           "name": "mcp-client-for-ollama",
           "url_path": "jonigl/mcp-client-for-ollama",
           "html_url": "https://github.com/jonigl/mcp-client-for-ollama",
-          "description": "A text-based user interface (TUI) client for interacting with MCP servers using Ollama. Features include agent mode, multi-server, model switching, streaming responses, tool management, human-in-the-l..."
+          "description": "TUI client for MCP servers via Ollama: multi-server, agent mode, tools, streaming."
         },
         {
           "name": "mcp-clickhouse",
@@ -695,31 +695,31 @@
           "name": "probe",
           "url_path": "probelabs/probe",
           "html_url": "https://github.com/probelabs/probe",
-          "description": "AI-friendly semantic code search engine for large codebases. Combines ripgrep speed with tree-sitter AST parsing. Powers AI coding assistants with precise, context-aware code understanding."
+          "description": "Semantic code search using ripgrep + tree-sitter, built for AI assistants."
         },
         {
           "name": "CoexistAI",
           "url_path": "SPThole/CoexistAI",
           "html_url": "https://github.com/SPThole/CoexistAI",
-          "description": "CoexistAI is a modular, developer-friendly research assistant framework . It enables you to build, search, summarize, and automate research workflows using LLMs, web search, Reddit, YouTube, and mappi..."
+          "description": "Modular research assistant wiring LLMs to web, Reddit, YouTube, and maps."
         },
         {
           "name": "responsible-ai-toolbox",
           "url_path": "microsoft/responsible-ai-toolbox",
           "html_url": "https://github.com/microsoft/responsible-ai-toolbox",
-          "description": "Responsible AI Toolbox is a suite of tools providing model and data exploration and assessment user interfaces and libraries that enable a better understanding of AI systems. These interfaces and libr..."
+          "description": "Responsible AI Toolbox: UIs and libs to explore models/data and assess AI systems."
         },
         {
           "name": "tfmcp",
           "url_path": "nwiizo/tfmcp",
           "html_url": "https://github.com/nwiizo/tfmcp",
-          "description": "🌍 Terraform Model Context Protocol (MCP) Tool - An experimental CLI tool that enables AI assistants to manage and operate Terraform environments. Supports reading Terraform configurations, analyzing p..."
+          "description": "Terraform MCP CLI so assistants can read plans, apply configs, and manage state."
         },
         {
           "name": "generator",
           "url_path": "context-hub/generator",
           "html_url": "https://github.com/context-hub/generator",
-          "description": "CTX: a tool that solves the context management gap when working with LLMs like ChatGPT or Claude. It helps developers organize and automatically collect information from their codebase into structured..."
+          "description": "CTX auto-collects codebase context into shareable docs for LLMs."
         }
       ]
     },
@@ -732,7 +732,7 @@
           "name": "stable-diffusion-webui",
           "url_path": "AUTOMATIC1111/stable-diffusion-webui",
           "html_url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-          "description": "The Swiss Army knife of AI art—if a feature isn't here, it probably doesn't exist yet. A UI so powerful it makes your GPU sweat and your creativity explode."
+          "description": "Feature-rich Stable Diffusion web UI - the Swiss-army dashboard for SD."
         },
         {
           "name": "HunyuanVideo-1.5",
@@ -744,7 +744,7 @@
           "name": "paperbanana",
           "url_path": "llmsresearch/paperbanana",
           "html_url": "https://github.com/llmsresearch/paperbanana",
-          "description": "Open source implementation and extension of Google Research’s PaperBanana for automated academic figures, diagrams, and research visuals, expanded to new domains like slide generation."
+          "description": "PaperBanana OSS: auto-generate research figures, diagrams, and slides."
         },
         {
           "name": "Qwen-Image",
@@ -780,7 +780,7 @@
           "name": "off-grid-mobile-ai",
           "url_path": "alichherawalla/off-grid-mobile-ai",
           "html_url": "https://github.com/alichherawalla/off-grid-mobile-ai",
-          "description": "The Swiss Army Knife of Offline AI. Chat, Speak, and Generate Images - Privacy First, Zero Internet. Download an LLM and use it on your mobile device. No data ever leaves your phone. Supports text-to-..."
+          "description": "Offline mobile AI: chat, vision, and image gen on-device, no internet required."
         },
         {
           "name": "MOVA",
@@ -792,13 +792,13 @@
           "name": "Qwen3-Omni",
           "url_path": "QwenLM/Qwen3-Omni",
           "html_url": "https://github.com/QwenLM/Qwen3-Omni",
-          "description": "Qwen3-omni is a natively end-to-end, omni-modal LLM developed by the Qwen team at Alibaba Cloud, capable of understanding text, audio, images, and video, as well as generating speech in real time."
+          "description": "Qwen3 Omni: one model for text, audio, image, and video plus realtime speech."
         },
         {
           "name": "InvokeAI",
           "url_path": "invoke-ai/InvokeAI",
           "html_url": "https://github.com/invoke-ai/InvokeAI",
-          "description": "Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The sol..."
+          "description": "Stable Diffusion creative engine with a pro-grade web UI and workflows."
         },
         {
           "name": "HunyuanImage-3.0",
@@ -810,7 +810,7 @@
           "name": "short-video-factory",
           "url_path": "YILS-LIN/short-video-factory",
           "html_url": "https://github.com/YILS-LIN/short-video-factory",
-          "description": "The assembly line for viral content—just feed it an idea and watch the TikToks roll out. Becoming a content creator while you sleep; because the factory never takes a coffee break."
+          "description": "Automates short-video creation from ideas to clips - content factory mode."
         },
         {
           "name": "Stable-Video-Infinity",
@@ -828,7 +828,7 @@
           "name": "Paper2Video",
           "url_path": "showlab/Paper2Video",
           "html_url": "https://github.com/showlab/Paper2Video",
-          "description": "Turning dry academic PDFs into dynamic visual stories people actually want to watch. Because reading 20 pages is hard, but watching a 20-second summary is easy."
+          "description": "Turn papers into short videos with automatic summaries and visuals."
         },
         {
           "name": "Causal-Forcing",
@@ -846,7 +846,7 @@
           "name": "VAR",
           "url_path": "FoundationVision/VAR",
           "html_url": "https://github.com/FoundationVision/VAR",
-          "description": "Why diffuse when you can predict? Generative images that think in visual next-tokens. The autoregressive revolution that makes pixels feel as smart as language."
+          "description": "Autoregressive image generator that predicts visual tokens instead of diffusion."
         },
         {
           "name": "OmniCustom",
@@ -864,7 +864,7 @@
           "name": "Code2Video",
           "url_path": "showlab/Code2Video",
           "html_url": "https://github.com/showlab/Code2Video",
-          "description": "Turning boring logic into visual spectacles that explain what your code actually does. Finally, a way to show non-coders your beautiful backend logic in motion."
+          "description": "Turn code into explainer videos - logic-to-visual walkthroughs."
         },
         {
           "name": "Helios",
@@ -882,13 +882,13 @@
           "name": "easydiffusion",
           "url_path": "easydiffusion/easydiffusion",
           "html_url": "https://github.com/easydiffusion/easydiffusion",
-          "description": "An easy 1-click way to create beautiful artwork on your PC using AI, with no tech knowledge. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and ..."
+          "description": "One-click Stable Diffusion on PC with a simple browser UI."
         },
         {
           "name": "OmniGen",
           "url_path": "VectorSpaceLab/OmniGen",
           "html_url": "https://github.com/VectorSpaceLab/OmniGen",
-          "description": "The everything bagel of diffusion models—one model for generation, editing, and more. Why switch models when you have a unified genius that does it all?"
+          "description": "Unified diffusion model for generation and editing in one model."
         },
         {
           "name": "HunyuanWorld-Voyager",
@@ -936,25 +936,25 @@
           "name": "StoryGen-Atelier",
           "url_path": "0xsline/StoryGen-Atelier",
           "html_url": "https://github.com/0xsline/StoryGen-Atelier",
-          "description": "AI-assisted storyboard and video generation tool. Uses Gemini for generating storyboard text and frames, Vertex AI Veo for generating transition clips, and ffmpeg for stitching the final video. Built-..."
+          "description": "Storyboard-to-video pipeline: Gemini prompts, Veo clips, ffmpeg stitching."
         },
         {
           "name": "DirectorsConsole",
           "url_path": "NickPittas/DirectorsConsole",
           "html_url": "https://github.com/NickPittas/DirectorsConsole",
-          "description": "A web application for prompt generation and multiple ComfyUI remote and local connections for image and video generation in parallel in an infinite canvas"
+          "description": "Infinite-canvas app for prompts and multiple ComfyUI backends in parallel."
         },
         {
           "name": "ComfyUI-LTXVideo",
           "url_path": "Lightricks/ComfyUI-LTXVideo",
           "html_url": "https://github.com/Lightricks/ComfyUI-LTXVideo",
-          "description": "Wiring up the future of cinematic AI with node-based precision. Maximum control for those who like their video workflows like their pasta: spaghetti-style."
+          "description": "ComfyUI nodes for LTXVideo - cinematic video workflows in a graph."
         },
         {
           "name": "MochiDiffusion",
           "url_path": "MochiDiffusion/MochiDiffusion",
           "html_url": "https://github.com/MochiDiffusion/MochiDiffusion",
-          "description": "Native Stable Diffusion that makes your Mac’s Neural Engine actually work for its living. Generating art so cool it keeps your MacBook’s fans completely silent."
+          "description": "Native Stable Diffusion for macOS using the Neural Engine."
         },
         {
           "name": "LongLive",
@@ -966,7 +966,7 @@
           "name": "autoclip",
           "url_path": "zhouxiaoka/autoclip",
           "html_url": "https://github.com/zhouxiaoka/autoclip",
-          "description": "Your AI film editor that has an uncanny knack for finding the viral gold in your long footage. Extracting the best moments without the ego of a Hollywood director."
+          "description": "AI editor that finds the best moments in long videos and cuts them fast."
         },
         {
           "name": "SkyReels-V3",
@@ -1014,7 +1014,7 @@
           "name": "SwarmUI",
           "url_path": "mcmonkeyprojects/SwarmUI",
           "html_url": "https://github.com/mcmonkeyprojects/SwarmUI",
-          "description": "SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility."
+          "description": "Modular, high-performance Stable Diffusion Web UI for power users."
         },
         {
           "name": "fast-stable-diffusion",
@@ -1050,19 +1050,19 @@
           "name": "StableAvatar",
           "url_path": "Francis-Rings/StableAvatar",
           "html_url": "https://github.com/Francis-Rings/StableAvatar",
-          "description": "We present StableAvatar, the first end-to-end video diffusion transformer, which synthesizes infinite-length high-quality audio-driven avatar videos without any post-processing, conditioned on a refer..."
+          "description": "End-to-end video diffusion for long, audio-driven avatar videos from a reference image."
         },
         {
           "name": "NeMo-Retriever",
           "url_path": "NVIDIA/NeMo-Retriever",
           "html_url": "https://github.com/NVIDIA/NeMo-Retriever",
-          "description": "NeMo Retriever Library is a scalable, performance-oriented document content and metadata extraction microservice. NeMo Retriever extraction uses specialized NVIDIA NIM microservices to find, contextua..."
+          "description": "NeMo Retriever: microservices to extract text/tables/charts/images for gen AI."
         },
         {
           "name": "AI-Youtube-Shorts-Generator",
           "url_path": "SamurAIGPT/AI-Youtube-Shorts-Generator",
           "html_url": "https://github.com/SamurAIGPT/AI-Youtube-Shorts-Generator",
-          "description": "A python tool that uses GPT-4, FFmpeg, and OpenCV to automatically analyze videos, extract the most interesting sections, and crop them for an improved viewing experience."
+          "description": "Auto-find highlights and crop videos into Shorts using GPT + FFmpeg."
         }
       ]
     },
@@ -1093,7 +1093,7 @@
           "name": "langchain",
           "url_path": "langchain-ai/langchain",
           "html_url": "https://github.com/langchain-ai/langchain",
-          "description": "The original Swiss Army Knife that turned every developer into an AI engineer overnight. With more integrations than your favorite app store, if it has an API, we’ve already wrapped it for you."
+          "description": "LangChain: huge integration hub for LLM apps, tools, and agents."
         },
         {
           "name": "TradingAgents",
@@ -1123,7 +1123,7 @@
           "name": "transformers",
           "url_path": "huggingface/transformers",
           "html_url": "https://github.com/huggingface/transformers",
-          "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. "
+          "description": "Transformers: the go-to library for state-of-the-art text/vision/audio models."
         },
         {
           "name": "12-factor-agents",
@@ -1141,7 +1141,7 @@
           "name": "crewAI",
           "url_path": "crewAIInc/crewAI",
           "html_url": "https://github.com/crewAIInc/crewAI",
-          "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks."
+          "description": "Multi-agent orchestration for role-based collaboration on complex tasks."
         },
         {
           "name": "tensorflow",
@@ -1189,7 +1189,7 @@
           "name": "RagaAI-Catalyst",
           "url_path": "raga-ai-hub/RagaAI-Catalyst",
           "html_url": "https://github.com/raga-ai-hub/RagaAI-Catalyst",
-          "description": "Python SDK for Agent AI Observability, Monitoring and Evaluation Framework. Includes features like agent, llm and tools tracing, debugging multi-agentic system, self-hosted dashboard and advanced anal..."
+          "description": "SDK for agent/LLM observability: tracing, debugging, and analytics dashboards."
         },
         {
           "name": "ktransformers",
@@ -1231,7 +1231,7 @@
           "name": "parlant",
           "url_path": "emcie-co/parlant",
           "html_url": "https://github.com/emcie-co/parlant",
-          "description": "The conversational control layer for customer-facing AI agents - Parlant is a context-engineering framework optimized for controlling customer interactions."
+          "description": "Control layer for customer-facing agents - context engineering for safer dialogs."
         },
         {
           "name": "PocketFlow",
@@ -1243,7 +1243,7 @@
           "name": "audiocraft",
           "url_path": "facebookresearch/audiocraft",
           "html_url": "https://github.com/facebookresearch/audiocraft",
-          "description": "Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable mu..."
+          "description": "Audio generation toolkit with EnCodec plus MusicGen for text/melody conditioning."
         },
         {
           "name": "youtu-agent",
@@ -1315,7 +1315,7 @@
           "name": "KAG",
           "url_path": "OpenSPG/KAG",
           "html_url": "https://github.com/OpenSPG/KAG",
-          "description": "KAG is a logical form-guided reasoning and retrieval framework based on OpenSPG engine and LLMs.  It is used to build logical reasoning and factual Q&A solutions for professional domain knowledge base..."
+          "description": "Logic-guided reasoning plus retrieval for factual Q&A beyond vector-only RAG."
         },
         {
           "name": "spring-ai-alibaba",
@@ -1345,7 +1345,7 @@
           "name": "deepeval",
           "url_path": "confident-ai/deepeval",
           "html_url": "https://github.com/confident-ai/deepeval",
-          "description": "Unit testing for LLMs because vibes-based testing isn't a real production strategy. Quantitative sanity for your qualitative prompts—don't ship without it."
+          "description": "LLM evaluation toolkit with unit tests, metrics, and regression checks."
         },
         {
           "name": "agent-squad",
@@ -1363,7 +1363,7 @@
           "name": "koog",
           "url_path": "JetBrains/koog",
           "html_url": "https://github.com/JetBrains/koog",
-          "description": "Koog is the official Kotlin framework for building predictable, fault-tolerant and enterprise-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even in-browser ..."
+          "description": "JetBrains Kotlin framework for reliable AI agents across JVM, Android, iOS, and web."
         },
         {
           "name": "Upsonic",
@@ -1375,13 +1375,13 @@
           "name": "langchain4j",
           "url_path": "langchain4j/langchain4j",
           "html_url": "https://github.com/langchain4j/langchain4j",
-          "description": "LangChain4j is an open-source Java library that simplifies the integration of LLMs into Java applications through a unified API, providing access to popular LLMs and vector databases. It makes impleme..."
+          "description": "Java-first LangChain for LLMs, RAG, tools (incl MCP), and agents via a unified API."
         },
         {
           "name": "agents",
           "url_path": "livekit/agents",
           "html_url": "https://github.com/livekit/agents",
-          "description": "AI that doesn't just process—it listens, speaks, and vibes with you in real-time. The heartbeat of conversational AI, built for those who find latency to be a four-letter word."
+          "description": "LiveKit Agents: low-latency voice agents for realtime conversational apps."
         }
       ]
     }

@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="GitTrendHub/image4.jpg" alt="AI TrendHub Banner" width="400">
+  <img src="GitTrendHub/image4.png" alt="AI TrendHub Banner" width="400">
 </div>
 
 # AI TrendHub – The Pulse of Artificial Intelligence
@@ -82,7 +82,7 @@
       <div>
         <a href="https://github.com/labring/FastGPT"><img src="GitTrendHub/assets/title_badges/title_labring_FastGPT_llm_engines_ac66eec1.svg" alt="FastGPT" height="38"></a>
       </div>
-      <p style="line-height: 1.5;">FastGPT is a knowledge-based platform built on the LLMs,<br>offers a comprehensive suite of out-of-the-box capabilities<br>such as data processing, RAG retrieval, and visual AI<br>workfl...</p>
+      <p style="line-height: 1.5;">LLM knowledge platform with data processing, RAG retrieval,<br>and visual workflows.<br>&nbsp;<br>&nbsp;</p>
     </td>
     <td width="42%" valign="middle" align="center">
       <a href="https://github.com/labring/FastGPT"><img src="GitTrendHub/assets/labring_FastGPT_llm_engines.svg" alt="FastGPT stats" width="400"></a>
@@ -208,7 +208,7 @@
       <div>
         <a href="https://github.com/NVIDIA/TensorRT-LLM"><img src="GitTrendHub/assets/title_badges/title_NVIDIA_TensorRT-LLM_llm_engines_a2a701ab.svg" alt="TensorRT-LLM" height="38"></a>
       </div>
-      <p style="line-height: 1.5;">TensorRT LLM provides users with an easy-to-use Python API<br>to define Large Language Models (LLMs) and supports<br>state-of-the-art optimizations to perform inference<br>efficiently on...</p>
+      <p style="line-height: 1.5;">Python API to define LLMs and run fast NVIDIA GPU inference<br>with TensorRT-LLM.<br>&nbsp;<br>&nbsp;</p>
     </td>
     <td width="42%" valign="middle" align="center">
       <a href="https://github.com/NVIDIA/TensorRT-LLM"><img src="GitTrendHub/assets/NVIDIA_TensorRT-LLM_llm_engines.svg" alt="TensorRT-LLM stats" width="400"></a>
@@ -271,7 +271,7 @@
       <div>
         <a href="https://github.com/krillinai/KrillinAI"><img src="GitTrendHub/assets/title_badges/title_krillinai_KrillinAI_llm_engines_5cb6230f.svg" alt="KrillinAI" height="38"></a>
       </div>
-      <p style="line-height: 1.5;">Video translation and dubbing tool powered by LLMs. The<br>video translator offers 100 language translations and<br>one-click full-process deployment. The video translation<br>output is...</p>
+      <p style="line-height: 1.5;">LLM-powered video translation and dubbing with one-click<br>pipeline and many languages.<br>&nbsp;<br>&nbsp;</p>
     </td>
     <td width="42%" valign="middle" align="center">
       <a href="https://github.com/krillinai/KrillinAI"><img src="GitTrendHub/assets/krillinai_KrillinAI_llm_engines.svg" alt="KrillinAI stats" width="400"></a>
@@ -292,7 +292,7 @@
       <div>
         <a href="https://github.com/xorbitsai/inference"><img src="GitTrendHub/assets/title_badges/title_xorbitsai_inference_llm_engines_62bfa385.svg" alt="inference" height="38"></a>
       </div>
-      <p style="line-height: 1.5;">Swap GPT for any LLM by changing a single line of code.<br>Xinference lets you run open-source, speech, and multimodal<br>models on cloud, on-prem, or your laptop — all through one<br>un...</p>
+      <p style="line-height: 1.5;">Xinference: swap GPT for open models via one unified,<br>production-ready API.<br>&nbsp;<br>&nbsp;</p>
     </td>
     <td width="42%" valign="middle" align="center">
       <a href="https://github.com/xorbitsai/inference"><img src="GitTrendHub/assets/xorbitsai_inference_llm_engines.svg" alt="inference stats" width="400"></a>
@@ -355,7 +355,7 @@
       <div>
         <a href="https://github.com/NexaAI/nexa-sdk"><img src="GitTrendHub/assets/title_badges/title_NexaAI_nexa-sdk_llm_engines_2255b17f.svg" alt="nexa-sdk" height="38"></a>
       </div>
-      <p style="line-height: 1.5;">Run frontier LLMs and VLMs with day-0 model support across<br>GPU, NPU, and CPU, with comprehensive runtime coverage for<br>PC (Python/C++), mobile (Android & iOS), and Linux/IoT<br>(Arm...</p>
+      <p style="line-height: 1.5;">Run frontier LLMs/VLMs on GPU/NPU/CPU across PC, mobile, and<br>Linux/IoT.<br>&nbsp;<br>&nbsp;</p>
     </td>
     <td width="42%" valign="middle" align="center">
       <a href="https://github.com/NexaAI/nexa-sdk"><img src="GitTrendHub/assets/NexaAI_nexa-sdk_llm_engines.svg" alt="nexa-sdk stats" width="400"></a>
@@ -460,7 +460,7 @@
       <div>
         <a href="https://github.com/ModelTC/LightLLM"><img src="GitTrendHub/assets/title_badges/title_ModelTC_LightLLM_llm_engines_b85d4b5b.svg" alt="LightLLM" height="38"></a>
       </div>
-      <p style="line-height: 1.5;">LightLLM is a Python-based LLM (Large Language Model)<br>inference and serving framework, notable for its lightweight<br>design, easy scalability, and high-speed performance.<br>&nbsp;</p>
+      <p style="line-height: 1.5;">Lightweight, scalable LLM inference server focused on speed.<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
     </td>
     <td width="42%" valign="middle" align="center">
       <a href="https://github.com/ModelTC/LightLLM"><img src="GitTrendHub/assets/ModelTC_LightLLM_llm_engines.svg" alt="LightLLM stats" width="400"></a>
@@ -502,7 +502,7 @@
       <div>
         <a href="https://github.com/NVIDIA/TransformerEngine"><img src="GitTrendHub/assets/title_badges/title_NVIDIA_TransformerEngine_llm_engines_1f35c81c.svg" alt="TransformerEngine" height="38"></a>
       </div>
-      <p style="line-height: 1.5;">A library for accelerating Transformer models on NVIDIA<br>GPUs, including using 8-bit and 4-bit floating point (FP8<br>and FP4) precision on Hopper, Ada and Blackwell GPUs, to<br>provid...</p>
+      <p style="line-height: 1.5;">NVIDIA library for faster Transformer training/inference<br>with FP8/FP4 on new GPUs.<br>&nbsp;<br>&nbsp;</p>
     </td>
     <td width="42%" valign="middle" align="center">
       <a href="https://github.com/NVIDIA/TransformerEngine"><img src="GitTrendHub/assets/NVIDIA_TransformerEngine_llm_engines.svg" alt="TransformerEngine stats" width="400"></a>
@@ -565,7 +565,7 @@
       <div>
         <a href="https://github.com/containers/ramalama"><img src="GitTrendHub/assets/title_badges/title_containers_ramalama_llm_engines_356c79da.svg" alt="ramalama" height="38"></a>
       </div>
-      <p style="line-height: 1.5;">RamaLama is an open-source developer tool that simplifies<br>the local serving of AI models from any source and<br>facilitates their use for inference in production, all<br>through the f...</p>
+      <p style="line-height: 1.5;">Container-friendly local model serving with a<br>developer-first CLI.<br>&nbsp;<br>&nbsp;</p>
     </td>
     <td width="42%" valign="middle" align="center">
       <a href="https://github.com/containers/ramalama"><img src="GitTrendHub/assets/containers_ramalama_llm_engines.svg" alt="ramalama stats" width="400"></a>
@@ -628,7 +628,7 @@
       <div>
         <a href="https://github.com/NVIDIA/Model-Optimizer"><img src="GitTrendHub/assets/title_badges/title_NVIDIA_Model-Optimizer_llm_engines_b6d3a607.svg" alt="Model-Optimizer" height="38"></a>
       </div>
-      <p style="line-height: 1.5;">A unified library of SOTA model optimization techniques like<br>quantization, pruning, distillation, speculative decoding,<br>etc. It compresses deep learning models for downstream de...<br>&nbsp;</p>
+      <p style="line-height: 1.5;">Unified model optimization<br>(quantize/prune/distill/spec-decode) for faster inference.<br>&nbsp;<br>&nbsp;</p>
     </td>
     <td width="42%" valign="middle" align="center">
       <a href="https://github.com/NVIDIA/Model-Optimizer"><img src="GitTrendHub/assets/NVIDIA_Model-Optimizer_llm_engines.svg" alt="Model-Optimizer stats" width="400"></a>
@@ -691,7 +691,7 @@
       <div>
         <a href="https://github.com/SmythOS/sre"><img src="GitTrendHub/assets/title_badges/title_SmythOS_sre_llm_engines_3a2bbcb2.svg" alt="sre" height="38"></a>
       </div>
-      <p style="line-height: 1.5;">The SmythOS Runtime Environment (SRE) is an open-source,<br>cloud-native runtime for agentic AI. Secure, modular, and<br>production-ready, it lets developers build, run, and manage<br>in...</p>
+      <p style="line-height: 1.5;">Open-source runtime to build, run, and manage agentic AI<br>across local/cloud/edge.<br>&nbsp;<br>&nbsp;</p>
     </td>
     <td width="42%" valign="middle" align="center">
       <a href="https://github.com/SmythOS/sre"><img src="GitTrendHub/assets/SmythOS_sre_llm_engines.svg" alt="sre stats" width="400"></a>
@@ -838,7 +838,7 @@
       <div>
         <a href="https://github.com/waybarrios/vllm-mlx"><img src="GitTrendHub/assets/title_badges/title_waybarrios_vllm-mlx_llm_engines_d7fb8a07.svg" alt="vllm-mlx" height="38"></a>
       </div>
-      <p style="line-height: 1.5;">OpenAI and Anthropic compatible server for Apple Silicon.<br>Run LLMs and vision-language models (Llama, Qwen-VL, LLaVA)<br>with continuous batching, MCP tool calling, and<br>multimodal...</p>
+      <p style="line-height: 1.5;">OpenAI-style server for Apple Silicon running LLM/VLMs on<br>MLX.<br>&nbsp;<br>&nbsp;</p>
     </td>
     <td width="42%" valign="middle" align="center">
       <a href="https://github.com/waybarrios/vllm-mlx"><img src="GitTrendHub/assets/waybarrios_vllm-mlx_llm_engines.svg" alt="vllm-mlx stats" width="400"></a>
@@ -883,7 +883,7 @@
       <div>
         <a href="https://github.com/langchain-ai/langchain"><img src="GitTrendHub/assets/title_badges/title_langchain-ai_langchain_agents_e66c86a5.svg" alt="langchain" height="38"></a>
       </div>
-      <p style="line-height: 1.5;">The original Swiss Army Knife that turned every developer<br>into an AI engineer overnight. With more integrations than<br>your favorite app store, if it has an API, we’ve already<br>wra...</p>
+      <p style="line-height: 1.5;">LangChain: huge integration hub for LLM apps, tools, and<br>agents.<br>&nbsp;<br>&nbsp;</p>
     </td>
     <td width="42%" valign="middle" align="center">
       <a href="https://github.com/langchain-ai/langchain"><img src="GitTrendHub/assets/langchain-ai_langchain_agents.svg" alt="langchain stats" width="400"></a>
@@ -925,7 +925,7 @@
       <div>
         <a href="https://github.com/cline/cline"><img src="GitTrendHub/assets/title_badges/title_cline_cline_agents_b80bc351.svg" alt="cline" height="38"></a>
       </div>
-      <p style="line-height: 1.5;">Autonomous coding agent right in your IDE, capable of<br>creating/editing files, executing commands, using the<br>browser, and more with your permission every step of the<br>way.</p>
+      <p style="line-height: 1.5;">IDE-native autonomous coding agent with safe, step-by-step<br>permissions.<br>&nbsp;<br>&nbsp;</p>
     </td>
     <td width="42%" valign="middle" align="center">
       <a href="https://github.com/cline/cline"><img src="GitTrendHub/assets/cline_cline_agents.svg" alt="cline stats" width="400"></a>
@@ -967,7 +967,7 @@
       <div>
         <a href="https://github.com/crewAIInc/crewAI"><img src="GitTrendHub/assets/title_badges/title_crewAIInc_crewAI_agents_ed7074de.svg" alt="crewAI" height="38"></a>
       </div>
-      <p style="line-height: 1.5;">Framework for orchestrating role-playing, autonomous AI<br>agents. By fostering collaborative intelligence, CrewAI<br>empowers agents to work together seamlessly, tackling<br>complex tasks.</p>
+      <p style="line-height: 1.5;">Multi-agent orchestration for role-based collaboration on<br>complex tasks.<br>&nbsp;<br>&nbsp;</p>
     </td>
     <td width="42%" valign="middle" align="center">
       <a href="https://github.com/crewAIInc/crewAI"><img src="GitTrendHub/assets/crewAIInc_crewAI_agents.svg" alt="crewAI stats" width="400"></a>
@@ -1009,7 +1009,7 @@
       <div>
         <a href="https://github.com/khoj-ai/khoj"><img src="GitTrendHub/assets/title_badges/title_khoj-ai_khoj_agents_2677800d.svg" alt="khoj" height="38"></a>
       </div>
-      <p style="line-height: 1.5;">Your AI second brain. Self-hostable. Get answers from the<br>web or your docs. Build custom agents, schedule automations,<br>do deep research. Turn any online or local LLM into your<br>p...</p>
+      <p style="line-height: 1.5;">Self-hosted AI second brain for web/docs search, custom<br>agents, and automations.<br>&nbsp;<br>&nbsp;</p>
     </td>
     <td width="42%" valign="middle" align="center">
       <a href="https://github.com/khoj-ai/khoj"><img src="GitTrendHub/assets/khoj-ai_khoj_agents.svg" alt="khoj stats" width="400"></a>
@@ -1093,31 +1093,10 @@
       <div>
         <a href="https://github.com/Fosowl/agenticSeek"><img src="GitTrendHub/assets/title_badges/title_Fosowl_agenticSeek_agents_fdabdd0d.svg" alt="agenticSeek" height="38"></a>
       </div>
-      <p style="line-height: 1.5;">Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy<br>an autonomous agent that thinks, browses the web, and code<br>for the sole cost of electricity. 🔔 Official updates only...<br>&nbsp;</p>
+      <p style="line-height: 1.5;">Fully local autonomous agent that browses and codes without<br>API bills.<br>&nbsp;<br>&nbsp;</p>
     </td>
     <td width="42%" valign="middle" align="center">
       <a href="https://github.com/Fosowl/agenticSeek"><img src="GitTrendHub/assets/Fosowl_agenticSeek_agents.svg" alt="agenticSeek stats" width="400"></a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="right">
-      <a href="#agents"><kbd>🛠️ Back to Section</kbd></a> · <a href="#contents"><kbd>📑 Contents</kbd></a>
-    </td>
-  </tr>
-</table>
-<div style="height: 16px;"></div>
-
-
-<table width="100%" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="58%" valign="top">
-      <div>
-        <a href="https://github.com/zai-org/Open-AutoGLM"><img src="GitTrendHub/assets/title_badges/title_zai-org_Open-AutoGLM_agents_bb9389fa.svg" alt="Open-AutoGLM" height="38"></a>
-      </div>
-      <p style="line-height: 1.5;">An Open Phone Agent Model & Framework. Unlocking the AI<br>Phone for Everyone<br>&nbsp;<br>&nbsp;</p>
-    </td>
-    <td width="42%" valign="middle" align="center">
-      <a href="https://github.com/zai-org/Open-AutoGLM"><img src="GitTrendHub/assets/zai-org_Open-AutoGLM_agents.svg" alt="Open-AutoGLM stats" width="400"></a>
     </td>
   </tr>
   <tr>
@@ -1154,12 +1133,12 @@
   <tr>
     <td width="58%" valign="top">
       <div>
-        <a href="https://github.com/mastra-ai/mastra"><img src="GitTrendHub/assets/title_badges/title_mastra-ai_mastra_agents_20c83be9.svg" alt="mastra" height="38"></a>
+        <a href="https://github.com/zai-org/Open-AutoGLM"><img src="GitTrendHub/assets/title_badges/title_zai-org_Open-AutoGLM_agents_bb9389fa.svg" alt="Open-AutoGLM" height="38"></a>
       </div>
-      <p style="line-height: 1.5;">From the team behind Gatsby, Mastra is a framework for<br>building AI-powered applications and agents with a modern<br>TypeScript stack.<br>&nbsp;</p>
+      <p style="line-height: 1.5;">An Open Phone Agent Model & Framework. Unlocking the AI<br>Phone for Everyone<br>&nbsp;<br>&nbsp;</p>
     </td>
     <td width="42%" valign="middle" align="center">
-      <a href="https://github.com/mastra-ai/mastra"><img src="GitTrendHub/assets/mastra-ai_mastra_agents.svg" alt="mastra stats" width="400"></a>
+      <a href="https://github.com/zai-org/Open-AutoGLM"><img src="GitTrendHub/assets/zai-org_Open-AutoGLM_agents.svg" alt="Open-AutoGLM stats" width="400"></a>
     </td>
   </tr>
   <tr>
@@ -1175,12 +1154,12 @@
   <tr>
     <td width="58%" valign="top">
       <div>
-        <a href="https://github.com/openai/openai-agents-python"><img src="GitTrendHub/assets/title_badges/title_openai_openai-agents-python_agents_ab041301.svg" alt="openai-agents-python" height="38"></a>
+        <a href="https://github.com/mastra-ai/mastra"><img src="GitTrendHub/assets/title_badges/title_mastra-ai_mastra_agents_20c83be9.svg" alt="mastra" height="38"></a>
       </div>
-      <p style="line-height: 1.5;">A lightweight, powerful framework for multi-agent workflows<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
+      <p style="line-height: 1.5;">From the team behind Gatsby, Mastra is a framework for<br>building AI-powered applications and agents with a modern<br>TypeScript stack.<br>&nbsp;</p>
     </td>
     <td width="42%" valign="middle" align="center">
-      <a href="https://github.com/openai/openai-agents-python"><img src="GitTrendHub/assets/openai_openai-agents-python_agents.svg" alt="openai-agents-python stats" width="400"></a>
+      <a href="https://github.com/mastra-ai/mastra"><img src="GitTrendHub/assets/mastra-ai_mastra_agents.svg" alt="mastra stats" width="400"></a>
     </td>
   </tr>
   <tr>
@@ -1219,10 +1198,31 @@
       <div>
         <a href="https://github.com/ruvnet/ruflo"><img src="GitTrendHub/assets/title_badges/title_ruvnet_ruflo_agents_cd8a3665.svg" alt="ruflo" height="38"></a>
       </div>
-      <p style="line-height: 1.5;">🌊 The leading agent orchestration platform for Claude.<br>Deploy intelligent multi-agent swarms, coordinate autonomous<br>workflows, and build conversational AI systems. Features<br>e...</p>
+      <p style="line-height: 1.5;">Claude-focused orchestration for multi-agent swarms,<br>workflows, and RAG systems.<br>&nbsp;<br>&nbsp;</p>
     </td>
     <td width="42%" valign="middle" align="center">
       <a href="https://github.com/ruvnet/ruflo"><img src="GitTrendHub/assets/ruvnet_ruflo_agents.svg" alt="ruflo stats" width="400"></a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="right">
+      <a href="#agents"><kbd>🛠️ Back to Section</kbd></a> · <a href="#contents"><kbd>📑 Contents</kbd></a>
+    </td>
+  </tr>
+</table>
+<div style="height: 16px;"></div>
+
+
+<table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="58%" valign="top">
+      <div>
+        <a href="https://github.com/openai/openai-agents-python"><img src="GitTrendHub/assets/title_badges/title_openai_openai-agents-python_agents_ab041301.svg" alt="openai-agents-python" height="38"></a>
+      </div>
+      <p style="line-height: 1.5;">A lightweight, powerful framework for multi-agent workflows<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
+    </td>
+    <td width="42%" valign="middle" align="center">
+      <a href="https://github.com/openai/openai-agents-python"><img src="GitTrendHub/assets/openai_openai-agents-python_agents.svg" alt="openai-agents-python stats" width="400"></a>
     </td>
   </tr>
   <tr>
@@ -1261,7 +1261,7 @@
       <div>
         <a href="https://github.com/emcie-co/parlant"><img src="GitTrendHub/assets/title_badges/title_emcie-co_parlant_agents_26f1a10b.svg" alt="parlant" height="38"></a>
       </div>
-      <p style="line-height: 1.5;">The conversational control layer for customer-facing AI<br>agents - Parlant is a context-engineering framework<br>optimized for controlling customer interactions.<br>&nbsp;</p>
+      <p style="line-height: 1.5;">Control layer for customer-facing agents - context<br>engineering for safer dialogs.<br>&nbsp;<br>&nbsp;</p>
     </td>
     <td width="42%" valign="middle" align="center">
       <a href="https://github.com/emcie-co/parlant"><img src="GitTrendHub/assets/emcie-co_parlant_agents.svg" alt="parlant stats" width="400"></a>
@@ -1324,7 +1324,7 @@
       <div>
         <a href="https://github.com/raga-ai-hub/RagaAI-Catalyst"><img src="GitTrendHub/assets/title_badges/title_raga-ai-hub_RagaAI-Catalyst_agents_c9ed9c31.svg" alt="RagaAI-Catalyst" height="38"></a>
       </div>
-      <p style="line-height: 1.5;">Python SDK for Agent AI Observability, Monitoring and<br>Evaluation Framework. Includes features like agent, llm and<br>tools tracing, debugging multi-agentic system, self-hosted<br>dash...</p>
+      <p style="line-height: 1.5;">SDK for agent/LLM observability: tracing, debugging, and<br>analytics dashboards.<br>&nbsp;<br>&nbsp;</p>
     </td>
     <td width="42%" valign="middle" align="center">
       <a href="https://github.com/raga-ai-hub/RagaAI-Catalyst"><img src="GitTrendHub/assets/raga-ai-hub_RagaAI-Catalyst_agents.svg" alt="RagaAI-Catalyst stats" width="400"></a>
@@ -1511,6 +1511,27 @@
   <tr>
     <td width="58%" valign="top">
       <div>
+        <a href="https://github.com/openai/symphony"><img src="GitTrendHub/assets/title_badges/title_openai_symphony_agents_5a3766dd.svg" alt="symphony" height="38"></a>
+      </div>
+      <p style="line-height: 1.5;">Symphony turns project work into isolated, autonomous<br>implementation runs, allowing teams to manage work instead<br>of supervising coding agents.<br>&nbsp;</p>
+    </td>
+    <td width="42%" valign="middle" align="center">
+      <a href="https://github.com/openai/symphony"><img src="GitTrendHub/assets/openai_symphony_agents.svg" alt="symphony stats" width="400"></a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="right">
+      <a href="#agents"><kbd>🛠️ Back to Section</kbd></a> · <a href="#contents"><kbd>📑 Contents</kbd></a>
+    </td>
+  </tr>
+</table>
+<div style="height: 16px;"></div>
+
+
+<table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="58%" valign="top">
+      <div>
         <a href="https://github.com/Yeachan-Heo/oh-my-claudecode"><img src="GitTrendHub/assets/title_badges/title_Yeachan-Heo_oh-my-claudecode_agents_3bdb5cab.svg" alt="oh-my-claudecode" height="38"></a>
       </div>
       <p style="line-height: 1.5;">Teams-first Multi-agent orchestration for Claude Code<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
@@ -1555,7 +1576,7 @@
       <div>
         <a href="https://github.com/0x4m4/hexstrike-ai"><img src="GitTrendHub/assets/title_badges/title_0x4m4_hexstrike-ai_agents_2a23c15f.svg" alt="hexstrike-ai" height="38"></a>
       </div>
-      <p style="line-height: 1.5;">HexStrike AI MCP Agents is an advanced MCP server that lets<br>AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+<br>cybersecurity tools for automated pentesting, vulnerabil...<br>&nbsp;</p>
+      <p style="line-height: 1.5;">MCP server that lets agents run 150+ security tools for<br>automated pentesting.<br>&nbsp;<br>&nbsp;</p>
     </td>
     <td width="42%" valign="middle" align="center">
       <a href="https://github.com/0x4m4/hexstrike-ai"><img src="GitTrendHub/assets/0x4m4_hexstrike-ai_agents.svg" alt="hexstrike-ai stats" width="400"></a>
@@ -1597,10 +1618,31 @@
       <div>
         <a href="https://github.com/MemMachine/MemMachine"><img src="GitTrendHub/assets/title_badges/title_MemMachine_MemMachine_agents_7ecfe727.svg" alt="MemMachine" height="38"></a>
       </div>
-      <p style="line-height: 1.5;">Universal memory layer for AI Agents. It provides scalable,<br>extensible, and interoperable memory storage and retrieval<br>to streamline AI agent state management for<br>next-generatio...</p>
+      <p style="line-height: 1.5;">Interoperable memory layer for agents: store, retrieve, and<br>share state.<br>&nbsp;<br>&nbsp;</p>
     </td>
     <td width="42%" valign="middle" align="center">
       <a href="https://github.com/MemMachine/MemMachine"><img src="GitTrendHub/assets/MemMachine_MemMachine_agents.svg" alt="MemMachine stats" width="400"></a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="right">
+      <a href="#agents"><kbd>🛠️ Back to Section</kbd></a> · <a href="#contents"><kbd>📑 Contents</kbd></a>
+    </td>
+  </tr>
+</table>
+<div style="height: 16px;"></div>
+
+
+<table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="58%" valign="top">
+      <div>
+        <a href="https://github.com/ComposioHQ/agent-orchestrator"><img src="GitTrendHub/assets/title_badges/title_ComposioHQ_agent-orchestrator_agents_3ebdd3c3.svg" alt="agent-orchestrator" height="38"></a>
+      </div>
+      <p style="line-height: 1.5;">Parallel coding-agent orchestrator with planning, CI fixes,<br>and merge handling.<br>&nbsp;<br>&nbsp;</p>
+    </td>
+    <td width="42%" valign="middle" align="center">
+      <a href="https://github.com/ComposioHQ/agent-orchestrator"><img src="GitTrendHub/assets/ComposioHQ_agent-orchestrator_agents.svg" alt="agent-orchestrator stats" width="400"></a>
     </td>
   </tr>
   <tr>
@@ -1637,54 +1679,12 @@
   <tr>
     <td width="58%" valign="top">
       <div>
-        <a href="https://github.com/ComposioHQ/agent-orchestrator"><img src="GitTrendHub/assets/title_badges/title_ComposioHQ_agent-orchestrator_agents_3ebdd3c3.svg" alt="agent-orchestrator" height="38"></a>
-      </div>
-      <p style="line-height: 1.5;">Agentic orchestrator for parallel coding agents — plans<br>tasks, spawns agents, and autonomously handles CI fixes,<br>merge conflicts, and code reviews.<br>&nbsp;</p>
-    </td>
-    <td width="42%" valign="middle" align="center">
-      <a href="https://github.com/ComposioHQ/agent-orchestrator"><img src="GitTrendHub/assets/ComposioHQ_agent-orchestrator_agents.svg" alt="agent-orchestrator stats" width="400"></a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="right">
-      <a href="#agents"><kbd>🛠️ Back to Section</kbd></a> · <a href="#contents"><kbd>📑 Contents</kbd></a>
-    </td>
-  </tr>
-</table>
-<div style="height: 16px;"></div>
-
-
-<table width="100%" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="58%" valign="top">
-      <div>
         <a href="https://github.com/VibiumDev/vibium"><img src="GitTrendHub/assets/title_badges/title_VibiumDev_vibium_agents_639f7f44.svg" alt="vibium" height="38"></a>
       </div>
       <p style="line-height: 1.5;">The Fast & Furious of AI runtimes for low-latency junkies.<br>Built for agents that need to move as fast as your users<br>think.<br>&nbsp;</p>
     </td>
     <td width="42%" valign="middle" align="center">
       <a href="https://github.com/VibiumDev/vibium"><img src="GitTrendHub/assets/VibiumDev_vibium_agents.svg" alt="vibium stats" width="400"></a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="right">
-      <a href="#agents"><kbd>🛠️ Back to Section</kbd></a> · <a href="#contents"><kbd>📑 Contents</kbd></a>
-    </td>
-  </tr>
-</table>
-<div style="height: 16px;"></div>
-
-
-<table width="100%" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="58%" valign="top">
-      <div>
-        <a href="https://github.com/openai/symphony"><img src="GitTrendHub/assets/title_badges/title_openai_symphony_agents_5a3766dd.svg" alt="symphony" height="38"></a>
-      </div>
-      <p style="line-height: 1.5;">Symphony turns project work into isolated, autonomous<br>implementation runs, allowing teams to manage work instead<br>of supervising coding agents.<br>&nbsp;</p>
-    </td>
-    <td width="42%" valign="middle" align="center">
-      <a href="https://github.com/openai/symphony"><img src="GitTrendHub/assets/openai_symphony_agents.svg" alt="symphony stats" width="400"></a>
     </td>
   </tr>
   <tr>
@@ -1831,7 +1831,7 @@
       <div>
         <a href="https://github.com/purocean/yn"><img src="GitTrendHub/assets/title_badges/title_purocean_yn_cli_tools_1a51305e.svg" alt="yn" height="38"></a>
       </div>
-      <p style="line-height: 1.5;">A highly extensible Markdown editor. Version control, AI<br>Copilot, mind map, documents encryption, code snippet<br>running, integrated terminal, chart embedding, HTML applets,<br>Revea...</p>
+      <p style="line-height: 1.5;">Extensible Markdown editor with AI copilot, versioning, mind<br>maps, and macros.<br>&nbsp;<br>&nbsp;</p>
     </td>
     <td width="42%" valign="middle" align="center">
       <a href="https://github.com/purocean/yn"><img src="GitTrendHub/assets/purocean_yn_cli_tools.svg" alt="yn stats" width="400"></a>
@@ -1915,7 +1915,7 @@
       <div>
         <a href="https://github.com/smallcloudai/refact"><img src="GitTrendHub/assets/title_badges/title_smallcloudai_refact_cli_tools_a8302cab.svg" alt="refact" height="38"></a>
       </div>
-      <p style="line-height: 1.5;">AI Agent that handles engineering tasks end-to-end:<br>integrates with developers’ tools, plans, executes, and<br>iterates until it achieves a successful result.<br>&nbsp;</p>
+      <p style="line-height: 1.5;">AI agent that plans and executes engineering tasks<br>end-to-end.<br>&nbsp;<br>&nbsp;</p>
     </td>
     <td width="42%" valign="middle" align="center">
       <a href="https://github.com/smallcloudai/refact"><img src="GitTrendHub/assets/smallcloudai_refact_cli_tools.svg" alt="refact stats" width="400"></a>
@@ -1999,7 +1999,7 @@
       <div>
         <a href="https://github.com/jamubc/gemini-mcp-tool"><img src="GitTrendHub/assets/title_badges/title_jamubc_gemini-mcp-tool_cli_tools_2fa3ec78.svg" alt="gemini-mcp-tool" height="38"></a>
       </div>
-      <p style="line-height: 1.5;">MCP server that enables AI assistants to interact with<br>Google Gemini CLI, leveraging Gemini's massive token window<br>for large file analysis and codebase understanding<br>&nbsp;</p>
+      <p style="line-height: 1.5;">MCP server that plugs Gemini CLI into assistants for<br>huge-context analysis.<br>&nbsp;<br>&nbsp;</p>
     </td>
     <td width="42%" valign="middle" align="center">
       <a href="https://github.com/jamubc/gemini-mcp-tool"><img src="GitTrendHub/assets/jamubc_gemini-mcp-tool_cli_tools.svg" alt="gemini-mcp-tool stats" width="400"></a>
@@ -2041,7 +2041,7 @@
       <div>
         <a href="https://github.com/microsoft/responsible-ai-toolbox"><img src="GitTrendHub/assets/title_badges/title_microsoft_responsible-ai-toolbox_cli_tools_c12558c3.svg" alt="responsible-ai-toolbox" height="38"></a>
       </div>
-      <p style="line-height: 1.5;">Responsible AI Toolbox is a suite of tools providing model<br>and data exploration and assessment user interfaces and<br>libraries that enable a better understanding of AI systems.<br>Th...</p>
+      <p style="line-height: 1.5;">Responsible AI Toolbox: UIs and libs to explore models/data<br>and assess AI systems.<br>&nbsp;<br>&nbsp;</p>
     </td>
     <td width="42%" valign="middle" align="center">
       <a href="https://github.com/microsoft/responsible-ai-toolbox"><img src="GitTrendHub/assets/microsoft_responsible-ai-toolbox_cli_tools.svg" alt="responsible-ai-toolbox stats" width="400"></a>
@@ -2146,7 +2146,7 @@
       <div>
         <a href="https://github.com/cyberark/FuzzyAI"><img src="GitTrendHub/assets/title_badges/title_cyberark_FuzzyAI_cli_tools_4edfacf2.svg" alt="FuzzyAI" height="38"></a>
       </div>
-      <p style="line-height: 1.5;">A powerful tool for automated LLM fuzzing. It is designed to<br>help developers and security researchers identify and<br>mitigate potential jailbreaks in their LLM APIs.<br>&nbsp;</p>
+      <p style="line-height: 1.5;">Automated LLM fuzzing to uncover jailbreaks and weaknesses<br>in APIs.<br>&nbsp;<br>&nbsp;</p>
     </td>
     <td width="42%" valign="middle" align="center">
       <a href="https://github.com/cyberark/FuzzyAI"><img src="GitTrendHub/assets/cyberark_FuzzyAI_cli_tools.svg" alt="FuzzyAI stats" width="400"></a>
@@ -2293,7 +2293,7 @@
       <div>
         <a href="https://github.com/jonigl/mcp-client-for-ollama"><img src="GitTrendHub/assets/title_badges/title_jonigl_mcp-client-for-ollama_cli_tools_c1997444.svg" alt="mcp-client-for-ollama" height="38"></a>
       </div>
-      <p style="line-height: 1.5;">A text-based user interface (TUI) client for interacting<br>with MCP servers using Ollama. Features include agent mode,<br>multi-server, model switching, streaming responses, tool<br>man...</p>
+      <p style="line-height: 1.5;">TUI client for MCP servers via Ollama: multi-server, agent<br>mode, tools, streaming.<br>&nbsp;<br>&nbsp;</p>
     </td>
     <td width="42%" valign="middle" align="center">
       <a href="https://github.com/jonigl/mcp-client-for-ollama"><img src="GitTrendHub/assets/jonigl_mcp-client-for-ollama_cli_tools.svg" alt="mcp-client-for-ollama stats" width="400"></a>
@@ -2314,7 +2314,7 @@
       <div>
         <a href="https://github.com/probelabs/probe"><img src="GitTrendHub/assets/title_badges/title_probelabs_probe_cli_tools_5380e53e.svg" alt="probe" height="38"></a>
       </div>
-      <p style="line-height: 1.5;">AI-friendly semantic code search engine for large codebases.<br>Combines ripgrep speed with tree-sitter AST parsing. Powers<br>AI coding assistants with precise, context-aware code un...<br>&nbsp;</p>
+      <p style="line-height: 1.5;">Semantic code search using ripgrep + tree-sitter, built for<br>AI assistants.<br>&nbsp;<br>&nbsp;</p>
     </td>
     <td width="42%" valign="middle" align="center">
       <a href="https://github.com/probelabs/probe"><img src="GitTrendHub/assets/probelabs_probe_cli_tools.svg" alt="probe stats" width="400"></a>
@@ -2356,7 +2356,7 @@
       <div>
         <a href="https://github.com/SPThole/CoexistAI"><img src="GitTrendHub/assets/title_badges/title_SPThole_CoexistAI_cli_tools_bdfec52d.svg" alt="CoexistAI" height="38"></a>
       </div>
-      <p style="line-height: 1.5;">CoexistAI is a modular, developer-friendly research<br>assistant framework . It enables you to build, search,<br>summarize, and automate research workflows using LLMs, web<br>search, Red...</p>
+      <p style="line-height: 1.5;">Modular research assistant wiring LLMs to web, Reddit,<br>YouTube, and maps.<br>&nbsp;<br>&nbsp;</p>
     </td>
     <td width="42%" valign="middle" align="center">
       <a href="https://github.com/SPThole/CoexistAI"><img src="GitTrendHub/assets/SPThole_CoexistAI_cli_tools.svg" alt="CoexistAI stats" width="400"></a>
@@ -2377,7 +2377,7 @@
       <div>
         <a href="https://github.com/0xranx/OpenContext"><img src="GitTrendHub/assets/title_badges/title_0xranx_OpenContext_cli_tools_cb4cd0a0.svg" alt="OpenContext" height="38"></a>
       </div>
-      <p style="line-height: 1.5;">A personal context store for AI agents and assistants—reuse<br>your existing coding agent CLI (Codex/Claude/OpenCode) with<br>built‑in Skills/tools and a desktop GUI to capture, searc...<br>&nbsp;</p>
+      <p style="line-height: 1.5;">Personal context store for coding agents with skills/tools<br>and a desktop UI.<br>&nbsp;<br>&nbsp;</p>
     </td>
     <td width="42%" valign="middle" align="center">
       <a href="https://github.com/0xranx/OpenContext"><img src="GitTrendHub/assets/0xranx_OpenContext_cli_tools.svg" alt="OpenContext stats" width="400"></a>
@@ -2419,7 +2419,7 @@
       <div>
         <a href="https://github.com/chenhg5/cc-connect"><img src="GitTrendHub/assets/title_badges/title_chenhg5_cc-connect_cli_tools_229d1480.svg" alt="cc-connect" height="38"></a>
       </div>
-      <p style="line-height: 1.5;">Bridge local AI coding agents (Claude Code, Cursor, Gemini<br>CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk,<br>Slack, Telegram, Discord, LINE, WeChat Work). Chat with<br>you...</p>
+      <p style="line-height: 1.5;">Bridge local coding agents to chat apps<br>(Slack/Discord/Lark/etc.) for remote control.<br>&nbsp;<br>&nbsp;</p>
     </td>
     <td width="42%" valign="middle" align="center">
       <a href="https://github.com/chenhg5/cc-connect"><img src="GitTrendHub/assets/chenhg5_cc-connect_cli_tools.svg" alt="cc-connect stats" width="400"></a>
@@ -2440,7 +2440,7 @@
       <div>
         <a href="https://github.com/nwiizo/tfmcp"><img src="GitTrendHub/assets/title_badges/title_nwiizo_tfmcp_cli_tools_11d9dff4.svg" alt="tfmcp" height="38"></a>
       </div>
-      <p style="line-height: 1.5;">🌍 Terraform Model Context Protocol (MCP) Tool - An<br>experimental CLI tool that enables AI assistants to manage<br>and operate Terraform environments. Supports reading<br>Terraform conf...</p>
+      <p style="line-height: 1.5;">Terraform MCP CLI so assistants can read plans, apply<br>configs, and manage state.<br>&nbsp;<br>&nbsp;</p>
     </td>
     <td width="42%" valign="middle" align="center">
       <a href="https://github.com/nwiizo/tfmcp"><img src="GitTrendHub/assets/nwiizo_tfmcp_cli_tools.svg" alt="tfmcp stats" width="400"></a>
@@ -2482,7 +2482,7 @@
       <div>
         <a href="https://github.com/context-hub/generator"><img src="GitTrendHub/assets/title_badges/title_context-hub_generator_cli_tools_53ab6a1c.svg" alt="generator" height="38"></a>
       </div>
-      <p style="line-height: 1.5;">CTX: a tool that solves the context management gap when<br>working with LLMs like ChatGPT or Claude. It helps<br>developers organize and automatically collect information<br>from their c...</p>
+      <p style="line-height: 1.5;">CTX auto-collects codebase context into shareable docs for<br>LLMs.<br>&nbsp;<br>&nbsp;</p>
     </td>
     <td width="42%" valign="middle" align="center">
       <a href="https://github.com/context-hub/generator"><img src="GitTrendHub/assets/context-hub_generator_cli_tools.svg" alt="generator stats" width="400"></a>
@@ -2506,7 +2506,7 @@
       <div>
         <a href="https://github.com/AUTOMATIC1111/stable-diffusion-webui"><img src="GitTrendHub/assets/title_badges/title_AUTOMATIC1111_stable-diffusion-webui_art_vision_c0321de4.svg" alt="stable-diffusion-webui" height="38"></a>
       </div>
-      <p style="line-height: 1.5;">The Swiss Army knife of AI art—if a feature isn't here, it<br>probably doesn't exist yet. A UI so powerful it makes your<br>GPU sweat and your creativity explode.<br>&nbsp;</p>
+      <p style="line-height: 1.5;">Feature-rich Stable Diffusion web UI - the Swiss-army<br>dashboard for SD.<br>&nbsp;<br>&nbsp;</p>
     </td>
     <td width="42%" valign="middle" align="center">
       <a href="https://github.com/AUTOMATIC1111/stable-diffusion-webui"><img src="GitTrendHub/assets/AUTOMATIC1111_stable-diffusion-webui_art_vision.svg" alt="stable-diffusion-webui stats" width="400"></a>
@@ -2548,7 +2548,7 @@
       <div>
         <a href="https://github.com/invoke-ai/InvokeAI"><img src="GitTrendHub/assets/title_badges/title_invoke-ai_InvokeAI_art_vision_7f763e4d.svg" alt="InvokeAI" height="38"></a>
       </div>
-      <p style="line-height: 1.5;">Invoke is a leading creative engine for Stable Diffusion<br>models, empowering professionals, artists, and enthusiasts<br>to generate and create visual media using the latest<br>AI-drive...</p>
+      <p style="line-height: 1.5;">Stable Diffusion creative engine with a pro-grade web UI and<br>workflows.<br>&nbsp;<br>&nbsp;</p>
     </td>
     <td width="42%" valign="middle" align="center">
       <a href="https://github.com/invoke-ai/InvokeAI"><img src="GitTrendHub/assets/invoke-ai_InvokeAI_art_vision.svg" alt="InvokeAI stats" width="400"></a>
@@ -2653,7 +2653,7 @@
       <div>
         <a href="https://github.com/easydiffusion/easydiffusion"><img src="GitTrendHub/assets/title_badges/title_easydiffusion_easydiffusion_art_vision_977c064f.svg" alt="easydiffusion" height="38"></a>
       </div>
-      <p style="line-height: 1.5;">An easy 1-click way to create beautiful artwork on your PC<br>using AI, with no tech knowledge. Provides a browser UI for<br>generating images from text prompts and images. Just<br>enter...</p>
+      <p style="line-height: 1.5;">One-click Stable Diffusion on PC with a simple browser UI.<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
     </td>
     <td width="42%" valign="middle" align="center">
       <a href="https://github.com/easydiffusion/easydiffusion"><img src="GitTrendHub/assets/easydiffusion_easydiffusion_art_vision.svg" alt="easydiffusion stats" width="400"></a>
@@ -2674,7 +2674,7 @@
       <div>
         <a href="https://github.com/FoundationVision/VAR"><img src="GitTrendHub/assets/title_badges/title_FoundationVision_VAR_art_vision_56be687a.svg" alt="VAR" height="38"></a>
       </div>
-      <p style="line-height: 1.5;">Why diffuse when you can predict? Generative images that<br>think in visual next-tokens. The autoregressive revolution<br>that makes pixels feel as smart as language.<br>&nbsp;</p>
+      <p style="line-height: 1.5;">Autoregressive image generator that predicts visual tokens<br>instead of diffusion.<br>&nbsp;<br>&nbsp;</p>
     </td>
     <td width="42%" valign="middle" align="center">
       <a href="https://github.com/FoundationVision/VAR"><img src="GitTrendHub/assets/FoundationVision_VAR_art_vision.svg" alt="VAR stats" width="400"></a>
@@ -2758,7 +2758,7 @@
       <div>
         <a href="https://github.com/MochiDiffusion/MochiDiffusion"><img src="GitTrendHub/assets/title_badges/title_MochiDiffusion_MochiDiffusion_art_vision_c7a5b970.svg" alt="MochiDiffusion" height="38"></a>
       </div>
-      <p style="line-height: 1.5;">Native Stable Diffusion that makes your Mac’s Neural Engine<br>actually work for its living. Generating art so cool it<br>keeps your MacBook’s fans completely silent.<br>&nbsp;</p>
+      <p style="line-height: 1.5;">Native Stable Diffusion for macOS using the Neural Engine.<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
     </td>
     <td width="42%" valign="middle" align="center">
       <a href="https://github.com/MochiDiffusion/MochiDiffusion"><img src="GitTrendHub/assets/MochiDiffusion_MochiDiffusion_art_vision.svg" alt="MochiDiffusion stats" width="400"></a>
@@ -2884,7 +2884,7 @@
       <div>
         <a href="https://github.com/VectorSpaceLab/OmniGen"><img src="GitTrendHub/assets/title_badges/title_VectorSpaceLab_OmniGen_art_vision_7dfaf86e.svg" alt="OmniGen" height="38"></a>
       </div>
-      <p style="line-height: 1.5;">The everything bagel of diffusion models—one model for<br>generation, editing, and more. Why switch models when you<br>have a unified genius that does it all?<br>&nbsp;</p>
+      <p style="line-height: 1.5;">Unified diffusion model for generation and editing in one<br>model.<br>&nbsp;<br>&nbsp;</p>
     </td>
     <td width="42%" valign="middle" align="center">
       <a href="https://github.com/VectorSpaceLab/OmniGen"><img src="GitTrendHub/assets/VectorSpaceLab_OmniGen_art_vision.svg" alt="OmniGen stats" width="400"></a>
@@ -2905,7 +2905,7 @@
       <div>
         <a href="https://github.com/mcmonkeyprojects/SwarmUI"><img src="GitTrendHub/assets/title_badges/title_mcmonkeyprojects_SwarmUI_art_vision_abbaa520.svg" alt="SwarmUI" height="38"></a>
       </div>
-      <p style="line-height: 1.5;">SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion<br>Web-User-Interface, with an emphasis on making powertools<br>easily accessible, high performance, and extensibility.<br>&nbsp;</p>
+      <p style="line-height: 1.5;">Modular, high-performance Stable Diffusion Web UI for power<br>users.<br>&nbsp;<br>&nbsp;</p>
     </td>
     <td width="42%" valign="middle" align="center">
       <a href="https://github.com/mcmonkeyprojects/SwarmUI"><img src="GitTrendHub/assets/mcmonkeyprojects_SwarmUI_art_vision.svg" alt="SwarmUI stats" width="400"></a>
@@ -2947,7 +2947,7 @@
       <div>
         <a href="https://github.com/YILS-LIN/short-video-factory"><img src="GitTrendHub/assets/title_badges/title_YILS-LIN_short-video-factory_art_vision_1de8f893.svg" alt="short-video-factory" height="38"></a>
       </div>
-      <p style="line-height: 1.5;">The assembly line for viral content—just feed it an idea and<br>watch the TikToks roll out. Becoming a content creator while<br>you sleep; because the factory never takes a coffee break.<br>&nbsp;</p>
+      <p style="line-height: 1.5;">Automates short-video creation from ideas to clips - content<br>factory mode.<br>&nbsp;<br>&nbsp;</p>
     </td>
     <td width="42%" valign="middle" align="center">
       <a href="https://github.com/YILS-LIN/short-video-factory"><img src="GitTrendHub/assets/YILS-LIN_short-video-factory_art_vision.svg" alt="short-video-factory stats" width="400"></a>
@@ -2968,7 +2968,7 @@
       <div>
         <a href="https://github.com/QwenLM/Qwen3-Omni"><img src="GitTrendHub/assets/title_badges/title_QwenLM_Qwen3-Omni_art_vision_bca77dd9.svg" alt="Qwen3-Omni" height="38"></a>
       </div>
-      <p style="line-height: 1.5;">Qwen3-omni is a natively end-to-end, omni-modal LLM<br>developed by the Qwen team at Alibaba Cloud, capable of<br>understanding text, audio, images, and video, as well as<br>generating s...</p>
+      <p style="line-height: 1.5;">Qwen3 Omni: one model for text, audio, image, and video plus<br>realtime speech.<br>&nbsp;<br>&nbsp;</p>
     </td>
     <td width="42%" valign="middle" align="center">
       <a href="https://github.com/QwenLM/Qwen3-Omni"><img src="GitTrendHub/assets/QwenLM_Qwen3-Omni_art_vision.svg" alt="Qwen3-Omni stats" width="400"></a>
@@ -3010,7 +3010,7 @@
       <div>
         <a href="https://github.com/Lightricks/ComfyUI-LTXVideo"><img src="GitTrendHub/assets/title_badges/title_Lightricks_ComfyUI-LTXVideo_art_vision_5186e39b.svg" alt="ComfyUI-LTXVideo" height="38"></a>
       </div>
-      <p style="line-height: 1.5;">Wiring up the future of cinematic AI with node-based<br>precision. Maximum control for those who like their video<br>workflows like their pasta: spaghetti-style.<br>&nbsp;</p>
+      <p style="line-height: 1.5;">ComfyUI nodes for LTXVideo - cinematic video workflows in a<br>graph.<br>&nbsp;<br>&nbsp;</p>
     </td>
     <td width="42%" valign="middle" align="center">
       <a href="https://github.com/Lightricks/ComfyUI-LTXVideo"><img src="GitTrendHub/assets/Lightricks_ComfyUI-LTXVideo_art_vision.svg" alt="ComfyUI-LTXVideo stats" width="400"></a>
@@ -3052,7 +3052,7 @@
       <div>
         <a href="https://github.com/SamurAIGPT/AI-Youtube-Shorts-Generator"><img src="GitTrendHub/assets/title_badges/title_SamurAIGPT_AI-Youtube-Shorts-Generator_art_vision_60436526.svg" alt="AI-Youtube-Shorts-Generator" height="38"></a>
       </div>
-      <p style="line-height: 1.5;">A python tool that uses GPT-4, FFmpeg, and OpenCV to<br>automatically analyze videos, extract the most interesting<br>sections, and crop them for an improved viewing experience.<br>&nbsp;</p>
+      <p style="line-height: 1.5;">Auto-find highlights and crop videos into Shorts using GPT +<br>FFmpeg.<br>&nbsp;<br>&nbsp;</p>
     </td>
     <td width="42%" valign="middle" align="center">
       <a href="https://github.com/SamurAIGPT/AI-Youtube-Shorts-Generator"><img src="GitTrendHub/assets/SamurAIGPT_AI-Youtube-Shorts-Generator_art_vision.svg" alt="AI-Youtube-Shorts-Generator stats" width="400"></a>
@@ -3094,7 +3094,7 @@
       <div>
         <a href="https://github.com/NVIDIA/NeMo-Retriever"><img src="GitTrendHub/assets/title_badges/title_NVIDIA_NeMo-Retriever_art_vision_e8610eba.svg" alt="NeMo-Retriever" height="38"></a>
       </div>
-      <p style="line-height: 1.5;">NeMo Retriever Library is a scalable, performance-oriented<br>document content and metadata extraction microservice. NeMo<br>Retriever extraction uses specialized NVIDIA NIM<br>microserv...</p>
+      <p style="line-height: 1.5;">NeMo Retriever: microservices to extract<br>text/tables/charts/images for gen AI.<br>&nbsp;<br>&nbsp;</p>
     </td>
     <td width="42%" valign="middle" align="center">
       <a href="https://github.com/NVIDIA/NeMo-Retriever"><img src="GitTrendHub/assets/NVIDIA_NeMo-Retriever_art_vision.svg" alt="NeMo-Retriever stats" width="400"></a>
@@ -3178,7 +3178,7 @@
       <div>
         <a href="https://github.com/showlab/Paper2Video"><img src="GitTrendHub/assets/title_badges/title_showlab_Paper2Video_art_vision_b3a90e33.svg" alt="Paper2Video" height="38"></a>
       </div>
-      <p style="line-height: 1.5;">Turning dry academic PDFs into dynamic visual stories people<br>actually want to watch. Because reading 20 pages is hard,<br>but watching a 20-second summary is easy.<br>&nbsp;</p>
+      <p style="line-height: 1.5;">Turn papers into short videos with automatic summaries and<br>visuals.<br>&nbsp;<br>&nbsp;</p>
     </td>
     <td width="42%" valign="middle" align="center">
       <a href="https://github.com/showlab/Paper2Video"><img src="GitTrendHub/assets/showlab_Paper2Video_art_vision.svg" alt="Paper2Video stats" width="400"></a>
@@ -3241,7 +3241,7 @@
       <div>
         <a href="https://github.com/zhouxiaoka/autoclip"><img src="GitTrendHub/assets/title_badges/title_zhouxiaoka_autoclip_art_vision_a85793e7.svg" alt="autoclip" height="38"></a>
       </div>
-      <p style="line-height: 1.5;">Your AI film editor that has an uncanny knack for finding<br>the viral gold in your long footage. Extracting the best<br>moments without the ego of a Hollywood director.<br>&nbsp;</p>
+      <p style="line-height: 1.5;">AI editor that finds the best moments in long videos and<br>cuts them fast.<br>&nbsp;<br>&nbsp;</p>
     </td>
     <td width="42%" valign="middle" align="center">
       <a href="https://github.com/zhouxiaoka/autoclip"><img src="GitTrendHub/assets/zhouxiaoka_autoclip_art_vision.svg" alt="autoclip stats" width="400"></a>
@@ -3262,7 +3262,7 @@
       <div>
         <a href="https://github.com/showlab/Code2Video"><img src="GitTrendHub/assets/title_badges/title_showlab_Code2Video_art_vision_d0764102.svg" alt="Code2Video" height="38"></a>
       </div>
-      <p style="line-height: 1.5;">Turning boring logic into visual spectacles that explain<br>what your code actually does. Finally, a way to show<br>non-coders your beautiful backend logic in motion.<br>&nbsp;</p>
+      <p style="line-height: 1.5;">Turn code into explainer videos - logic-to-visual<br>walkthroughs.<br>&nbsp;<br>&nbsp;</p>
     </td>
     <td width="42%" valign="middle" align="center">
       <a href="https://github.com/showlab/Code2Video"><img src="GitTrendHub/assets/showlab_Code2Video_art_vision.svg" alt="Code2Video stats" width="400"></a>
@@ -3325,7 +3325,7 @@
       <div>
         <a href="https://github.com/Francis-Rings/StableAvatar"><img src="GitTrendHub/assets/title_badges/title_Francis-Rings_StableAvatar_art_vision_ec25c8a7.svg" alt="StableAvatar" height="38"></a>
       </div>
-      <p style="line-height: 1.5;">We present StableAvatar, the first end-to-end video<br>diffusion transformer, which synthesizes infinite-length<br>high-quality audio-driven avatar videos without any<br>post-processing,...</p>
+      <p style="line-height: 1.5;">End-to-end video diffusion for long, audio-driven avatar<br>videos from a reference image.<br>&nbsp;<br>&nbsp;</p>
     </td>
     <td width="42%" valign="middle" align="center">
       <a href="https://github.com/Francis-Rings/StableAvatar"><img src="GitTrendHub/assets/Francis-Rings_StableAvatar_art_vision.svg" alt="StableAvatar stats" width="400"></a>
@@ -3388,7 +3388,7 @@
       <div>
         <a href="https://github.com/llmsresearch/paperbanana"><img src="GitTrendHub/assets/title_badges/title_llmsresearch_paperbanana_art_vision_c6083cab.svg" alt="paperbanana" height="38"></a>
       </div>
-      <p style="line-height: 1.5;">Open source implementation and extension of Google<br>Research’s PaperBanana for automated academic figures,<br>diagrams, and research visuals, expanded to new domains like<br>slide gene...</p>
+      <p style="line-height: 1.5;">PaperBanana OSS: auto-generate research figures, diagrams,<br>and slides.<br>&nbsp;<br>&nbsp;</p>
     </td>
     <td width="42%" valign="middle" align="center">
       <a href="https://github.com/llmsresearch/paperbanana"><img src="GitTrendHub/assets/llmsresearch_paperbanana_art_vision.svg" alt="paperbanana stats" width="400"></a>
@@ -3409,7 +3409,7 @@
       <div>
         <a href="https://github.com/alichherawalla/off-grid-mobile-ai"><img src="GitTrendHub/assets/title_badges/title_alichherawalla_off-grid-mobile-ai_art_vision_4cb6a81d.svg" alt="off-grid-mobile-ai" height="38"></a>
       </div>
-      <p style="line-height: 1.5;">The Swiss Army Knife of Offline AI. Chat, Speak, and<br>Generate Images - Privacy First, Zero Internet. Download an<br>LLM and use it on your mobile device. No data ever leaves<br>your p...</p>
+      <p style="line-height: 1.5;">Offline mobile AI: chat, vision, and image gen on-device, no<br>internet required.<br>&nbsp;<br>&nbsp;</p>
     </td>
     <td width="42%" valign="middle" align="center">
       <a href="https://github.com/alichherawalla/off-grid-mobile-ai"><img src="GitTrendHub/assets/alichherawalla_off-grid-mobile-ai_art_vision.svg" alt="off-grid-mobile-ai stats" width="400"></a>
@@ -3451,7 +3451,7 @@
       <div>
         <a href="https://github.com/0xsline/StoryGen-Atelier"><img src="GitTrendHub/assets/title_badges/title_0xsline_StoryGen-Atelier_art_vision_efde6fb6.svg" alt="StoryGen-Atelier" height="38"></a>
       </div>
-      <p style="line-height: 1.5;">AI-assisted storyboard and video generation tool. Uses<br>Gemini for generating storyboard text and frames, Vertex AI<br>Veo for generating transition clips, and ffmpeg for<br>stitching...</p>
+      <p style="line-height: 1.5;">Storyboard-to-video pipeline: Gemini prompts, Veo clips,<br>ffmpeg stitching.<br>&nbsp;<br>&nbsp;</p>
     </td>
     <td width="42%" valign="middle" align="center">
       <a href="https://github.com/0xsline/StoryGen-Atelier"><img src="GitTrendHub/assets/0xsline_StoryGen-Atelier_art_vision.svg" alt="StoryGen-Atelier stats" width="400"></a>
@@ -3640,7 +3640,7 @@
       <div>
         <a href="https://github.com/NickPittas/DirectorsConsole"><img src="GitTrendHub/assets/title_badges/title_NickPittas_DirectorsConsole_art_vision_d03dbf3f.svg" alt="DirectorsConsole" height="38"></a>
       </div>
-      <p style="line-height: 1.5;">A web application for prompt generation and multiple ComfyUI<br>remote and local connections for image and video generation<br>in parallel in an infinite canvas<br>&nbsp;</p>
+      <p style="line-height: 1.5;">Infinite-canvas app for prompts and multiple ComfyUI<br>backends in parallel.<br>&nbsp;<br>&nbsp;</p>
     </td>
     <td width="42%" valign="middle" align="center">
       <a href="https://github.com/NickPittas/DirectorsConsole"><img src="GitTrendHub/assets/NickPittas_DirectorsConsole_art_vision.svg" alt="DirectorsConsole stats" width="400"></a>
@@ -3706,7 +3706,7 @@
       <div>
         <a href="https://github.com/huggingface/transformers"><img src="GitTrendHub/assets/title_badges/title_huggingface_transformers_frameworks_aa668d83.svg" alt="transformers" height="38"></a>
       </div>
-      <p style="line-height: 1.5;">🤗 Transformers: the model-definition framework for<br>state-of-the-art machine learning models in text, vision,<br>audio, and multimodal models, for both inference and<br>training.</p>
+      <p style="line-height: 1.5;">Transformers: the go-to library for state-of-the-art<br>text/vision/audio models.<br>&nbsp;<br>&nbsp;</p>
     </td>
     <td width="42%" valign="middle" align="center">
       <a href="https://github.com/huggingface/transformers"><img src="GitTrendHub/assets/huggingface_transformers_frameworks.svg" alt="transformers stats" width="400"></a>
@@ -3727,7 +3727,7 @@
       <div>
         <a href="https://github.com/langchain-ai/langchain"><img src="GitTrendHub/assets/title_badges/title_langchain-ai_langchain_frameworks_9015a229.svg" alt="langchain" height="38"></a>
       </div>
-      <p style="line-height: 1.5;">The original Swiss Army Knife that turned every developer<br>into an AI engineer overnight. With more integrations than<br>your favorite app store, if it has an API, we’ve already<br>wra...</p>
+      <p style="line-height: 1.5;">LangChain: huge integration hub for LLM apps, tools, and<br>agents.<br>&nbsp;<br>&nbsp;</p>
     </td>
     <td width="42%" valign="middle" align="center">
       <a href="https://github.com/langchain-ai/langchain"><img src="GitTrendHub/assets/langchain-ai_langchain_frameworks.svg" alt="langchain stats" width="400"></a>
@@ -3853,7 +3853,7 @@
       <div>
         <a href="https://github.com/crewAIInc/crewAI"><img src="GitTrendHub/assets/title_badges/title_crewAIInc_crewAI_frameworks_c946df01.svg" alt="crewAI" height="38"></a>
       </div>
-      <p style="line-height: 1.5;">Framework for orchestrating role-playing, autonomous AI<br>agents. By fostering collaborative intelligence, CrewAI<br>empowers agents to work together seamlessly, tackling<br>complex tasks.</p>
+      <p style="line-height: 1.5;">Multi-agent orchestration for role-based collaboration on<br>complex tasks.<br>&nbsp;<br>&nbsp;</p>
     </td>
     <td width="42%" valign="middle" align="center">
       <a href="https://github.com/crewAIInc/crewAI"><img src="GitTrendHub/assets/crewAIInc_crewAI_frameworks.svg" alt="crewAI stats" width="400"></a>
@@ -4000,7 +4000,7 @@
       <div>
         <a href="https://github.com/facebookresearch/audiocraft"><img src="GitTrendHub/assets/title_badges/title_facebookresearch_audiocraft_frameworks_614572c6.svg" alt="audiocraft" height="38"></a>
       </div>
-      <p style="line-height: 1.5;">Audiocraft is a library for audio processing and generation<br>with deep learning. It features the state-of-the-art EnCodec<br>audio compressor / tokenizer, along with MusicGen, a sim...<br>&nbsp;</p>
+      <p style="line-height: 1.5;">Audio generation toolkit with EnCodec plus MusicGen for<br>text/melody conditioning.<br>&nbsp;<br>&nbsp;</p>
     </td>
     <td width="42%" valign="middle" align="center">
       <a href="https://github.com/facebookresearch/audiocraft"><img src="GitTrendHub/assets/facebookresearch_audiocraft_frameworks.svg" alt="audiocraft stats" width="400"></a>
@@ -4126,7 +4126,7 @@
       <div>
         <a href="https://github.com/emcie-co/parlant"><img src="GitTrendHub/assets/title_badges/title_emcie-co_parlant_frameworks_6af10c22.svg" alt="parlant" height="38"></a>
       </div>
-      <p style="line-height: 1.5;">The conversational control layer for customer-facing AI<br>agents - Parlant is a context-engineering framework<br>optimized for controlling customer interactions.<br>&nbsp;</p>
+      <p style="line-height: 1.5;">Control layer for customer-facing agents - context<br>engineering for safer dialogs.<br>&nbsp;<br>&nbsp;</p>
     </td>
     <td width="42%" valign="middle" align="center">
       <a href="https://github.com/emcie-co/parlant"><img src="GitTrendHub/assets/emcie-co_parlant_frameworks.svg" alt="parlant stats" width="400"></a>
@@ -4210,7 +4210,7 @@
       <div>
         <a href="https://github.com/raga-ai-hub/RagaAI-Catalyst"><img src="GitTrendHub/assets/title_badges/title_raga-ai-hub_RagaAI-Catalyst_frameworks_09d2f8c2.svg" alt="RagaAI-Catalyst" height="38"></a>
       </div>
-      <p style="line-height: 1.5;">Python SDK for Agent AI Observability, Monitoring and<br>Evaluation Framework. Includes features like agent, llm and<br>tools tracing, debugging multi-agentic system, self-hosted<br>dash...</p>
+      <p style="line-height: 1.5;">SDK for agent/LLM observability: tracing, debugging, and<br>analytics dashboards.<br>&nbsp;<br>&nbsp;</p>
     </td>
     <td width="42%" valign="middle" align="center">
       <a href="https://github.com/raga-ai-hub/RagaAI-Catalyst"><img src="GitTrendHub/assets/raga-ai-hub_RagaAI-Catalyst_frameworks.svg" alt="RagaAI-Catalyst stats" width="400"></a>
@@ -4294,7 +4294,7 @@
       <div>
         <a href="https://github.com/confident-ai/deepeval"><img src="GitTrendHub/assets/title_badges/title_confident-ai_deepeval_frameworks_b8d3b775.svg" alt="deepeval" height="38"></a>
       </div>
-      <p style="line-height: 1.5;">Unit testing for LLMs because vibes-based testing isn't a<br>real production strategy. Quantitative sanity for your<br>qualitative prompts—don't ship without it.<br>&nbsp;</p>
+      <p style="line-height: 1.5;">LLM evaluation toolkit with unit tests, metrics, and<br>regression checks.<br>&nbsp;<br>&nbsp;</p>
     </td>
     <td width="42%" valign="middle" align="center">
       <a href="https://github.com/confident-ai/deepeval"><img src="GitTrendHub/assets/confident-ai_deepeval_frameworks.svg" alt="deepeval stats" width="400"></a>
@@ -4357,7 +4357,7 @@
       <div>
         <a href="https://github.com/langchain4j/langchain4j"><img src="GitTrendHub/assets/title_badges/title_langchain4j_langchain4j_frameworks_71097da8.svg" alt="langchain4j" height="38"></a>
       </div>
-      <p style="line-height: 1.5;">LangChain4j is an open-source Java library that simplifies<br>the integration of LLMs into Java applications through a<br>unified API, providing access to popular LLMs and vector<br>data...</p>
+      <p style="line-height: 1.5;">Java-first LangChain for LLMs, RAG, tools (incl MCP), and<br>agents via a unified API.<br>&nbsp;<br>&nbsp;</p>
     </td>
     <td width="42%" valign="middle" align="center">
       <a href="https://github.com/langchain4j/langchain4j"><img src="GitTrendHub/assets/langchain4j_langchain4j_frameworks.svg" alt="langchain4j stats" width="400"></a>
@@ -4462,7 +4462,7 @@
       <div>
         <a href="https://github.com/livekit/agents"><img src="GitTrendHub/assets/title_badges/title_livekit_agents_frameworks_66e70d9c.svg" alt="agents" height="38"></a>
       </div>
-      <p style="line-height: 1.5;">AI that doesn't just process—it listens, speaks, and vibes<br>with you in real-time. The heartbeat of conversational AI,<br>built for those who find latency to be a four-letter word.<br>&nbsp;</p>
+      <p style="line-height: 1.5;">LiveKit Agents: low-latency voice agents for realtime<br>conversational apps.<br>&nbsp;<br>&nbsp;</p>
     </td>
     <td width="42%" valign="middle" align="center">
       <a href="https://github.com/livekit/agents"><img src="GitTrendHub/assets/livekit_agents_frameworks.svg" alt="agents stats" width="400"></a>
@@ -4546,7 +4546,7 @@
       <div>
         <a href="https://github.com/OpenSPG/KAG"><img src="GitTrendHub/assets/title_badges/title_OpenSPG_KAG_frameworks_3fe74a56.svg" alt="KAG" height="38"></a>
       </div>
-      <p style="line-height: 1.5;">KAG is a logical form-guided reasoning and retrieval<br>framework based on OpenSPG engine and LLMs. It is used to<br>build logical reasoning and factual Q&A solutions for<br>professiona...</p>
+      <p style="line-height: 1.5;">Logic-guided reasoning plus retrieval for factual Q&A beyond<br>vector-only RAG.<br>&nbsp;<br>&nbsp;</p>
     </td>
     <td width="42%" valign="middle" align="center">
       <a href="https://github.com/OpenSPG/KAG"><img src="GitTrendHub/assets/OpenSPG_KAG_frameworks.svg" alt="KAG stats" width="400"></a>
@@ -4756,7 +4756,7 @@
       <div>
         <a href="https://github.com/JetBrains/koog"><img src="GitTrendHub/assets/title_badges/title_JetBrains_koog_frameworks_b12bc478.svg" alt="koog" height="38"></a>
       </div>
-      <p style="line-height: 1.5;">Koog is the official Kotlin framework for building<br>predictable, fault-tolerant and enterprise-ready AI agents<br>across all platforms – from backend services to Android and<br>iOS, JV...</p>
+      <p style="line-height: 1.5;">JetBrains Kotlin framework for reliable AI agents across<br>JVM, Android, iOS, and web.<br>&nbsp;<br>&nbsp;</p>
     </td>
     <td width="42%" valign="middle" align="center">
       <a href="https://github.com/JetBrains/koog"><img src="GitTrendHub/assets/JetBrains_koog_frameworks.svg" alt="koog stats" width="400"></a>
@@ -4772,7 +4772,7 @@
 
 
 <div align="center">
-  <img src="GitTrendHub/image5.jpg" alt="Contribute Banner" width="500">
+  <img src="GitTrendHub/image5.png" alt="Contribute Banner" width="500">
 </div>
 
 ---
@@ -4813,5 +4813,5 @@ Stay ahead of the curve with these curated AI resources.
 Data is retrieved using the GitHub REST API and GitHub Actions.
 
 <div align="right">
-  <i>✨ Last Generated: March 07, 2026 - 18:05 UTC</i>
+  <i>✨ Last Generated: March 08, 2026 - 13:14 UTC</i>
 </div>
