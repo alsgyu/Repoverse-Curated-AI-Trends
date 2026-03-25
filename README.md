@@ -4,16 +4,9 @@
 
 # AI TrendHub – The Pulse of Artificial Intelligence
 
-> 💡 **Specializing in AI:** This dashboard focuses exclusively on the rapidly evolving AI ecosystem, tracking the most impactful projects across engines, agents, and generative tools.
+**Specializing in AI:** This dashboard focuses exclusively on the rapidly evolving AI ecosystem, tracking the most impactful projects across engines, agents, and generative tools.
 
 </div>
-
----
-
-### 🔍 Search
-
-- **In this README:** Use <kbd>Ctrl</kbd>+<kbd>F</kbd> (Windows/Linux) or <kbd>Cmd</kbd>+<kbd>F</kbd> (Mac) to find repos or section names.
-- **From the terminal:** Run <code>python3 -m GitTrendHub.cli search "keyword"</code> from the repo root (e.g. <code>python3 -m GitTrendHub.cli search llama</code>). Requires a recent run of <code>python3 update_readme.py</code> to generate the index.
 
 ---
 
